@@ -56,7 +56,7 @@ Katz & Lazarsfeld (1955) показали, что pluralistic ignorance особ
 
 Pluralistic Ignorance — адаптация, ставшая **механизмом подавления**.
 
-## Дialectical mirror
+## Диалектическое зеркало
 
 Pluralistic Ignorance — это **фиксация на тезисе «все согласны»**. В [[Диалектическое и метафизическое мышление|диалектике]]:
 
