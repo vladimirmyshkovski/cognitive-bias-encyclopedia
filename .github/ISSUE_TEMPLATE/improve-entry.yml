@@ -1,0 +1,64 @@
+name: Improve Existing Entry
+description: Suggest improvements to an existing cognitive bias entry
+title: "[Improve]: "
+labels: ["enhancement", "improvement", "help wanted"]
+body:
+  - type: input
+    id: entry-name
+    attributes:
+      label: Which Entry to Improve
+      description: Name of the existing cognitive bias (must exist in ru/5. Каталог/)
+      placeholder: e.g., Confirmation Bias
+    validations:
+      required: true
+  - type: dropdown
+    id: improvement-type
+    attributes:
+      label: Type of Improvement
+      description: What kind of change are you proposing?
+      options:
+        - Add more real-world examples
+        - Strengthen philosophical parallels
+        - Add academic sources
+        - Improve evolutionary function explanation
+        - Clarify dialectical mirror section
+        - Fix typo or grammar
+        - Add missing cross-references
+        - Other (specify in description)
+    validations:
+      required: true
+  - type: textarea
+    id: current-state
+    attributes:
+      label: Current State
+      description: Quote the relevant section(s) from the existing entry that need improvement
+      placeholder: |
+        In the "## Mechanism" section, currently says:
+        "We tend to seek information..."
+      render: markdown
+    validations:
+      required: false
+  - type: textarea
+    id: proposed-change
+    attributes:
+      label: Proposed Change
+      description: Your suggested replacement or addition. Include references if applicable.
+      placeholder: |
+        Replace with:
+        "We tend to seek information that confirms our existing beliefs (Kunda, 1990). This involves four mechanisms:..."
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Supporting Sources
+      description: Academic sources supporting your proposed change
+    validations:
+      required: false
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why This Matters
+      description: Brief explanation of why this improvement is valuable
+    validations:
+      required: false

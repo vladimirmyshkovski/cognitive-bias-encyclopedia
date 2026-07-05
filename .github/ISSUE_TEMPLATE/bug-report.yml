@@ -1,0 +1,51 @@
+name: Bug Report
+description: Report broken links, typos, formatting issues, or other problems
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: input
+    id: file-path
+    attributes:
+      label: File or Section
+      description: Which file or section has the issue? (Provide path like ru/5. Каталог/Anchoring.md or section name)
+      placeholder: e.g., ru/5. Каталог/Confirmation Bias.md — ## Связанные искажения section
+    validations:
+      required: true
+  - type: dropdown
+    id: bug-type
+    attributes:
+      label: Type of Issue
+      options:
+        - Broken wiki-link
+        - Typo or grammar
+        - Formatting issue
+        - Incorrect information
+        - Missing source
+        - Duplicate content
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe what's wrong and what should be there instead
+      placeholder: |
+        The link [[Authority Bias]] at line 47 resolves incorrectly because it should be [[ru/5. Каталог/Authority Bias]].
+    validations:
+      required: true
+  - type: textarea
+    id: suggested-fix
+    attributes:
+      label: Suggested Fix (Optional)
+      description: If you have a specific correction in mind
+    validations:
+      required: false
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      description: Which language version has the issue?
+      placeholder: ru, en, or other
+    validations:
+      required: false

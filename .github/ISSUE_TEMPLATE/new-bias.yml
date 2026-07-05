@@ -1,0 +1,85 @@
+name: Suggest a New Cognitive Bias
+description: Propose adding a new cognitive bias entry to the encyclopedia
+title: "[New Bias]: "
+labels: ["enhancement", "new entry", "help wanted"]
+assignees: []
+body:
+  - type: input
+    id: bias-name
+    attributes:
+      label: Bias Name (English)
+      description: The standard English name of the cognitive bias
+      placeholder: e.g., Anchoring Effect
+    validations:
+      required: true
+  - type: input
+    id: aliases
+    attributes:
+      label: Aliases / Also Known As
+      description: Other names for this bias (comma-separated)
+      placeholder: e.g., anchoring bias, focalism
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which of the 6 categories does this bias fit?
+      options:
+        - judgment
+        - memory
+        - self
+        - social
+        - attention
+        - probability
+    validations:
+      required: true
+  - type: textarea
+    id: definition
+    attributes:
+      label: Brief Definition
+      description: 1-3 sentences describing the bias
+      placeholder: e.g., The tendency to rely too heavily on the first piece of information offered (the "anchor") when making decisions.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Academic Sources
+      description: At least 2 peer-reviewed papers or academic books. Include author, year, title, journal/publisher.
+      placeholder: |
+        1. Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131.
+        2. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
+    validations:
+      required: true
+  - type: textarea
+    id: real-example
+    attributes:
+      label: Real-World Example
+      description: A specific, concrete example showing this bias in action
+      placeholder: e.g., When negotiating a salary, the first number mentioned sets the anchor that both parties gravitate toward.
+    validations:
+      required: true
+  - type: textarea
+    id: related-biases
+    attributes:
+      label: Related Cognitive Biases
+      description: List 3-5 biases from the existing encyclopedia that are related (use exact names from ru/5. Каталог/)
+      placeholder: e.g., Confirmation Bias, Availability Heuristic, Halo Effect
+    validations:
+      required: true
+  - type: input
+    id: wikipedia
+    attributes:
+      label: Wikipedia URL
+      description: Link to the Wikipedia article on this bias (if exists)
+      placeholder: https://en.wikipedia.org/wiki/...
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Anything else worth knowing — evolutionary origin, philosophical parallels, mitigation strategies, your personal interest in this bias
+    validations:
+      required: false
