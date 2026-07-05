@@ -6,7 +6,7 @@
 
 **Также известно как:** halo effect, horn effect (обратный)
 **Категория:** суждение (оценка других)
-**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Availability Heuristic]], [[Attribution Errors]]
+**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Fundamental Attribution Error]]
 
 ---
 

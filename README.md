@@ -7,7 +7,7 @@
 
 ## Languages / Языки
 
-- 🇷🇺 **[Русский / Russian](ru/)** — 34 записи, полная версия
+- 🇷🇺 **[Русский / Russian](ru/)** — 41 запись, полная версия
 - 🇬🇧 **[English](en/)** — coming soon / в разработке
 
 > **Note**: All entries follow a strict 10-section template for consistent rendering (see [CONTRIBUTING.md](CONTRIBUTING.md)).
@@ -50,7 +50,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 - Quality checklist
 
 **Ways to contribute:**
-1. Add a missing bias (currently ~30 of ~180 known biases are documented)
+1. Add a missing bias (currently ~41 of ~180 known biases are documented)
 2. Improve an existing entry (add sources, examples, philosophical parallels)
 3. Translate to a new language (English is the next priority)
 4. Fix typos, broken links, formatting
@@ -64,9 +64,9 @@ Open an **Issue** or submit a **Pull Request**.
 | Metric | Value |
 |--------|-------|
 | Languages available | 1 (Russian) |
-| Total biases documented | 34 |
-| Coverage of known biases | ~19% (of ~180) |
-| Open priority items | ~20 |
+| Total biases documented | 41 |
+| Coverage of known biases | ~23% (of ~180) |
+| Open priority items | ~13 |
 
 See the [Taxonomy](ru/4. Таксономия.md) for the full master catalog.
 

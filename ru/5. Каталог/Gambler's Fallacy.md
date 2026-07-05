@@ -12,7 +12,7 @@ aliases:
 
 **Также известно как:** gambler's fallacy, Monte Carlo fallacy
 **Категория:** вероятность (случайные процессы)
-**Связанные:** [[Hot-hand Fallacy]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Base Rate Fallacy]], [[ru/5. Каталог/Hindsight Bias]]
+**Связанные:** [[ru/5. Каталог/Hot Hand Fallacy|Hot Hand Fallacy]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Base Rate Fallacy]], [[ru/5. Каталог/Hindsight Bias]]
 
 ---
 
@@ -89,7 +89,7 @@ Gambler's fallacy — это **застревание в ложном патте
 - [[ru/5. Каталог/Availability Heuristic]] — длинная серия запоминается ярко
 - [[ru/5. Каталог/Base Rate Fallacy]] — игнорирование общей статистики
 - [[ru/5. Каталог/Hindsight Bias]] — после события: «это было предсказуемо»
-- [[Hot-hand Fallacy]] — обратная ошибка: после серии побед кажется, что серия продолжится
+- [[ru/5. Каталог/Hot Hand Fallacy|Hot Hand Fallacy]] — обратная ошибка: после серии побед кажется, что серия продолжится
 
 ## Источники
 

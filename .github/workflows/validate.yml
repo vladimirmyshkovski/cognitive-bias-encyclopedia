@@ -1,0 +1,55 @@
+name: Validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  validate:
+    name: Validate catalog entries
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run validation
+        run: python3 .github/scripts/validate.py
+
+      - name: Run validation (verbose)
+        if: failure()
+        run: python3 .github/scripts/validate.py --verbose
+
+  stats:
+    name: Statistics
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Count entries
+        run: |
+          echo "## Catalog statistics" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          COUNT=$(ls ru/5.\ Каталог/ | wc -l)
+          echo "- Total catalog entries: **$COUNT**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### By category" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          for CAT in суждение память само социальное внимание вероятность; do
+            N=$(grep -l "Категория:\*\* $CAT" ru/5.\ Каталог/*.md 2>/dev/null | wc -l)
+            echo "- **$CAT**: $N" >> $GITHUB_STEP_SUMMARY
+          done
