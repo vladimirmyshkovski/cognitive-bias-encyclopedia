@@ -68,17 +68,7 @@ Open an **Issue** or submit a **Pull Request**.
 | Coverage of known biases | ~34% (of ~180) |
 | Open priority items | ~0 (Tier B закрыт!) |
 
-See the [Taxonomy](ru/4. Таксономия.md) for the full master catalog.
-
----
-
-## Related projects
-
-This encyclopedia is part of the broader **[Obsidian vault](https://github.com/vmyshkovski/obsidian-vault)** structure. The vault also contains:
-
-- **Encyclopedia of Marxism** (Энциклопедия марксизма)
-- **Encyclopedia of Cognitive Biases** (this project)
-- Personal notes, research, projects
+See the [Taxonomy](https://github.com/vladimirmyshkovski/cognitive-bias-encyclopedia/blob/main/ru/4.%20%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F.md) for the full master catalog.
 
 ---
 
