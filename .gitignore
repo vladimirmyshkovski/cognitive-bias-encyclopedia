@@ -1,0 +1,33 @@
+# Mega Sync может случайно подложить
+.DS_Store
+*.swp
+*.tmp
+*~
+Thumbs.db
+
+# Локальные резервные копии
+*.bak
+*.orig
+
+# Obsidian служебные файлы (если случайно окажутся в репо)
+.trash/
+.obsidian/
+
+# Editor backups
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+desktop.ini
+
+# Mega Sync
+.megaignore
+*.megapart
+*.megacache
