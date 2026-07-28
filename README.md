@@ -3,6 +3,8 @@
 **An open, multilingual encyclopedia of cognitive biases.**
 **Открытая многоязычная энциклопедия когнитивных искажений.**
 
+🌐 **[Live site → vladimirmyshkovski.github.io/cognitive-bias-site](https://vladimirmyshkovski.github.io/cognitive-bias-site/)**
+
 ---
 
 ## Languages / Языки
@@ -10,7 +12,7 @@
 - 🇷🇺 **[Русский / Russian](ru/)** — 61 запись, полная версия
 - 🇬🇧 **[English](en/)** — coming soon / в разработке
 
-> **Note**: All entries follow a strict 10-section template for consistent rendering (see [CONTRIBUTING.md](CONTRIBUTING.md)).
+> **Note**: All entries follow a strict 10-section template for consistent rendering (see [CONTRIBUTING.md](CONTRIBUTING.md)). The rendered website is built automatically from the Russian entries on every push to `main` (see [cognitive-bias-site](https://github.com/vladimirmyshkovski/cognitive-bias-site)).
 
 ---
 
