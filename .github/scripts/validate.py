@@ -29,7 +29,7 @@ REQUIRED_SECTIONS = [
     "## Пример",
     "## Механизм",
     "## Эволюционная функция",
-    "## Дialectical mirror",
+    "## Диалектическое зеркало",
     "## Философские параллели",
     "## Как поймать",
     "## Как смягчить",
@@ -152,7 +152,7 @@ def validate_entry(filepath, catalog_files, verbose=False):
 
     # ===== DIALECTICAL MIRROR =====
     dm_match = re.search(
-        r"## Дialectical mirror\n(.*?)(?=\n## |\n---\n|\Z)",
+        r"## Диалектическое зеркало\n(.*?)(?=\n## |\n---\n|\Z)",
         content,
         re.DOTALL,
     )
@@ -160,7 +160,7 @@ def validate_entry(filepath, catalog_files, verbose=False):
         dm_content = dm_match.group(1)
         if "Диалектическое и метафизическое мышление" not in dm_content:
             errors.append(
-                "Дialectical mirror: should link to "
+                "Диалектическое зеркало: should link to "
                 "[[Диалектическое и метафизическое мышление]]"
             )
 

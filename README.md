@@ -10,7 +10,7 @@
 ## Languages / Языки
 
 - 🇷🇺 **[Русский / Russian](ru/)** — 61 запись, полная версия
-- 🇬🇧 **[English](en/)** — coming soon / в разработке
+- 🇬🇧 **[English](en/)** — coming soon / в разработке (skeleton only, see `en/CONTRIBUTING.md`)
 
 > **Note**: All entries follow a strict 10-section template for consistent rendering (see [CONTRIBUTING.md](CONTRIBUTING.md)). The rendered website is built automatically from the Russian entries on every push to `main` (see [cognitive-bias-site](https://github.com/vladimirmyshkovski/cognitive-bias-site)).
 
