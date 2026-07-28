@@ -2,7 +2,7 @@
 **Date:** 2026-06-17
 **Domain:** `encyclopedia`
 
-# Dunning-Kruger Effect (Эффект Даннинга-Крюгера)
+# Dunning-Kruger (Эффект Даннинга-Крюгера)
 
 **Также известно как:** Dunning-Kruger syndrome, competence gap
 **Категория:** само (метапознание)
