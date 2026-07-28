@@ -78,6 +78,7 @@ Anchoring — это тень **первого впечатления**. В [[Д
 - [[ru/5. Каталог/Framing Effect]] — то же явление, но через формулировку
 - [[ru/5. Каталог/Availability Heuristic]] — «лёгкие примеры» часто являются якорями
 - [[Anchoring (Wikipedia)](https://en.wikipedia.org/wiki/Anchoring)
+- [[ru/5. Каталог/Choice Overload]] — слишком много якорей парализуют выбор
 
 ## Источники
 
