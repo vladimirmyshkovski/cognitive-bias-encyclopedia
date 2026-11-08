@@ -91,6 +91,6 @@ Sunk cost — это **застревание в тезисе «я вложил�
 ## Источники
 
 - Arkes, H. R., & Blumer, C. (1985). *The psychology of sunk cost*. Organizational Behavior and Human Decision Processes, 35(1), 124-140.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 30.
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 40 (Sunk Cost Fallacy).
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 23 (The Outside View), 32 (Keeping Score).
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 5 (Sunk Cost Fallacy).
 - [Wikipedia: Sunk cost](https://en.wikipedia.org/wiki/Sunk_cost)

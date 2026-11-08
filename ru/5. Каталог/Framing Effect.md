@@ -98,6 +98,6 @@ Framing effect — это **застревание в одном фрейме**,
 ## Источники
 
 - Tversky, A., & Kahneman, D. (1981). *The framing of decisions and the psychology of choice*. Science, 211(4481), 453-458.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 25.
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 19 (Framing).
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 34 (Frames and Reality), 26 (Prospect Theory).
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 42 (Framing).
 - [Wikipedia: Framing effect](https://en.wikipedia.org/wiki/Framing_effect)
