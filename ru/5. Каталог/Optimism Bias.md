@@ -107,6 +107,6 @@ Optimism bias — это **фиксация через мотивацию**, н�
 ## Источники
 
 - Weinstein, N. D. (1980). *Unrealistic optimism about future life events*. Journal of Personality and Social Psychology, 39(5), 806-820.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 11 (Availability and Emotion), 17.
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 25 (Optimism Bias).
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 23 (The Outside View), 24 (The Engine of Capitalism).
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 91 (Planning Fallacy).
 - [Wikipedia: Optimism bias](https://en.wikipedia.org/wiki/Optimism_bias)

@@ -105,6 +105,6 @@ Overconfidence — **застревание в тезисе** через игн�
 
 - Moore, D. A., & Healy, P. J. (2008). *The trouble with overconfidence*. Psychological Review, 115(2), 502-517.
 - Svenson, O. (1981). *Are we all less risky and more skillful than our fellow drivers?* Acta Psychologica, 47(2), 143-148.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 10, 23 (The Outside View).
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 19 (The Illusion of Understanding), 20 (The Illusion of Validity), 21 (Intuitions vs. Formulas), 23 (The Outside View).
 - Lichtenstein, S., Fischhoff, B., & Phillips, L. D. (1982). *Calibration of probabilities: The state of the art to 1980*. Journal of Forecasting, 1(1), 55-71.
 - [Wikipedia: Overconfidence](https://en.wikipedia.org/wiki/Overconfidence)

@@ -102,7 +102,7 @@ Planning fallacy — **застревание в тезисе** через иг�
 ## Источники
 
 - Kahneman, D., & Tversky, A. (1979). *Intuitive prediction: Biases and corrective procedures*. Management Science, 12.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 10 (The Law of Small Numbers), ch. 23 (The Outside View).
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 23 (The Outside View), 19 (The Illusion of Understanding).
 - Flyvbjerg, B. (2009). *Overconfidence, planning fallacy, and budgeting bias in projects*. Project Management Journal.
 - Buechel, E. C., Seligman, J. D., & Finkelstein, S. R. (2018). *Foretelling the future: The valence of an analogy affects perceived planning difficulty*. Journal of Experimental Psychology.
 - [Wikipedia: Planning fallacy](https://en.wikipedia.org/wiki/Planning_fallacy)
