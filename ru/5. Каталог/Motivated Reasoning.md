@@ -90,6 +90,6 @@ Motivated reasoning — это **застревание в тезисе чере
 ## Источники
 
 - Kunda, Z. (1990). *The case for motivated reasoning*. Psychological Bulletin, 108(3), 480-498.
-- Haidt, J. (2012). *The Righteous Mind: Why Good People Are Divided by Politics and Religion*. Ch. 7.
+- Haidt, J. (2012). *The Righteous Mind: Why Good People Are Divided by Politics and Religion*. Ch. 2 (The Intuitive Dog and Its Rational Tail).
 - Kahan, D. M. (2013). *Ideology, motivated reasoning, and cognitive reflection*. Judgment and Decision Making, 8(4), 407-424.
 - [Wikipedia: Motivated reasoning](https://en.wikipedia.org/wiki/Motivated_reasoning)
