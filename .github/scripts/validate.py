@@ -22,7 +22,7 @@ REPO_ROOT = SCRIPT_DIR.parent.parent
 RU_DIR = REPO_ROOT / "ru"
 CATALOG_DIR = RU_DIR / "5. Каталог"
 TAXONOMY = RU_DIR / "4. Таксономия.md"
-AGENTS = RU_DIR / "AGENTS.md"
+CONTRIBUTING = RU_DIR / "CONTRIBUTING.md"
 
 REQUIRED_SECTIONS = [
     "## Определение",
@@ -44,7 +44,7 @@ EXTERNAL_LINKS = {
     "Диалектическое и метафизическое мышление",
     "Доказательство отсутствия Бога как создателя",
     "Система — Теги",
-    "AGENTS",
+    "CONTRIBUTING",
     "README",
     "Энциклопедия когнитивных искажений",
     "4. Таксономия",
@@ -210,6 +210,14 @@ def main():
     if not CATALOG_DIR.exists():
         print(f"ERROR: Catalog directory not found: {CATALOG_DIR}")
         sys.exit(2)
+
+    # Каталог ссылается на эти два файла — если их переименуют, ссылки станут
+    # битыми, а валидатор об этом не узнает.
+    for required in (CONTRIBUTING, TAXONOMY):
+        if not required.exists():
+            print(f"ERROR: Required file not found: {required}")
+            print("       If it was renamed, update this script and the links to it.")
+            sys.exit(2)
 
     catalog_files = get_catalog_files()
     catalog_list = sorted(CATALOG_DIR.glob("*.md"))
