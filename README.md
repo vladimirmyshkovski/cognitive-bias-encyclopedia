@@ -50,17 +50,22 @@ Each language directory contains:
 `repository_dispatch` в [cognitive-bias-site](https://github.com/vladimirmyshkovski/cognitive-bias-site),
 и тот пересобирает и публикует сайт на GitHub Pages.
 
-**Чтобы это работало**, в этом репозитории нужен секрет
-`SITE_DISPATCH_TOKEN` — fine-grained PAT с правом **Contents: Read and write**
-на репозиторий `vladimirmyshkovski/cognitive-bias-site`.
+**Чтобы это работало**, в этом репозитории нужен секрет `SITE_DISPATCH_TOKEN` —
+токен с правом на вызов `repository_dispatch` в репозиторий
+`vladimirmyshkovski/cognitive-bias-site` (нужен скоуп `repo`).
 
 > **Settings → Secrets and variables → Actions → New repository secret**
 >
 > - Name: `SITE_DISPATCH_TOKEN`
 > - Secret: значение PAT
 
-Если секрет не задан, workflow не падает — он пишет warning в лог и пропускает
-пересборку. Сайт при этом просто не обновится автоматически.
+Секрет настроен (2026-11-08). Если секрет не задан, workflow не падает — он пишет
+warning в лог и пропускает пересборку. Сайт при этом просто не обновится автоматически.
+
+> **Узкий вариант.** Сейчас используется classic PAT общего назначения — у него
+> скоупы шире, чем нужно для одной задачи. Минимально достаточная замена:
+> fine-grained PAT на `cognitive-bias-site` с правом **Contents: Read and write**
+> (или **Actions: Read and write**) и сроком действия в несколько месяцев.
 
 Обратная связь работает в одну сторону: пуш в сайт не трогает контент.
 
