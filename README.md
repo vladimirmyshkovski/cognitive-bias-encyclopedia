@@ -44,6 +44,28 @@ Each language directory contains:
 
 ---
 
+## Deployment / Деплой
+
+Сайт собирается автоматически: пуш в `main` этого репозитория отправляет
+`repository_dispatch` в [cognitive-bias-site](https://github.com/vladimirmyshkovski/cognitive-bias-site),
+и тот пересобирает и публикует сайт на GitHub Pages.
+
+**Чтобы это работало**, в этом репозитории нужен секрет
+`SITE_DISPATCH_TOKEN` — fine-grained PAT с правом **Contents: Read and write**
+на репозиторий `vladimirmyshkovski/cognitive-bias-site`.
+
+> **Settings → Secrets and variables → Actions → New repository secret**
+>
+> - Name: `SITE_DISPATCH_TOKEN`
+> - Secret: значение PAT
+
+Если секрет не задан, workflow не падает — он пишет warning в лог и пропускает
+пересборку. Сайт при этом просто не обновится автоматически.
+
+Обратная связь работает в одну сторону: пуш в сайт не трогает контент.
+
+---
+
 ## How to contribute
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:

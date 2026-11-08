@@ -1,0 +1,45 @@
+name: Notify site to rebuild
+
+# Контент живёт отдельно от сайта: пуш сюда не собирает cognitive-bias-site.
+# Этот workflow отправляет repository_dispatch в репозиторий сайта, чтобы
+# пересборка происходила автоматически.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  dispatch:
+    name: Trigger site rebuild
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check for dispatch token
+        id: token
+        env:
+          DISPATCH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "${DISPATCH_TOKEN}" ]; then
+            echo "::warning::SITE_DISPATCH_TOKEN не настроен — пересборка сайта не запущена. См. README, раздел «Автоматическая пересборка сайта»."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Dispatch to cognitive-bias-site
+        if: steps.token.outputs.skip != 'true'
+        env:
+          DISPATCH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+          REF: ${{ github.sha }}
+        run: |
+          curl --fail-with-body -sS -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${DISPATCH_TOKEN}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/vladimirmyshkovski/cognitive-bias-site/dispatches \
+            -d "{\"event_type\":\"content-update\",\"client_payload\":{\"ref\":\"${REF}\"}}"
+          echo "::notice::Пересборка cognitive-bias-site запущена для ${REF}"
