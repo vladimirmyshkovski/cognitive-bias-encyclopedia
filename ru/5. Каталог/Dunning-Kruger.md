@@ -96,4 +96,4 @@ Dunning-Kruger — это тень **самоуверенности**. В [[Ди
 - Kruger, J., & Dunning, D. (1999). *Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments*. Journal of Personality and Social Psychology, 77(6), 1121-1134.
 - Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 19 (The Illusion of Understanding), 20 (The Illusion of Validity), 21 (Intuitions vs. Formulas).
 - [Wikipedia: Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 39 (The Dunning-Kruger Effect).
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 15 (Overconfidence Effect), 94 (Illusion of Skill).

@@ -92,5 +92,5 @@ Dissonance — это **фиксация тезиса через искажен�
 
 - Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
 - Aronson, E. (1969). *The Theory of Cognitive Dissonance: A Current Perspective*. Cognitive Dissonance: Progress.
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 11 (Cognitive Dissonance).
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 50 (Cognitive Dissonance).
 - [Wikipedia: Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance)

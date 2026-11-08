@@ -85,5 +85,5 @@ Hindsight bias — это **застревание в тезисе «я знал
 
 - Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 19 (The Illusion of Understanding), 7 (A Machine for Jumping to Conclusions).
 - Fischhoff, B. (1975). *I knew it would happen: Remembered probabilities of once-future things*. Organizational Behavior and Human Performance, 13(1), 1-16.
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 31 (Hindsight Bias).
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 14 (Hindsight Bias).
 - [Wikipedia: Hindsight bias](https://en.wikipedia.org/wiki/Hindsight_bias)

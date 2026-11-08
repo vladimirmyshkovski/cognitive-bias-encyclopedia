@@ -83,5 +83,5 @@ Availability heuristic — это тень **«привычное = частое
 
 - Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 12 (The Science of Availability), 13 (Availability, Emotion, and Risk).
 - Tversky, A., & Kahneman, D. (1973). *Availability: A heuristic for judging frequency and probability*. Cognitive Psychology, 5(2), 207-232.
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 13 (Availability Bias).
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 11 (Availability Bias).
 - [Wikipedia: Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
