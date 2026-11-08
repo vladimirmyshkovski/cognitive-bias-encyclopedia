@@ -60,5 +60,5 @@ en/
 ## See also
 
 - `ru/CONTRIBUTING.md` — original Russian rules and template
-- `AGENTS.md` (root) — vault-wide instructions
+- `AGENTS.md` (Obsidian vault root, outside this repo) — vault-wide instructions
 - `README.md` — project overview

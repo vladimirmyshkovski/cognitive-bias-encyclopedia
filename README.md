@@ -32,7 +32,8 @@ Each language directory contains:
 
 ```
 <lang>/
-├── AGENTS.md              ← rules for AI agents adding new entries
+├── CONTRIBUTING.md         ← rules for adding new entries (was AGENTS.md)
+├── AGENTS.md               ← rules for AI agents (English edition only)
 ├── 0. Ресурсы / Resources.md
 ├── 1. Введение / Introduction.md
 ├── 2. Эволюционные корни / Evolutionary Roots.md
