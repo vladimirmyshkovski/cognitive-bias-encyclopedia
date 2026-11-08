@@ -50,7 +50,7 @@ All notable changes to the Cognitive Bias Encyclopedia are documented here. Form
 
 ### Content quality
 
-- Fixed 5 quote attribution errors: 
+- Fixed 5 quote attribution errors:
   - `Reactance`: Сартр → Камю (`L'Homme révolté` is Camus, not Sartre)
   - `Cognitive Dissonance`: rephrased dubious Nietzsche quote as paraphrase
   - `Motivated Reasoning`: rephrased dubious Nietzsche quote as paraphrase
