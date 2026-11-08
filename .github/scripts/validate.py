@@ -5,6 +5,7 @@ Validate cognitive bias entries against the canonical template.
 Usage:
     python3 .github/scripts/validate.py
     python3 .github/scripts/validate.py --verbose
+    python3 .github/scripts/validate.py --strict
 
 Exit codes:
     0 — all entries valid
@@ -39,6 +40,23 @@ REQUIRED_SECTIONS = [
 
 VALID_CATEGORIES = ["суждение", "память", "само", "социальное", "внимание", "вероятность"]
 
+# Нижние границы объёма секций. Взяты из фактического распределения по
+# текущему каталогу (p10, округление вниз до 5 слов): ниже этого раздел
+# перестаёт выполнять свою функцию. Верхние границы — ориентир, их
+# превышение не считается ошибкой.
+SECTION_MIN_WORDS = {
+    "Определение": 25,
+    "Пример": 85,
+    "Механизм": 65,
+    "Эволюционная функция": 40,
+    "Диалектическое зеркало": 50,
+    "Философские параллели": 55,
+    "Как поймать": 40,
+    "Как смягчить": 55,
+}
+
+WORD_RE = re.compile(r"[\wЀ-ӿ]+", re.UNICODE)
+
 # External links to ignore (not part of encyclopedia catalog)
 EXTERNAL_LINKS = {
     "Диалектическое и метафизическое мышление",
@@ -64,9 +82,28 @@ def get_catalog_files():
     return {f.stem for f in CATALOG_DIR.glob("*.md")}
 
 
-def validate_entry(filepath, catalog_files, verbose=False):
-    """Validate a single catalog entry. Returns list of errors."""
+def section_word_counts(content):
+    """Map section name -> word count for the eight content sections.
+
+    Counts words in the section body, excluding the heading itself and
+    excluding the trailing `## Связанные искажения` / `## Источники`.
+    """
+    counts = {}
+    for name in SECTION_MIN_WORDS:
+        m = re.search(
+            r"^## %s\s*\n(.*?)(?=^## |\Z)" % re.escape(name),
+            content,
+            re.DOTALL | re.MULTILINE,
+        )
+        if m:
+            counts[name] = len(WORD_RE.findall(m.group(1)))
+    return counts
+
+
+def validate_entry(filepath, catalog_files, verbose=False, strict=False):
+    """Validate a single catalog entry. Returns (errors, warnings)."""
     errors = []
+    warnings = []
     filename = filepath.name
 
     with open(filepath, "r", encoding="utf-8") as f:
@@ -201,11 +238,24 @@ def validate_entry(filepath, catalog_files, verbose=False):
                 f"(need ≥3 for Антиизоляция)"
             )
 
-    return errors
+    # ===== SECTION LENGTH =====
+    counts = section_word_counts(content)
+    for name, minimum in SECTION_MIN_WORDS.items():
+        actual = counts.get(name)
+        if actual is None:
+            errors.append(f"Длина: секция '{name}' не найдена")
+            continue
+        if actual < minimum:
+            msg = f"Длина: '{name}' — {actual} слов, минимум {minimum}"
+            # strict — ошибка (CI падает); обычный режим — предупреждение
+            (errors if strict else warnings).append(msg)
+
+    return errors, warnings
 
 
 def main():
     verbose = "--verbose" in sys.argv or "-v" in sys.argv
+    strict = "--strict" in sys.argv
 
     if not CATALOG_DIR.exists():
         print(f"ERROR: Catalog directory not found: {CATALOG_DIR}")
@@ -227,12 +277,31 @@ def main():
     print()
 
     all_errors = {}
+    all_warnings = {}
     for filepath in catalog_list:
         if verbose:
             print(f"📄 {filepath.name}")
-        errors = validate_entry(filepath, catalog_files, verbose=verbose)
+        errors, warnings = validate_entry(
+            filepath, catalog_files, verbose=verbose, strict=strict
+        )
         if errors:
             all_errors[filepath.name] = errors
+        if warnings:
+            all_warnings[filepath.name] = warnings
+
+    if all_warnings:
+        print(f"⚠️  Length warnings: {len(all_warnings)} file(s) below the minimum")
+        print()
+        for filename, warnings in sorted(all_warnings.items()):
+            print(f"📄 {filename}:")
+            for warning in warnings:
+                print(f"   - {warning}")
+            print()
+        if not strict:
+            print(
+                "   (warnings only — pass --strict to fail on these; "
+                "the minimum ranges live in ru/CONTRIBUTING.md §3.4)\n"
+            )
 
     print()
     if all_errors:
@@ -251,6 +320,8 @@ def main():
         print("   - Wiki-links resolve to existing files")
         print("   - At least 3 sources (2 academic + Wikipedia)")
         print("   - Dialectical mirror section present")
+        if not strict and all_warnings:
+            print(f"   - {len(all_warnings)} file(s) below the section length minimum")
         sys.exit(0)
 
 
