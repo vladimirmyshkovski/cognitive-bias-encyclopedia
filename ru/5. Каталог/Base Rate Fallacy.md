@@ -90,5 +90,5 @@ Base rate fallacy — это **замещение общего частным**,
 ## Источники
 
 - Tversky, A., & Kahneman, D. (1973). *Availability: A heuristic for judging frequency and probability*. Cognitive Psychology, 5(2), 207-232.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 10 (The Law of Small Numbers), 14.
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 10 (The Law of Small Numbers), 14 (Tom W's Specialty).
 - [Wikipedia: Base rate fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy)

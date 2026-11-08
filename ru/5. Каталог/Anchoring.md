@@ -82,7 +82,7 @@ Anchoring — это тень **первого впечатления**. В [[Д
 
 ## Источники
 
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 2, 11.
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 11 (Anchors).
 - Tversky, A., & Kahneman, D. (1974). *Judgment under uncertainty: Heuristics and biases*. Science, 185(4157), 1124-1131.
 - Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 36 (Anchoring).
 - [Wikipedia: Anchoring](https://en.wikipedia.org/wiki/Anchoring)
