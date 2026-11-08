@@ -9,9 +9,29 @@ All notable changes to the Cognitive Bias Encyclopedia are documented here. Form
 ### Added
 
 - **Автоматическая пересборка сайта**: workflow `notify-site.yml` отправляет `repository_dispatch` типа `content-update` в `cognitive-bias-site` при каждом пуше в `main`. Требуется секрет `SITE_DISPATCH_TOKEN` (fine-grained PAT с правом Contents: Read and write на репозиторий сайта); без него пересборка пропускается с warning, CI не падает
+- **Восемь новых записей** из тира 🟡 среднего приоритета (покрытие 34% → 38%):
+  - `Peak-End Rule` — оценка опыта по пику и концу, а не по длительности
+  - `Mere Exposure Effect` — симпатия к тому, что мы видим часто
+  - `Conjunction Fallacy` — «A и B» кажется вероятнее, чем A
+  - `Serial Position Effect` — преемственность и свежесть в запоминании последовательностей
+  - `Actor-Observer Bias` — свои действия объясняем ситуацией, чужие — чертами
+  - `Rosy Retrospection` — прошлое вспоминается лучше, чем было
+  - `Looking-Glass Self` — образ себя через взгляд других (Кули)
+  - `Conservatism` — недостаточное пересматривание убеждений
+- **Проверка длины секций** в `.github/scripts/validate.py`: подсчёт слов по восьми контентным секциям и сравнение с минимумом из `ru/CONTRIBUTING.md` §3.4. Обычный запуск даёт предупреждения, `--strict` превращает их в ошибку
+- **Перекрёстные ссылки** из восьми существующих записей на новые — по правилу антиизоляции (CONTRIBUTING §6.3)
+
+### Changed
+
+- **Контракт объёма секций** в `ru/CONTRIBUTING.md` §3.4 переписан: вместо недостижимых 100–200 / 200–400 слов — фактические границы p10–p90 по текущим 69 записям. Старый контракт не выполнялся ни одной записью ни в одной из восьми секций
 
 ### Fixed
 
+- **Атрибуции глав** в 22 записях сверены с первоисточниками (PDF-сканы `Thinking, Fast and Slow` и `The Art of Thinking Clearly`, оглавления извлечены `pdftotext`):
+  - Kahneman: `Anchoring` (Ch. 2, 11 → Ch. 11), `Availability Heuristic` (→ Ch. 12, 13), `Base Rate Fallacy` (Ch. 14 без названия → с названием), `Dunning-Kruger` (Ch. 24 → Ch. 19, 20, 21), `Overconfidence Effect` (→ Ch. 19, 20, 21, 23), `Planning Fallacy`, `Optimism Bias`, `Illusion of Control`, `Hindsight Bias`, `Halo Effect` (несуществующее «Ch. 14 (Daniel Kahneman's Bio)» → Ch. 7), `Survivorship Bias` (несуществующее «Ch. 8 (Little Strokes of Fortune)» → Ch. 7), `Self-serving Bias` (→ Ch. 35), `Confirmation Bias` (→ Ch. 7, 23), `Framing Effect` (Ch. 25 → Ch. 34, 26), `Loss Aversion`, `Sunk Cost Fallacy` (Ch. 30 → Ch. 23, 32)
+  - Dobelli: номера глав исправлены на английское издание 2013 года (99 глав) во всех 12 затронутых записях — в каталоге стояли номера из немецкого издания (52 главы) или выдуманные
+  - Haidt: `Motivated Reasoning` (Ch. 7 → Ch. 2 «The Intuitive Dog and Its Rational Tail»)
+- **29 секций в 21 записи** дописаны до минимума контракта: механизмы, философские параллели, диалектические зеркала, примеры и приёмы смягчения
 - **validate.py**: `AGENTS = RU_DIR / "AGENTS.md"` указывал на несуществующий файл (переименован в `CONTRIBUTING.md`); в `EXTERNAL_LINKS` `"AGENTS"` заменено на `"CONTRIBUTING"`, чтобы устаревшая ссылка ловилась валидатором. Добавлена проверка существования `CONTRIBUTING.md` и `4. Таксономия.md` — переименование этих файлов теперь ломает CI, а не проходит молча
 - **Битые ссылки после переименования AGENTS.md → CONTRIBUTING.md**: `[[AGENTS]]` в `ru/4. Таксономия.md` → `[[CONTRIBUTING]]`; в схемах структуры (`README.md`, `ru/CONTRIBUTING.md`) исправлено имя файла; markdown-ссылки `[AGENTS.md](../../AGENTS.md)` в `ru/CONTRIBUTING.md` вели на несуществующий путь — заменены на wiki-ссылку `[[AGENTS]]` (корневой AGENTS.md лежит в Obsidian-хранилище, вне репозитория)
 - **Форматирование**: убран trailing whitespace в CHANGELOG, восстановлен горизонтальный разделитель `---` в записи [0.3] (слипся с текстом пункта), в `ru/0`…`ru/3` возвращена пустая строка после `---` — как в остальных файлах
