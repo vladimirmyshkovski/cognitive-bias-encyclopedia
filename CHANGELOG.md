@@ -6,9 +6,16 @@ All notable changes to the Cognitive Bias Encyclopedia are documented here. Form
 
 ## [Unreleased]
 
+### Added
+
+- **Автоматическая пересборка сайта**: workflow `notify-site.yml` отправляет `repository_dispatch` типа `content-update` в `cognitive-bias-site` при каждом пуше в `main`. Требуется секрет `SITE_DISPATCH_TOKEN` (fine-grained PAT с правом Contents: Read and write на репозиторий сайта); без него пересборка пропускается с warning, CI не падает
+
 ### Fixed
 
-- **validate.py + ru/AGENTS.md**: renamed `## Дialectical mirror` → `## Диалектическое зеркало` (61 entries already renamed in `1045686`, validator now matches)
+- **validate.py**: `AGENTS = RU_DIR / "AGENTS.md"` указывал на несуществующий файл (переименован в `CONTRIBUTING.md`); в `EXTERNAL_LINKS` `"AGENTS"` заменено на `"CONTRIBUTING"`, чтобы устаревшая ссылка ловилась валидатором. Добавлена проверка существования `CONTRIBUTING.md` и `4. Таксономия.md` — переименование этих файлов теперь ломает CI, а не проходит молча
+- **Битые ссылки после переименования AGENTS.md → CONTRIBUTING.md**: `[[AGENTS]]` в `ru/4. Таксономия.md` → `[[CONTRIBUTING]]`; в схемах структуры (`README.md`, `ru/CONTRIBUTING.md`) исправлено имя файла; markdown-ссылки `[AGENTS.md](../../AGENTS.md)` в `ru/CONTRIBUTING.md` вели на несуществующий путь — заменены на wiki-ссылку `[[AGENTS]]` (корневой AGENTS.md лежит в Obsidian-хранилище, вне репозитория)
+- **Форматирование**: убран trailing whitespace в CHANGELOG, восстановлен горизонтальный разделитель `---` в записи [0.3] (слипся с текстом пункта), в `ru/0`…`ru/3` возвращена пустая строка после `---` — как в остальных файлах
+
 - **OG image generation**: refactored from Astro integration hook (which failed with "Vite module runner has been closed") to standalone Node script. Generates 62 PNGs (61 entries + default) using `@fontsource/inter` instead of a broken bundled WOFF
 - **Repository structure**: removed `scripts/symlink-content.sh` (machine-specific, replaced by `CONTENT_PATH` env var)
 - **Dependencies**: removed unused `@astrojs/rss` and `flowbite` packages; added `@fontsource/inter` for OG generation
