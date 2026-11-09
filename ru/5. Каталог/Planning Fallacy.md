@@ -101,8 +101,8 @@ Planning fallacy — **застревание в тезисе** через иг�
 
 ## Источники
 
-- Kahneman, D., & Tversky, A. (1979). *Intuitive prediction: Biases and corrective procedures*. Management Science, 12.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 23 (The Outside View), 19 (The Illusion of Understanding).
-- Flyvbjerg, B. (2009). *Overconfidence, planning fallacy, and budgeting bias in projects*. Project Management Journal.
-- Buechel, E. C., Seligman, J. D., & Finkelstein, S. R. (2018). *Foretelling the future: The valence of an analogy affects perceived planning difficulty*. Journal of Experimental Psychology.
+- Kahneman, D., & Tversky, A. (1979). *Intuitive prediction: Biases and corrective procedures*. In D. Kahneman, P. Slovic & A. Tversky (Eds.), *Judgment under uncertainty: Heuristics and biases* (pp. 414-421). Cambridge University Press. — [DOI](https://doi.org/10.1017/CBO9780511809477.031)
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 23 (The Outside View), 19 (The Illusion of Understanding). — ISBN 9780374275631
+- Flyvbjerg, B. (2021). *Top Ten Behavioral Biases in Project Management: An Overview*. Project Management Journal, 52(6), 531-546. [DOI](https://doi.org/10.1177/87569728211049046)
+- Buechel, E. C., Seligman, J. D., & Finkelstein, S. R. (2018). *Foretelling the future: The valence of an analogy affects perceived planning difficulty*. Psychological Science, 29(11), 1889-1901. — [оглавление](https://journals.sagepub.com/toc/psyca/29/11)
 - [Wikipedia: Planning fallacy](https://en.wikipedia.org/wiki/Planning_fallacy)
