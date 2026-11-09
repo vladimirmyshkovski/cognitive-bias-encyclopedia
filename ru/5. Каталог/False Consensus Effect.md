@@ -100,6 +100,6 @@ False Consensus Effect — **застревание в тезисе** через
 
 ## Источники
 
-- Ross, L., Greene, D., & House, P. (1977). *The "false consensus effect": An egocentric bias in social perception and attribution processes*. Journal of Experimental Social Psychology, 13(3), 279-301.
-- Marks, G., & Miller, N. (1987). *Ten years of research on the false-consensus effect: An empirical and theoretical review*. Psychological Bulletin, 102(1), 72-90.
+- Ross, L., Greene, D., & House, P. (1977). *The "false consensus effect": An egocentric bias in social perception and attribution processes*. Journal of Experimental Social Psychology, 13(3), 279-301. — [DOI](https://doi.org/10.1016/0022-1031(77)90049-x)
+- Marks, G., & Miller, N. (1987). *Ten years of research on the false-consensus effect: An empirical and theoretical review*. Psychological Bulletin, 102(1), 72-90. — [DOI](https://doi.org/10.1037/0033-2909.102.1.72)
 - [Wikipedia: False consensus effect](https://en.wikipedia.org/wiki/False_consensus_effect)
