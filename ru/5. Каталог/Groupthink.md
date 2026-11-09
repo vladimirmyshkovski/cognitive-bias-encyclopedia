@@ -102,7 +102,7 @@ Groupthink — **застревание в тезисе** через подав�
 
 ## Источники
 
-- Janis, I. L. (1972). *Victims of groupthink*. Houghton Mifflin.
-- Turner, M. E., & Pratkanis, A. R. (1998). *A social identity maintenance model of groupthink*. Organizational Behavior and Human Decision Processes, 73(2-3), 210-235.
-- Esser, J. K. (1998). *Alive and well after 25 years: A review of groupthink research*. Organizational Behavior and Human Decision Processes, 73(2-3), 116-141.
+- Janis, I. L. (1972). *Victims of groupthink*. Houghton Mifflin. — ISBN 9780395140024
+- Turner, M. E., & Pratkanis, A. R. (1998). *A social identity maintenance model of groupthink*. Organizational Behavior and Human Decision Processes, 73(2-3), 210-235. — [DOI](https://doi.org/10.1006/obhd.1998.2757)
+- Esser, J. K. (1998). *Alive and well after 25 years: A review of groupthink research*. Organizational Behavior and Human Decision Processes, 73(2-3), 116-141. — [DOI](https://doi.org/10.1006/obhd.1998.2758)
 - [Wikipedia: Groupthink](https://en.wikipedia.org/wiki/Groupthink)
