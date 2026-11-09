@@ -6,7 +6,7 @@
 
 **Также известно как:** myside bias, congeniality bias, verification bias
 **Категория:** суждение (интерпретация информации)
-**Связанные:** [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Backfire Effect]], [[ru/5. Каталог/Motivated Reasoning]], [[ru/5. Каталог/Cognitive Dissonance]], [[ru/5. Каталог/Hindsight Bias]]
+**Связанные:** [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Backfire Effect]], [[ru/5. Каталог/Motivated Reasoning]], [[ru/5. Каталог/Cognitive Dissonance]], [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Belief Bias]]
 
 ---
 
@@ -90,6 +90,7 @@ Confirmation bias — это **застревание в тезисе**, нев�
 - [[ru/5. Каталог/Cognitive Dissonance]] — искажаем реальность, чтобы избежать противоречия с действиями
 - [[ru/5. Каталог/Self-serving Bias]] — особый случай: приписываем себе успехи
 - [[ru/5. Каталог/Conservatism]] — поданные данные не обновляют убеждение, потому что отобраны односторонне
+- [[ru/5. Каталог/Belief Bias]] — даже корректный по форме аргумент оценивается по согласию с выводом
 
 ## Источники
 

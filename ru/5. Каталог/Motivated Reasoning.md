@@ -6,7 +6,7 @@
 
 **Также известно как:** hot cognition, directional reasoning, wishful thinking
 **Категория:** суждение (формирование убеждений)
-**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Cognitive Dissonance]], [[ru/5. Каталог/Backfire Effect]]
+**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Cognitive Dissonance]], [[ru/5. Каталог/Backfire Effect]], [[ru/5. Каталог/Belief Bias]]
 
 ---
 
@@ -86,6 +86,7 @@ Motivated reasoning — это **застревание в тезисе чере
 - [[ru/5. Каталог/Cognitive Dissonance]] — искажаем реальность, чтобы избежать противоречия
 - [[ru/5. Каталог/Backfire Effect]] — опровергающая информация укрепляет убеждение
 - [[ru/5. Каталог/Halo Effect]] — одно верное = всё верное (или одно неверное = всё неверно)
+- [[ru/5. Каталог/Belief Bias]] — та же помеха, но в момент оценки чужого аргумента
 
 ## Источники
 

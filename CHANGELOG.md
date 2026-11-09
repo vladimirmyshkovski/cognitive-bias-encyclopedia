@@ -19,6 +19,7 @@ All notable changes to the Cognitive Bias Encyclopedia are documented here. Form
   - `Rosy Retrospection` — прошлое вспоминается лучше, чем было
   - `Looking-Glass Self` — образ себя через взгляд других (Кули)
   - `Conservatism` — недостаточное пересматривание убеждений
+- **Новая запись `Belief Bias`** — предвзятость по убеждению: состоятельность аргумента оценивается по правдоподобию вывода, а не по посылкам. Источники: Evans, Barston & Pollard 1983, Newstead et al. 1992, Evans & Curtis-Holmes 2005, Evans, Handley & Bacon 2009 (покрытие 38% → 39%, 69 → 70 записей)
 - **Проверка длины секций** в `.github/scripts/validate.py`: подсчёт слов по восьми контентным секциям и сравнение с минимумом из `ru/CONTRIBUTING.md` §3.4. Обычный запуск даёт предупреждения, `--strict` превращает их в ошибку
 - **Перекрёстные ссылки** из восьми существующих записей на новые — по правилу антиизоляции (CONTRIBUTING §6.3)
 
