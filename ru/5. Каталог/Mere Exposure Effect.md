@@ -84,8 +84,8 @@
 
 ## Источники
 
-- Zajonc, R. B. (1968). Attitudinal effects of mere exposure. *Journal of Personality and Social Psychology*, 9(2, Pt. 2), 1-27.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 5 (Cognitive Ease).
-- Harrison, A. A., & Cantor, J. H. (1997). The effect of familiarity on the mere exposure effect. *Journal of Experimental Social Psychology*, 33(3), 315-340.
-- Bornstein, R. F. (1989). Exposure and affect: Overview and meta-analysis. *Journal of Personality and Social Psychology*, 56(4), 492-508.
+- Zajonc, R. B. (1968). Attitudinal effects of mere exposure. *Journal of Personality and Social Psychology*, 9(2, Pt. 2), 1-27. — [DOI](https://doi.org/10.1037/h0025848)
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 5 (Cognitive Ease). — ISBN 9780374275631
+- Harrison, A. A., & Cantor, J. H. (1997). The effect of familiarity on the mere exposure effect. *Journal of Experimental Social Psychology*, 33(3), 315-340. — [оглавление](https://www.sciencedirect.com/journal/journal-of-experimental-social-psychology/vol/33/issue/3)
+- Bornstein, R. F. (1989). Exposure and affect: Overview and meta-analysis. *Psychological Bulletin*, 106(2), 265-289. — [DOI](https://doi.org/10.1037/0033-2909.106.2.265)
 - [Wikipedia: Mere-exposure effect](https://en.wikipedia.org/wiki/Mere-exposure_effect)
