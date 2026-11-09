@@ -97,9 +97,9 @@ Stereotyping — **застревание в тезисе** через игно�
 
 ## Источники
 
-- Lippmann, W. (1922). *Public Opinion*. Harcourt, Brace and Company.
-- Allport, G. W. (1954). *The Nature of Prejudice*. Addison-Wesley.
-- Fiske, S. T., & Taylor, S. E. (1991). *Social Cognition*. McGraw-Hill.
-- Hilton, J. L., & von Hippel, W. (1996). *Stereotypes*. Annual Review of Psychology, 47, 237-271.
+- Lippmann, W. (1922). *Public Opinion*. Harcourt, Brace and Company. — [скан](https://archive.org/details/publicopinion0000walt_t4w8)
+- Allport, G. W. (1954). *The Nature of Prejudice*. Addison-Wesley. — [скан](https://archive.org/details/natureofprejudic0000gord_h0s8)
+- Fiske, S. T., & Taylor, S. E. (1991). *Social Cognition*. McGraw-Hill. — ISBN 9780071009102
+- Hilton, J. L., & von Hippel, W. (1996). *Stereotypes*. Annual Review of Psychology, 47, 237-271. — [DOI](https://doi.org/10.1146/annurev.psych.47.1.237)
 - [Wikipedia: Stereotype](https://en.wikipedia.org/wiki/Stereotype)
 - [Wikipedia: Stereotyping](https://en.wikipedia.org/wiki/Stereotyping)
