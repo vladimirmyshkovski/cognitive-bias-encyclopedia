@@ -81,7 +81,7 @@
 
 ## Источники
 
-- Ebbinghaus, H. (1885). *Über das Gedächtnis: Untersuchungen zur expementellen Psychologie* (Memory: A Contribution to Experimental Psychology). Duncker & Humblot.
-- Murdock, B. B. (1962). Serial position effects in the recall of short-term memory sequences. *Journal of Experimental Psychology Monograph Supplement*, 63(7), 1-67.
-- Crowder, R. G. (1967). On the intrinsic and extrinsic organization of memory. In K. W. Spence & J. T. Spence (Eds.), *The psychology of learning and motivation* (Vol. 2). Academic Press.
+- Ebbinghaus, H. (1885). *Über das Gedächtnis: Untersuchungen zur expementellen Psychologie* (Memory: A Contribution to Experimental Psychology). Duncker & Humblot. — [скан](https://archive.org/details/memorycontributi00ebbiuoft)
+- Murdock, B. B. (1962). Serial position effects in the recall of short-term memory sequences. *Journal of Experimental Psychology Monograph Supplement*, 63(7), 1-67. — [оглавление](https://archive.org/details/sim_journal-of-experimental-psychology-general_1962_63-64_contents)
+- Crowder, R. G. (1967). On the intrinsic and extrinsic organization of memory. In K. W. Spence & J. T. Spence (Eds.), *The psychology of learning and motivation* (Vol. 2). Academic Press. — [скан](https://archive.org/details/psychologyoflear0002kenn)
 - [Wikipedia: Serial-position effect](https://en.wikipedia.org/wiki/Serial-position_effect)
