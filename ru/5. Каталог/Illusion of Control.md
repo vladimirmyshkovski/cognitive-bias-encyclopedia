@@ -97,7 +97,7 @@ Illusion of control — **застревание в тезисе**, невозм
 
 ## Источники
 
-- Langer, E. J. (1975). *The illusion of control*. Journal of Personality and Social Psychology, 32(2), 311-328.
-- Thompson, S. C. (1999). *Illusions of control: How we overestimate our personal control*. Personality and Social Psychology Bulletin, 25(8), 951-962.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 24 (The Engine of Capitalism), 23 (The Outside View).
+- Langer, E. J. (1975). *The illusion of control*. Journal of Personality and Social Psychology, 32(2), 311-328. — [DOI](https://doi.org/10.1037/0022-3514.32.2.311)
+- Thompson, S. C. (1999). *Illusions of control: How we overestimate our personal control*. Current Directions in Psychological Science, 8(6), 187-190. — [DOI](https://doi.org/10.1111/1467-8721.00044)
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 24 (The Engine of Capitalism), 23 (The Outside View). — ISBN 9780374275631
 - [Wikipedia: Illusion of control](https://en.wikipedia.org/wiki/Illusion_of_control)
