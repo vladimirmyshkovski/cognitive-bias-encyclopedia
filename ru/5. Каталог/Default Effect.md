@@ -98,7 +98,7 @@ Default Effect — **застревание в тезисе** через дов�
 
 ## Источники
 
-- Johnson, E. J., & Goldstein, D. (2003). *Do defaults save lives?* Science, 302(5649), 1338-1339.
-- Madrian, B. C., & Shea, D. F. (2001). *The power of suggestion: Inertia in 401(k) participation and savings behavior*. Quarterly Journal of Economics, 116(4), 1149-1187.
-- Thaler, R. H., & Sunstein, C. R. (2003). *Nudge: The Final Edition*. Penguin.
+- Johnson, E. J., & Goldstein, D. (2003). *Do defaults save lives?* Science, 302(5649), 1338-1339. — [DOI](https://doi.org/10.1126/science.1091721)
+- Madrian, B. C., & Shea, D. F. (2001). *The power of suggestion: Inertia in 401(k) participation and savings behavior*. Quarterly Journal of Economics, 116(4), 1149-1187. — [DOI](https://doi.org/10.1162/003355301753265543)
+- Thaler, R. H., & Sunstein, C. R. (2003). *Nudge: The Final Edition*. Penguin. — ISBN 9780300122237
 - [Wikipedia: Default effect](https://en.wikipedia.org/wiki/Default_effect)
