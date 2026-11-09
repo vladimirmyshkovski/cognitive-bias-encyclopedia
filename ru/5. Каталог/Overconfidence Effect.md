@@ -6,7 +6,7 @@
 
 **Также известно как:** overconfidence bias, overprecision, overestimation
 **Категория:** само (оценка собственных знаний и способностей)
-**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Better-Than-Average Effect]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Anchoring]]
+**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Better-Than-Average Effect]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Placebo Effect]]
 
 ---
 
@@ -100,6 +100,7 @@ Overconfidence — **застревание в тезисе** через игн�
 - [[ru/5. Каталог/Anchoring]] — заякорены на первой оценке
 - [[ru/5. Каталог/Hindsight Bias]] — «я знал» усиливает overconfidence
 - [[ru/5. Каталог/Curse of Knowledge]] — иллюзия полноты знания
+- [[ru/5. Каталог/Placebo Effect]] — уверенность в благополучном исходе сама работает на исход
 
 ## Источники
 

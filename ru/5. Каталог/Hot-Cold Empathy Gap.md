@@ -6,7 +6,7 @@
 
 **Также известно как:** empathy gap, cold-to-hot empathy gap, visceral fit, hot-cold empathy gap
 **Категория:** само (прогнозирование собственного поведения)
-**Связанные:** [[ru/5. Каталог/Hyperbolic Discounting]], [[ru/5. Каталог/Planning Fallacy]], [[ru/5. Каталог/Optimism Bias]]
+**Связанные:** [[ru/5. Каталог/Hyperbolic Discounting]], [[ru/5. Каталог/Planning Fallacy]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Placebo Effect]]
 
 ---
 
@@ -95,6 +95,7 @@ Hot-Cold empathy gap — **застревание в тезисе** через �
 - [[ru/5. Каталог/Hyperbolic Discounting|Hyperbolic Discounting]] — в горячем состоянии мы больше дисконтируем будущее
 - [[ru/5. Каталог/Planning Fallacy|Planning Fallacy]] — мы недооцениваем влияние эмоций на планы
 - [[ru/5. Каталог/Optimism Bias|Optimism Bias]] — мы верим, что в будущем будем менее импульсивны
+- [[ru/5. Каталог/Placebo Effect]] — ожидание само по себе меняет состояние
 
 ## Источники
 
