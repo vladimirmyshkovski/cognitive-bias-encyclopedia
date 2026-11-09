@@ -99,7 +99,7 @@ Conformity — **застревание в тезисе** через групп�
 
 ## Источники
 
-- Asch, S. E. (1956). *Studies of independence and conformity: A minority of one against a unanimous majority*. Psychological Monographs, 70(9), 1-70.
-- Deutsch, M., & Gerard, H. B. (1955). *A study of normative and informational social influences upon individual judgment*. Journal of Abnormal and Social Psychology, 51(3), 629-636.
-- Bond, R., & Smith, P. B. (1996). *Culture and conformity: A meta-analysis of studies using Asch's (1952b, 1956) line judgment task*. Psychological Bulletin, 119(1), 111-137.
+- Asch, S. E. (1956). *Studies of independence and conformity: A minority of one against a unanimous majority*. Psychological Monographs, 70(9), 1-70. — [DOI](https://doi.org/10.1037/h0093718)
+- Deutsch, M., & Gerard, H. B. (1955). *A study of normative and informational social influences upon individual judgment*. Journal of Abnormal and Social Psychology, 51(3), 629-636. — [DOI](https://doi.org/10.1037/h0046408)
+- Bond, R., & Smith, P. B. (1996). *Culture and conformity: A meta-analysis of studies using Asch's (1952b, 1956) line judgment task*. Psychological Bulletin, 119(1), 111-137. — [DOI](https://doi.org/10.1037/0033-2909.119.1.111)
 - [Wikipedia: Conformity](https://en.wikipedia.org/wiki/Conformity)
