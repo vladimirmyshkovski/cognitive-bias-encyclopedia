@@ -96,7 +96,7 @@ Open an **Issue** or submit a **Pull Request**.
 | Languages available | 1 (Russian) |
 | Total biases documented | 91 |
 | Coverage of known biases | ~51% (of ~180) |
-| Open priority items | ~4 (средний приоритет) |
+| Open priority items | ~3 (средний приоритет) |
 
 See the [Taxonomy](https://github.com/vladimirmyshkovski/cognitive-bias-encyclopedia/blob/main/ru/4.%20%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F.md) for the full master catalog.
 
