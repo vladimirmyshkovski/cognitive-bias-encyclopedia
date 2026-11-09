@@ -83,7 +83,7 @@
 
 ## Источники
 
-- Cooley, C. H. (1902). *Human Nature and the Social Order*. Charles Scribner's Sons.
-- Goffman, E. (1959). *The Presentation of Self in Everyday Life*. Doubleday (Anchor Books).
-- Burke, P. J. (1952). Dramatism and development. *Social Forces*, 31(1), 3-20.
+- Cooley, C. H. (1902). *Human Nature and the Social Order*. Charles Scribner's Sons. — [скан](https://archive.org/details/HumanNatureAndTheSocialOrder)
+- Goffman, E. (1959). *The Presentation of Self in Everyday Life*. Doubleday (Anchor Books). — ISBN 9780385094023
+- Burke, P. J. (1952). Dramatism and development. *Social Forces*, 31(1), 3-20. — [оглавление](https://archive.org/details/sim_social-forces_1952-1953_31_index)
 - [Wikipedia: Looking-glass self](https://en.wikipedia.org/wiki/Looking-glass_self)
