@@ -6,7 +6,7 @@
 
 **Также известно как:** actor-observer bias, actor-observer asymmetry
 **Категория:** само (объяснение собственных и чужих действий)
-**Связанные:** [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Naive Realism]], [[ru/5. Каталог/Stereotyping]]
+**Связанные:** [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Naive Realism]], [[ru/5. Каталог/Stereotyping]], [[ru/5. Каталог/Egocentric Bias]]
 
 ---
 
@@ -81,6 +81,7 @@
 - [[ru/5. Каталог/Naive Realism]] — уверенность, что «ситуация» — единственное объяснение чужого поступка, упрощает картину
 - [[ru/5. Каталог/Stereotyping]] — оценочный ярлык, доставшийся «всем понятно», приписывает черту человеку, а не ситуации
 
+- [[ru/5. Каталог/Egocentric Bias]] — сквозная настройка, из которой асимметрия объяснений и вырастает
 ## Источники
 
 - Jones, E. E., & Nisbett, R. E. (1971). The rocks and the hard places: A dilemma in attributing behavior to persons or to their situations. *Journal of Personality and Social Psychology*, 19(2), 151-160. — [оглавление](https://archive.org/details/sim_journal-of-personality-and-social-psychology_1971_17-20_contents)

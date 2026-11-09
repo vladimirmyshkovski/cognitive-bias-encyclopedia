@@ -6,7 +6,7 @@
 
 **Также известно как:** spotlight bias, assumed-similarity bias (partial)
 **Категория:** социальное (восприятие внимания других)
-**Связанные:** [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Illusion of Control]], [[ru/5. Каталог/Projection Bias]]
+**Связанные:** [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Illusion of Control]], [[ru/5. Каталог/Projection Bias]], [[ru/5. Каталог/Egocentric Bias]]
 
 ---
 
@@ -101,6 +101,7 @@ Spotlight effect — **застревание в тезисе**, невозмо�
 - [[ru/5. Каталог/Looking-Glass Self]] — образ себя собирается из того, как нас, по ощущениям, видят другие
 
 - [[ru/5. Каталог/Projection Bias]] — та же проекция в другую сторону: мы приписываем другим собственную заметность
+- [[ru/5. Каталог/Egocentric Bias]] — более общая основа: всё оценивается от собственной точки зрения
 ## Источники
 
 - Gilovich, T., Medvec, V. H., & Savitsky, K. (2000). *The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance*. Journal of Personality and Social Psychology, 78(2), 211-222. — [DOI](https://doi.org/10.1037/0022-3514.78.2.211)
