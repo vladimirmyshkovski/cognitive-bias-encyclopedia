@@ -88,7 +88,7 @@ Status quo bias — это **сопротивление диалектическ
 
 ## Источники
 
-- Samuelson, W., & Zeckhauser, R. (1988). *Status quo bias in decision making*. Journal of Risk and Uncertainty, 1(1), 7-59.
-- Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1991). *The Endowment Effect, Loss Aversion, and Status Quo Bias*. Journal of Economic Perspectives, 5(1), 193-206.
-- Madrian, B. C., & Shea, D. F. (2001). *The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior*. Quarterly Journal of Economics, 116(4), 1149-1187.
+- Samuelson, W., & Zeckhauser, R. (1988). *Status quo bias in decision making*. Journal of Risk and Uncertainty, 1(1), 7-59. — [DOI](https://doi.org/10.1007/bf00055564)
+- Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1991). *Anomalies: The Endowment Effect, Loss Aversion, and Status Quo Bias*. Journal of Economic Perspectives, 5(1), 193-206. — [DOI](https://doi.org/10.1257/jep.5.1.193)
+- Madrian, B. C., & Shea, D. F. (2001). *The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior*. Quarterly Journal of Economics, 116(4), 1149-1187. — [DOI](https://doi.org/10.1162/003355301753265543)
 - [Wikipedia: Status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias)
