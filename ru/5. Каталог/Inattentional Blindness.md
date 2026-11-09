@@ -99,7 +99,7 @@ Inattentional Blindness — **застревание в тезисе** чере�
 
 ## Источники
 
-- Simons, D. J., & Chabris, C. F. (1999). *Gorillas in our midst: Sustained inattentional blindness for dynamic events*. Perception, 28(9), 1059-1074.
-- Mack, A., & Rock, I. (1998). *Inattentional Blindness*. MIT Press.
-- Lavie, N. (1995). *Perceptual load as a necessary condition for selective attention*. Journal of Experimental Psychology: Human Perception and Performance, 21(3), 451-468.
+- Simons, D. J., & Chabris, C. F. (1999). *Gorillas in our midst: Sustained inattentional blindness for dynamic events*. Perception, 28(9), 1059-1074. — [DOI](https://doi.org/10.1068/p281059)
+- Mack, A., & Rock, I. (1998). *Inattentional Blindness*. MIT Press. — ISBN 9780262133395
+- Lavie, N. (1995). *Perceptual load as a necessary condition for selective attention*. Journal of Experimental Psychology: Human Perception and Performance, 21(3), 451-468. — [DOI](https://doi.org/10.1037/0096-1523.21.3.451)
 - [Wikipedia: Inattentional blindness](https://en.wikipedia.org/wiki/Inattentional_blindness)
