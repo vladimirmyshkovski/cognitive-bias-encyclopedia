@@ -86,7 +86,7 @@ Backfire effect — это **отказ от диалектики**, защит�
 
 ## Источники
 
-- Nyhan, B., & Reifler, J. (2010). *When Corrections Fail: Research and Public Policy*. Political Communication, 27(3), 305-319.
-- Lord, C. G., Ross, L., & Lepper, M. R. (1979). *Biased assimilation and attitude polarization: The effects of prior theories on subsequently considered evidence*. Journal of Personality and Social Psychology, 37(11), 2098-2109.
+- Nyhan, B., & Reifler, J. (2010). *When Corrections Fail: The Persistence of Political Misperceptions*. Political Behavior, 32(2), 303-330. — [DOI](https://doi.org/10.1007/s11109-010-9112-2)
+- Lord, C. G., Ross, L., & Lepper, M. R. (1979). *Biased assimilation and attitude polarization: The effects of prior theories on subsequently considered evidence*. Journal of Personality and Social Psychology, 37(11), 2098-2109. — [DOI](https://doi.org/10.1037/0022-3514.37.11.2098)
 - [Wikipedia: Backfire effect](https://en.wikipedia.org/wiki/Backfire_effect)
 - [Wikipedia: Reactance (psychology)](https://en.wikipedia.org/wiki/Reactance_(psychology))
