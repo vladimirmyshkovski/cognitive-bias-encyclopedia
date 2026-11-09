@@ -106,7 +106,7 @@ Pygmalion effect работает, когда **тезис (ожидание) и
 
 ## Источники
 
-- Rosenthal, R., & Jacobson, L. (1968). *Pygmalion in the classroom: Teacher expectation and pupils' intellectual development*. Journal of Educational Psychology, 65(6), 357-372.
-- Rosenthal, R. (1994). *Interpersonal expectancy effects: A 30-year perspective*. Applied & Preventive Psychology, 3(1), 1-19.
-- McNatt, D. B. (2000). *Ancient pygmalion joins contemporary management*. Academy of Management Journal, 43(2), 369-372.
+- Rosenthal, R., & Jacobson, L. (1968). *Pygmalion in the classroom: Teacher expectation and pupils' intellectual development*. The Urban Review, 3(1), 16-20. — [DOI](https://doi.org/10.1007/bf02322211)
+- Rosenthal, R. (1994). *Interpersonal expectancy effects: A 30-year perspective*. Current Directions in Psychological Science, 3(6), 176-179. — [DOI](https://doi.org/10.1111/1467-8721.ep10770698)
+- McNatt, D. B. (2000). *Ancient pygmalion joins contemporary management*. Journal of Applied Psychology, 85(2), 314-322. — [DOI](https://doi.org/10.1037/0021-9010.85.2.314)
 - [Wikipedia: Pygmalion effect](https://en.wikipedia.org/wiki/Pygmalion_effect)
