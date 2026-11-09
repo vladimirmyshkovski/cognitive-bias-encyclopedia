@@ -94,9 +94,9 @@ Barnum-Forer — **застревание в тезисе** через подт�
 
 ## Источники
 
-- Forer, B. R. (1949). *The fallacy of personal validation: A classroom demonstration of gullibility*. Journal of Abnormal and Social Psychology, 44(1), 118-123.
-- Meehl, P. E. (1956). *Wanted — A good cook-book*. American Psychologist, 11(6), 263-272.
-- Sullivan, D. (2013). *The Barnum Effect in the 21st Century*. Skeptical Inquirer.
-- Pittenger, D. J. (1993). *The utility of the Myers-Briggs Type Indicator*. Review of Educational Research, 63(4), 467-488.
+- Forer, B. R. (1949). *The fallacy of personal validation: A classroom demonstration of gullibility*. Journal of Abnormal and Social Psychology, 44(1), 118-123. — [DOI](https://doi.org/10.1037/h0059240)
+- Meehl, P. E. (1956). *Wanted — A good cook-book*. American Psychologist, 11(6), 263-272. — [DOI](https://doi.org/10.1037/h0044164)
+- French, C. C., Peers, D., McCarthy, K., & Fowler, M. (1991). *Belief in Astrology: A Test of the Barnum Effect*. Skeptical Inquirer, 15(2), 166-172. [PDF](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1991/01/22165216/p62.pdf)
+- Pittenger, D. J. (1993). *The utility of the Myers-Briggs Type Indicator*. Review of Educational Research, 63(4), 467-488. — [DOI](https://doi.org/10.3102/00346543063004467)
 - [Wikipedia: Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect)
 - [Wikipedia: Forer effect](https://en.wikipedia.org/wiki/Forer_effect)
