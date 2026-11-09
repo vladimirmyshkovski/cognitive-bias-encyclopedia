@@ -6,7 +6,7 @@
 
 **Также известно как:** empathy gap, cold-to-hot empathy gap, visceral fit, hot-cold empathy gap
 **Категория:** само (прогнозирование собственного поведения)
-**Связанные:** [[ru/5. Каталог/Hyperbolic Discounting]], [[ru/5. Каталог/Planning Fallacy]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Placebo Effect]], [[ru/5. Каталог/Impact Bias]]
+**Связанные:** [[ru/5. Каталог/Hyperbolic Discounting]], [[ru/5. Каталог/Planning Fallacy]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Placebo Effect]], [[ru/5. Каталог/Impact Bias]], [[ru/5. Каталог/Egocentric Empathy Gap]]
 
 ---
 
@@ -98,6 +98,7 @@ Hot-Cold empathy gap — **застревание в тезисе** через �
 - [[ru/5. Каталог/Placebo Effect]] — ожидание само по себе меняет состояние
 
 - [[ru/5. Каталог/Impact Bias]] — та же область прогноза эмоций, но ошибка в масштабе, а не в состоянии
+- [[ru/5. Каталог/Egocentric Empathy Gap]] — там разрыв между состояниями одного человека, здесь — между разными людьми
 ## Источники
 
 - Loewenstein, G. (1996). *Out of control: Visceral influences on behavior*. Organizational Behavior and Human Decision Processes, 65(3), 272-292. — [DOI](https://doi.org/10.1006/obhd.1996.0028)

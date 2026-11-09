@@ -6,7 +6,7 @@
 
 **Также известно как:** endowment effect, divestiture aversion
 **Категория:** суждение (оценка того, чем владеем)
-**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Status Quo Bias]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/IKEA Effect]]
+**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Status Quo Bias]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/IKEA Effect]], [[ru/5. Каталог/Egocentric Empathy Gap]]
 
 ---
 
@@ -101,6 +101,7 @@ Endowment effect — **застревание в тезисе** через эм�
 - [[Halo Effect]] — ореол на своих активах (моё = хорошее)
 - [[ru/5. Каталог/IKEA Effect]] — владение «заслуженное» трудом, поэтому оценка выше
 
+- [[ru/5. Каталог/Egocentric Empathy Gap]] — добавка от владения невидима покупателю, и потому кажется ему нажимом
 ## Источники
 
 - Thaler, R. (1980). *Toward a positive theory of consumer choice*. Journal of Economic Behavior & Organization, 1(1), 39-60. — [DOI](https://doi.org/10.1016/0167-2681(80)90051-7)
