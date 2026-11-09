@@ -6,7 +6,7 @@
 
 **Также известно как:** halo effect, horn effect (обратный)
 **Категория:** суждение (оценка других)
-**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Fundamental Attribution Error]]
+**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Cheerleader Effect]]
 
 ---
 
@@ -98,6 +98,7 @@ Halo — это **фиксация через одну черту**, невоз�
 - [[ru/5. Каталог/Authority Bias]] — halo создаёт доверие к аворитетам во всех областях, даже за пределами их компетенции
 - [[ru/5. Каталог/Mere Exposure Effect]] — частота контакта повышает привлекательность, а привлекательность работает как halo
 
+- [[ru/5. Каталог/Cheerleader Effect]] — halo перекрашивает оценку, статистика группы делает то же со свойствами лица
 ## Источники
 
 - Nisbett, R. E., & Wilson, T. D. (1977). *The halo effect: Evidence for unconscious alteration of judgments*. Journal of Personality and Social Psychology, 35(4), 250-256. — [DOI](https://doi.org/10.1037/0022-3514.35.4.250)

@@ -6,7 +6,7 @@
 
 **Также известно как:** in-group favoritism, tribalism
 **Категория:** социальное
-**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Bandwagon Effect]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Cultural Bias]], [[ru/5. Каталог/Cross-Race Effect]]
+**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Bandwagon Effect]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Cultural Bias]], [[ru/5. Каталог/Cross-Race Effect]], [[ru/5. Каталог/Cheerleader Effect]]
 
 ---
 
@@ -93,6 +93,7 @@ In-group bias — это **фиксация коллективной метаф�
 
 - [[ru/5. Каталог/Cultural Bias]] — «своя» культура переживается как природа, а чужой порядок — как отклонение
 - [[ru/5. Каталог/Cross-Race Effect]] — преимущество своей группы действует и на уровне восприятия лиц
+- [[ru/5. Каталог/Cheerleader Effect]] — у человека «своих» привлекательность в контексте растёт сильнее
 ## Источники
 
 - Tajfel, H., Billig, M. G., Bundy, R. P., & Flament, C. (1971). *Social categorization and intergroup behaviour*. European Journal of Social Psychology, 1(2), 149-178. — [DOI](https://doi.org/10.1002/ejsp.2420010202)
