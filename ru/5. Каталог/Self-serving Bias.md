@@ -101,7 +101,7 @@ Self-serving bias — это **застревание в тезисе «я мо�
 
 ## Источники
 
-- Miller, D. T., & Ross, M. (1975). *Self-serving biases in the attribution of causality: Fact or fiction?*. Psychological Bulletin, 82(2), 213-225.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 35 (Two Selves).
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 45 (Self-Serving Bias).
+- Miller, D. T., & Ross, M. (1975). *Self-serving biases in the attribution of causality: Fact or fiction?*. Psychological Bulletin, 82(2), 213-225. — [DOI](https://doi.org/10.1037/h0076486)
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 35 (Two Selves). — ISBN 9780374275631
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 45 (Self-Serving Bias). — ISBN 9780062273840
 - [Wikipedia: Self-serving bias](https://en.wikipedia.org/wiki/Self-serving_bias)
