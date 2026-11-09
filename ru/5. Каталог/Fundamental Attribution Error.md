@@ -92,6 +92,6 @@ FAE — это **фиксация через игнорирование конт
 
 ## Источники
 
-- Ross, L. (1977). *The intuitive psychologist and his shortcomings: Distortions in the attribution process*. Advances in Experimental Social Psychology, 10, 173-220.
-- Jones, E. E., & Harris, V. A. (1967). *The attribution of attitudes*. Journal of Experimental Social Psychology, 3(1), 1-24.
+- Ross, L. (1977). *The intuitive psychologist and his shortcomings: Distortions in the attribution process*. Advances in Experimental Social Psychology, 10, 173-220. — [DOI](https://doi.org/10.1016/s0065-2601(08)60357-3)
+- Jones, E. E., & Harris, V. A. (1967). *The attribution of attitudes*. Journal of Experimental Social Psychology, 3(1), 1-24. — [DOI](https://doi.org/10.1016/0022-1031(67)90034-0)
 - [Wikipedia: Fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
