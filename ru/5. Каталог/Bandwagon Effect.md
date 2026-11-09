@@ -98,6 +98,6 @@ Bandwagon — это **фиксация через социальное давл
 
 ## Источники
 
-- Asch, S. E. (1956). *Studies of independence and conformity: A minority of one against a unanimous majority*. Psychological Monographs, 70(9), 1-70.
-- Leibenstein, H. (1950). *Bandwagon, Snob, and Veblen Effects in the Theory of Consumers' Demand*. Quarterly Journal of Economics, 64(2), 183-207.
+- Asch, S. E. (1956). *Studies of independence and conformity: A minority of one against a unanimous majority*. Psychological Monographs, 70(9), 1-70. — [DOI](https://doi.org/10.1037/h0093718)
+- Leibenstein, H. (1950). *Bandwagon, Snob, and Veblen Effects in the Theory of Consumers' Demand*. Quarterly Journal of Economics, 64(2), 183-207. — [DOI](https://doi.org/10.2307/1882692)
 - [Wikipedia: Bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect)
