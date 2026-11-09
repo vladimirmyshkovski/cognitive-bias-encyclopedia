@@ -93,7 +93,7 @@ Misinformation effect — **застревание в тезисе** через 
 
 ## Источники
 
-- Loftus, E. F. (1975). *Leading questions and the eyewitness report*. Cognitive Psychology, 7(4), 560-572.
-- Loftus, E. F. (2005). *Planting misinformation in the human mind: A 30-year investigation of the malleability of memory*. Learning & Memory, 12(4), 361-366.
-- Zaragoza, M. S., Belli, S., & Payment, K. E. (2007). *Misinformation effects and the suggestibility of eyewitness memory*. In *Handbook of Eyewitness Psychology*.
+- Loftus, E. F. (1975). *Leading questions and the eyewitness report*. Cognitive Psychology, 7(4), 560-572. — [DOI](https://doi.org/10.1016/0010-0285(75)90023-7)
+- Loftus, E. F. (2005). *Planting misinformation in the human mind: A 30-year investigation of the malleability of memory*. Learning & Memory, 12(4), 361-366. — [DOI](https://doi.org/10.1101/lm.94705)
+- Zaragoza, M. S., Belli, S., & Payment, K. E. (2007). *Misinformation effects and the suggestibility of eyewitness memory*. In *Handbook of Eyewitness Psychology*. — [DOI](https://doi.org/10.4324/9780203936368)
 - [Wikipedia: Misinformation effect](https://en.wikipedia.org/wiki/Misinformation_effect)
