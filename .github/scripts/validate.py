@@ -186,6 +186,13 @@ def validate_entry(filepath, catalog_files, verbose=False, strict=False):
             )
         if "wikipedia.org" not in sources.lower():
             errors.append("Sources: missing Wikipedia link")
+        # Каждый источник должен иметь идентификатор: DOI, URL или ISBN
+        for line in sources.splitlines():
+            line = line.strip()
+            if not line.startswith("- "):
+                continue
+            if not (re.search(r"https?://", line) or "ISBN" in line):
+                errors.append(f"Sources: нет DOI/URL/ISBN — {line[:90]}")
 
     # ===== DIALECTICAL MIRROR =====
     dm_match = re.search(
