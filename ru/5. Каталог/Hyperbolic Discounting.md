@@ -110,8 +110,8 @@ Hyperbolic discounting — **застревание в тезисе** через
 
 ## Источники
 
-- Ainslie, G. (1975). *Specious reward: A behavioral theory of impulsiveness and impulse control*. Psychological Bulletin, 82(4), 463-496.
-- Laibson, D. (1997). *Golden eggs and hyperbolic discounting*. Quarterly Journal of Economics, 112(2), 443-477.
-- Thaler, R. H., & Shefrin, H. M. (1981). *An economic theory of self-control*. Journal of Political Economy, 89(2), 392-406.
-- Frederick, S., Loewenstein, G., & O'Donoghue, T. (2002). *Time discounting and time preference: A critical review*. Journal of Economic Literature, 40(2), 351-401.
+- Ainslie, G. (1975). *Specious reward: A behavioral theory of impulsiveness and impulse control*. Psychological Bulletin, 82(4), 463-496. — [DOI](https://doi.org/10.1037/h0076860)
+- Laibson, D. (1997). *Golden eggs and hyperbolic discounting*. Quarterly Journal of Economics, 112(2), 443-477. — [DOI](https://doi.org/10.1162/003355397555253)
+- Thaler, R. H., & Shefrin, H. M. (1981). *An economic theory of self-control*. Journal of Political Economy, 89(2), 392-406. — [DOI](https://doi.org/10.1086/260971)
+- Frederick, S., Loewenstein, G., & O'Donoghue, T. (2002). *Time discounting and time preference: A critical review*. Journal of Economic Literature, 40(2), 351-401. — [DOI](https://doi.org/10.1257/jel.40.2.351)
 - [Wikipedia: Hyperbolic discounting](https://en.wikipedia.org/wiki/Hyperbolic_discounting)
