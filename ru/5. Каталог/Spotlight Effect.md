@@ -102,6 +102,6 @@ Spotlight effect — **застревание в тезисе**, невозмо�
 
 ## Источники
 
-- Gilovich, T., Medvec, V. H., & Savitsky, K. (2000). *The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance*. Journal of Personality and Social Psychology, 78(2), 211-222.
-- Savitsky, K., & Gilovich, T. (2003). *The illusion of transparency and the alleviation of performance anxiety*. Journal of Experimental Social Psychology, 39(6), 618-625.
+- Gilovich, T., Medvec, V. H., & Savitsky, K. (2000). *The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance*. Journal of Personality and Social Psychology, 78(2), 211-222. — [DOI](https://doi.org/10.1037/0022-3514.78.2.211)
+- Savitsky, K., & Gilovich, T. (2003). *The illusion of transparency and the alleviation of performance anxiety*. Journal of Experimental Social Psychology, 39(6), 618-625. — [DOI](https://doi.org/10.1016/s0022-1031(03)00056-8)
 - [Wikipedia: Spotlight effect](https://en.wikipedia.org/wiki/Spotlight_effect)
