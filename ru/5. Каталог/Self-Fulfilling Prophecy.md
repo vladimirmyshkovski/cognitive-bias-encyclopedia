@@ -101,8 +101,8 @@ Self-fulfilling prophecy — пример **диалектического кр�
 
 ## Источники
 
-- Merton, R. K. (1948). *The self-fulfilling prophecy*. The Antioch Review, 8(2), 193-210.
-- Rosenthal, R., & Jacobson, L. (1968). *Pygmalion in the classroom*. Journal of Educational Psychology, 65(6), 357-372.
-- Spencer, S. J., Steele, C. M., & Quinn, D. M. (1999). *Stereotype threat and women's math performance*. Journal of Experimental Social Psychology, 35(1), 4-28.
-- Jussim, L., & Harber, K. D. (2005). *Personality and the social construction of reality*. In *Handbook of Personality and Social Behavior*.
+- Merton, R. K. (1948). *The self-fulfilling prophecy*. The Antioch Review, 8(2), 193-210. — [DOI](https://doi.org/10.2307/4609267)
+- Rosenthal, R., & Jacobson, L. (1968). *Pygmalion in the classroom*. The Urban Review, 3(1), 16-20. — [DOI](https://doi.org/10.1007/bf02322211)
+- Spencer, S. J., Steele, C. M., & Quinn, D. M. (1999). *Stereotype threat and women's math performance*. Journal of Experimental Social Psychology, 35(1), 4-28. — [DOI](https://doi.org/10.1006/jesp.1998.1373)
+- Jussim, L., & Harber, K. D. (2005). *Personality and the social construction of reality*. In *Handbook of Personality and Social Behavior*. — [DOI](https://doi.org/10.4324/9780203125359)
 - [Wikipedia: Self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy)
