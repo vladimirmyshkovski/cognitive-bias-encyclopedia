@@ -6,7 +6,7 @@
 
 **Также известно как:** stereotype bias, categorical thinking, group attribution error
 **Категория:** социальное (оценка индивида по группе)
-**Связанные:** [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Confirmation Bias]]
+**Связанные:** [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Cross-Race Effect]]
 
 ---
 
@@ -95,6 +95,7 @@ Stereotyping — **застревание в тезисе** через игно�
 - [[ru/5. Каталог/Confirmation Bias|Confirmation Bias]] — ищем подтверждения стереотипа
 - [[ru/5. Каталог/Self-Fulfilling Prophecy|Self-Fulfilling Prophecy]] — стереотипы могут создавать реальность
 
+- [[ru/5. Каталог/Cross-Race Effect]] — категориальная замена лица начинается с того, что лицо не различить
 ## Источники
 
 - Lippmann, W. (1922). *Public Opinion*. Harcourt, Brace and Company. — [скан](https://archive.org/details/publicopinion0000walt_t4w8)
