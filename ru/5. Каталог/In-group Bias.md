@@ -93,6 +93,6 @@ In-group bias — это **фиксация коллективной метаф�
 
 ## Источники
 
-- Tajfel, H., Billig, M. G., Bundy, R. P., & Flament, C. (1971). *Social categorization and intergroup behaviour*. European Journal of Social Psychology, 1(2), 149-178.
-- Hamilton, D. L., & Gifford, R. K. (1976). *Illusory correlation in interpersonal perception: A cognitive basis of stereotypic judgments*. Journal of Experimental Social Psychology, 12(4), 392-407.
+- Tajfel, H., Billig, M. G., Bundy, R. P., & Flament, C. (1971). *Social categorization and intergroup behaviour*. European Journal of Social Psychology, 1(2), 149-178. — [DOI](https://doi.org/10.1002/ejsp.2420010202)
+- Hamilton, D. L., & Gifford, R. K. (1976). *Illusory correlation in interpersonal perception: A cognitive basis of stereotypic judgments*. Journal of Experimental Social Psychology, 12(4), 392-407. — [DOI](https://doi.org/10.1016/s0022-1031(76)80006-6)
 - [Wikipedia: In-group favoritism](https://en.wikipedia.org/wiki/In-group_favoritism)
