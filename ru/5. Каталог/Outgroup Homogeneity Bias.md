@@ -6,7 +6,7 @@
 
 **Также известно как:** outgroup homogeneity effect, foreign land syndrome, perception of outgroup variability
 **Категория:** социальное (восприятие чужой группы как однородной)
-**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Stereotyping]], [[ru/5. Каталог/Naive Realism]], [[ru/5. Каталог/Fundamental Attribution Error]]
+**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Stereotyping]], [[ru/5. Каталог/Naive Realism]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Cultural Bias]]
 
 ---
 
@@ -101,6 +101,7 @@ Outgroup Homogeneity — **застревание в тезисе** через �
 - [[Naive Realism]] — мы видим реальность объективно
 - [[Fundamental Attribution Error]] — черты, не обстоятельства
 
+- [[ru/5. Каталог/Cultural Bias]] — суждение чужой группы по меркам своей
 ## Источники
 
 - Quattrone, G. A., & Jones, E. E. (1980). *The perception of variability within in-groups and out-groups*. Journal of Personality and Social Psychology, 38(1), 141-152. — [DOI](https://doi.org/10.1037/0022-3514.38.1.141)

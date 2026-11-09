@@ -6,7 +6,7 @@
 
 **Также известно как:** naive realism bias, belief in objective perception
 **Категория:** социальное (восприятие реальности другими)
-**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Just-World Fallacy]], [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Better-Than-Average Effect]]
+**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Just-World Fallacy]], [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Better-Than-Average Effect]], [[ru/5. Каталог/Cultural Bias]]
 
 ---
 
@@ -96,6 +96,7 @@ Naive realism — **застревание в тезисе** через отка
 - [[ru/5. Каталог/Halo Effect|Halo Effect]] — ореол на нашем восприятии
 - [[ru/5. Каталог/Better-Than-Average Effect|Better-Than-Average Effect]] — мы считаем себя более объективными
 
+- [[ru/5. Каталог/Cultural Bias]] — «мир такой, какой я его вижу», доведённое до единственно возможного
 ## Источники
 
 - Ross, L., & Ward, A. (1996). *Naive realism in everyday life: Implications for social conflict and misunderstanding*. In *Values and Knowledge* (pp. 103-135). Lawrence Erlbaum. — ISBN 9780805815214
