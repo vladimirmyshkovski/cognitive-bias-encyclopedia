@@ -6,7 +6,7 @@
 
 **Также известно как:** bystander apathy, bystander intervention, Genovese syndrome, diffusion of responsibility
 **Категория:** социальное (снижение помощи в присутствии других)
-**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Conformity]], [[ru/5. Каталог/Pluralistic Ignorance]], [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Deindividuation]]
+**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Conformity]], [[ru/5. Каталог/Pluralistic Ignorance]], [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Deindividuation]], [[ru/5. Каталог/Mob Mentality]]
 
 ---
 
@@ -107,6 +107,7 @@ Bystander Effect — **застревание в тезисе** через ди�
 - [[Spotlight Effect]] — мы переоцениваем, как другие нас оценивают
 
 - [[ru/5. Каталог/Deindividuation]] — распределение ответственности как механизм неоказания помощи
+- [[ru/5. Каталог/Mob Mentality]] — в толпе распределение ответственности доводится до конца: отвечает «никто»
 ## Источники
 
 - Darley, J. M., & Latané, B. (1968). *Bystander intervention in emergencies: Diffusion of responsibility*. Journal of Personality and Social Psychology, 8(4p1), 377. — [DOI](https://doi.org/10.1037/h0025589)
