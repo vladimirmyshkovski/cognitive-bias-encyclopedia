@@ -99,8 +99,8 @@ Decoy effect — **застревание в тезисе** через слеп�
 
 ## Источники
 
-- Huber, J., Payne, J. W., & Puto, C. (1982). *Adding asymmetrically dominated alternatives: Violations of regularity and the similarity hypothesis*. Journal of Consumer Research, 9(1), 90-98.
-- Simonson, I. (1989). *Choice based on reasons: The case of attraction and compromise effects*. Journal of Consumer Research, 16(2), 158-174.
-- Ariely, D. (2008). *Predictably Irrational: The Hidden Forces That Shape Our Decisions*. Harper. Ch. 1.
+- Huber, J., Payne, J. W., & Puto, C. (1982). *Adding asymmetrically dominated alternatives: Violations of regularity and the similarity hypothesis*. Journal of Consumer Research, 9(1), 90-98. — [DOI](https://doi.org/10.1086/208899)
+- Simonson, I. (1989). *Choice based on reasons: The case of attraction and compromise effects*. Journal of Consumer Research, 16(2), 158-174. — [DOI](https://doi.org/10.1086/209205)
+- Ariely, D. (2008). *Predictably Irrational: The Hidden Forces That Shape Our Decisions*. Harper. Ch. 1. — ISBN 9780061353239
 - [Wikipedia: Decoy effect](https://en.wikipedia.org/wiki/Decoy_effect)
 - [Wikipedia: Asymmetric dominance](https://en.wikipedia.org/wiki/Asymmetric_dominance)
