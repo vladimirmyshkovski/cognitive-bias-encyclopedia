@@ -85,7 +85,7 @@
 
 ## Источники
 
-- Ross, M. (1989). Toward a theory of remembered and foregone selves. *Journal of Personality and Social Psychology*, 56(6), 967-975.
-- Wilson, T. D., & Ross, M. (2003). The Thomas theorem revisited. *Journal of Personality and Social Psychology*, 85(4), 806-815.
-- Conway, M., & Pleydell-Pearce, C. W. (2000). The construction of autobiographical memories in the self and social psychology. *Psychological Review*, 107(2), 261-288.
+- Ross, M. (1989). Toward a theory of remembered and foregone selves. *Journal of Personality and Social Psychology*, 56(6), 967-975. — [оглавление](https://archive.org/details/sim_journal-of-personality-and-social-psychology_1989_56_index)
+- Wilson, T. D., & Ross, M. (2003). The Thomas theorem revisited. *Journal of Personality and Social Psychology*, 85(4), 806-815. — [оглавление](https://archive.org/details/sim_journal-of-personality-and-social-psychology_2003_85_index)
+- Conway, M., & Pleydell-Pearce, C. W. (2000). The construction of autobiographical memories in the self and social psychology. *Psychological Review*, 107(2), 261-288. — [DOI](https://doi.org/10.1037/0033-295x.107.2.261)
 - [Wikipedia: Rosy retrospection](https://en.wikipedia.org/wiki/Rosy_retrospection)
