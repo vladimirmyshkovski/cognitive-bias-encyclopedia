@@ -6,7 +6,7 @@
 
 **Также известно как:** spacing effect, distributed practice, распределённое обучение, эффект разнесённого повторения
 **Категория:** память (распределение повторений)
-**Связанные:** [[ru/5. Каталог/Serial Position Effect]], [[ru/5. Каталог/False Memory]], [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Source Confusion]]
+**Связанные:** [[ru/5. Каталог/Serial Position Effect]], [[ru/5. Каталог/False Memory]], [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Source Confusion]], [[ru/5. Каталог/Zeigarnik Effect]]
 
 ---
 
@@ -81,6 +81,7 @@
 - [[ru/5. Каталог/Misinformation Effect]] — интервал между событием и опросом меняет, сколько посторонней информации успеет закрепиться
 - [[ru/5. Каталог/Source Confusion]] — при возвращении к материалу спустя дни растёт риск приписать себе чужую мысль
 
+- [[ru/5. Каталог/Zeigarnik Effect]] — незавершённое удерживается и без всякого повторения
 ## Источники
 
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin*, 132(3), 354-380. — [DOI](https://doi.org/10.1037/0033-2909.132.3.354)
