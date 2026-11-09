@@ -81,9 +81,9 @@
 
 ## Источники
 
-- Edwards, W. (1968). Conservatism in human information processing. In D. Kahneman, P. Slovic & A. Tversky (Eds.), *Judgment under uncertainty: Heuristics and biases*. Cambridge University Press.
-- Nickols, C. D. (1983). Conceptual representation and Bayesian updating. *Organizational Behavior and Human Decision Processes*, 30(1), 121-135.
-- Klein, G. L. (1958). The conservatism of an observer. *Human Behavior*, 8, 124-126.
-- Kadiyala, P., & Rau, P. R. (2004). Investor reaction to corporate event announcements: Under-reaction or over-reaction? *The Journal of Business*, 77(4), 357-386.
-- Hilbert, M. (2012). Toward a synthesis of cognitive biases: How noisy information processing can bias human decision making. *Psychological Bulletin*, 138(2), 211-237.
+- Edwards, W. (1968). Conservatism in human information processing. In D. Kahneman, P. Slovic & A. Tversky (Eds.), *Judgment under uncertainty: Heuristics and biases*. Cambridge University Press. — [DOI](https://doi.org/10.1017/CBO9780511809477.026)
+- Nickols, C. D. (1983). Conceptual representation and Bayesian updating. *Organizational Behavior and Human Decision Processes*, 30(1), 121-135. — [оглавление](https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes/vol/30/issue/1)
+- Klein, G. L. (1958). The conservatism of an observer. *Human Behavior*, 8, 124-126. — [журнал](https://www.jstor.org/journal/humbehav)
+- Kadiyala, P., & Rau, P. R. (2004). Investor reaction to corporate event announcements: Under-reaction or over-reaction? *The Journal of Business*, 77(4), 357-386. — [DOI](https://doi.org/10.1086/381273)
+- Hilbert, M. (2012). Toward a synthesis of cognitive biases: How noisy information processing can bias human decision making. *Psychological Bulletin*, 138(2), 211-237. — [DOI](https://doi.org/10.1037/a0025940)
 - [Wikipedia: Conservatism (belief revision)](https://en.wikipedia.org/wiki/Conservatism_(Bayesian))
