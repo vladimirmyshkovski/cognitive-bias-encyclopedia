@@ -6,7 +6,7 @@
 
 **Также известно как:** curse of expertise, expert blind spot, knowledge curse
 **Категория:** суждение (оценка сложности для других)
-**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Illusion of Control]]
+**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Illusion of Control]], [[ru/5. Каталог/Projection Bias]]
 
 ---
 
@@ -103,6 +103,7 @@ Curse of knowledge — **застревание в тезисе** через н�
 - [[ru/5. Каталог/Availability Heuristic]] — то, что легко вспоминается нам, кажется «очевидным»
 - [[ru/5. Каталог/Illusion of Control]] — мы контролируем информацию и предполагаем, что другие тоже её «получат»
 
+- [[ru/5. Каталог/Projection Bias]] — знание не мешает представить, что кто-то им не владеет
 ## Источники
 
 - Camerer, C., Loewenstein, G., & Weber, M. (1989). *The curse of knowledge in economic settings: An experimental analysis*. Journal of Political Economy, 97(5), 1232-1254. — [DOI](https://doi.org/10.1086/261651)

@@ -6,7 +6,7 @@
 
 **Также известно как:** false consensus bias, projection bias (partial)
 **Категория:** само (переоценка согласия других)
-**Связанные:** [[ru/5. Каталог/Better-Than-Average Effect]], [[ru/5. Каталог/Naive Realism]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Halo Effect]]
+**Связанные:** [[ru/5. Каталог/Better-Than-Average Effect]], [[ru/5. Каталог/Naive Realism]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Projection Bias]]
 
 ---
 
@@ -98,6 +98,7 @@ False Consensus Effect — **застревание в тезисе** через
 - [[Self-serving Bias]] — мы приписываем успехи себе
 - [[Halo Effect]] — ореол на наших качествах
 
+- [[ru/5. Каталог/Projection Bias]] — более общая основа: мы проецируем на других свои качества и точку зрения
 ## Источники
 
 - Ross, L., Greene, D., & House, P. (1977). *The "false consensus effect": An egocentric bias in social perception and attribution processes*. Journal of Experimental Social Psychology, 13(3), 279-301. — [DOI](https://doi.org/10.1016/0022-1031(77)90049-x)
