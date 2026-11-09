@@ -85,7 +85,7 @@
 
 ## Источники
 
-- Tversky, A., & Kahneman, D. (1983). On the psychology of prediction. *Psychological Review*, 90(4), 293-315.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 15 (Linda: Less Is More).
-- Nisbett, B. E., & Ross, M. (1980). Human inference: Principles of judgments based on incomplete information. *American Psychologist*, 35(7), 711-721.
+- Tversky, A., & Kahneman, D. (1983). *Extensional versus intuitive reasoning: The conjunction fallacy*. Psychological Review, 90(4), 293-315. — [DOI](https://doi.org/10.1037/0033-295x.90.4.293)
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 15 (Linda: Less Is More). — ISBN 9780374275631
+- Nisbett, R. E. (1980). *Human inference*. Prentice-Hall. — ISBN 9780134451305
 - [Wikipedia: Conjunction fallacy](https://en.wikipedia.org/wiki/Conjunction_fallacy)
