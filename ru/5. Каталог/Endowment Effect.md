@@ -102,8 +102,8 @@ Endowment effect — **застревание в тезисе** через эм�
 
 ## Источники
 
-- Thaler, R. (1980). *Toward a positive theory of consumer choice*. Journal of Economic Behavior & Organization, 1(1), 39-60.
-- Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1990). *Experimental tests of the endowment effect and the Coase theorem*. Journal of Political Economy, 98(6), 1325-1348.
-- Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1991). *The Endowment Effect, Loss Aversion, and Status Quo Bias*. Journal of Economic Perspectives, 5(1), 193-206.
-- Morewedge, C. K., & Giblin, C. E. (2015). *Overcoming the endowment effect through mental imagery*. Management Science, 61(1), 138-154.
+- Thaler, R. (1980). *Toward a positive theory of consumer choice*. Journal of Economic Behavior & Organization, 1(1), 39-60. — [DOI](https://doi.org/10.1016/0167-2681(80)90051-7)
+- Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1990). *Experimental tests of the endowment effect and the Coase theorem*. Journal of Political Economy, 98(6), 1325-1348. — [DOI](https://doi.org/10.1086/261737)
+- Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1991). *Anomalies: The Endowment Effect, Loss Aversion, and Status Quo Bias*. Journal of Economic Perspectives, 5(1), 193-206. — [DOI](https://doi.org/10.1257/jep.5.1.193)
+- Morewedge, C. K., & Giblin, C. E. (2015). *Overcoming the endowment effect through mental imagery*. Management Science, 61(1), 138-154. — [оглавление](https://pubsonline.informs.org/toc/mnsc/61/1)
 - [Wikipedia: Endowment effect](https://en.wikipedia.org/wiki/Endowment_effect)
