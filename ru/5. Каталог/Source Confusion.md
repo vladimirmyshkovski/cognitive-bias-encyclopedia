@@ -6,7 +6,7 @@
 
 **Также известно как:** source monitoring error, source misattribution, reality monitoring error
 **Категория:** память (забывание источника информации)
-**Связанные:** [[ru/5. Каталог/False Memory]], [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Cryptomnesia]]
+**Связанные:** [[ru/5. Каталог/False Memory]], [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Cryptomnesia]], [[ru/5. Каталог/Mood-Congruent Memory]]
 
 ---
 
@@ -93,6 +93,7 @@ Source Confusion — **застревание на тезисе** через п�
 - [[Misinformation Effect]] — пост-событийная информация искажает память
 - [[Cryptomnesia]] — мы принимаем чужие идеи за свои
 
+- [[ru/5. Каталог/Mood-Congruent Memory]] — сходство с состоянием принимается за знакомство с самим событием
 ## Источники
 
 - Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). *Source monitoring*. Psychological Bulletin, 114(1), 3-28. — [DOI](https://doi.org/10.1037/0033-2909.114.1.3)

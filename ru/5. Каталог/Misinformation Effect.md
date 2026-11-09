@@ -6,7 +6,7 @@
 
 **Также известно как:** post-event misinformation effect, Loftus effect, suggestive memory
 **Категория:** память (искажение воспоминаний пост-событийной информацией)
-**Связанные:** [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Availability Heuristic]]
+**Связанные:** [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Mood-Congruent Memory]]
 
 ---
 
@@ -91,6 +91,7 @@ Misinformation effect — **застревание в тезисе** через 
 - [[ru/5. Каталог/Availability Heuristic]] — вспоминаемое = яркое = «важное»
 - [[ru/5. Каталог/Better-Than-Average Effect]] — мы переоцениваем точность своей памяти
 
+- [[ru/5. Каталог/Mood-Congruent Memory]] — состояние отбирает, какие признаки события вообще попадут в след
 ## Источники
 
 - Loftus, E. F. (1975). *Leading questions and the eyewitness report*. Cognitive Psychology, 7(4), 560-572. — [DOI](https://doi.org/10.1016/0010-0285(75)90023-7)
