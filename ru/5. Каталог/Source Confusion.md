@@ -95,7 +95,7 @@ Source Confusion — **застревание на тезисе** через п�
 
 ## Источники
 
-- Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). *Source monitoring*. Psychological Bulletin, 114(1), 3-28.
-- Johnson, M. K., & Raye, C. L. (1981). *Reality monitoring*. Psychological Review, 88(1), 67-85.
-- Mather, M., Henkel, L. A., & Johnson, M. K. (2000). *Evaluating characteristics of false memories*. Memory & Cognition, 28(5), 717-728.
+- Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). *Source monitoring*. Psychological Bulletin, 114(1), 3-28. — [DOI](https://doi.org/10.1037/0033-2909.114.1.3)
+- Johnson, M. K., & Raye, C. L. (1981). *Reality monitoring*. Psychological Review, 88(1), 67-85. — [DOI](https://doi.org/10.1037/0033-295x.88.1.67)
+- Mather, M., Henkel, L. A., & Johnson, M. K. (1997). *Evaluating characteristics of false memories: Remember/know judgments and confidence*. Memory & Cognition, 25(6), 826-837. — [DOI](https://doi.org/10.3758/bf03211327)
 - [Wikipedia: Source monitoring](https://en.wikipedia.org/wiki/Source_monitoring)
