@@ -108,7 +108,7 @@ Negativity bias — **застревание в тезисе угрозы**, н�
 
 ## Источники
 
-- Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). *Bad is stronger than good*. Review of General Psychology, 5(4), 323-370.
-- Rozin, P., & Royzman, E. B. (2001). *Negativity bias, negativity dominance, and contagion*. Personality and Social Psychology Review, 5(4), 296-320.
-- Kahneman, D., & Tversky, A. (1979). *Prospect theory: An analysis of decision under risk*. Econometrica, 47(2), 263-292.
+- Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). *Bad is stronger than good*. Review of General Psychology, 5(4), 323-370. — [DOI](https://doi.org/10.1037/1089-2680.5.4.323)
+- Rozin, P., & Royzman, E. B. (2001). *Negativity bias, negativity dominance, and contagion*. Personality and Social Psychology Review, 5(4), 296-320. — [DOI](https://doi.org/10.1207/s15327957pspr0504_2)
+- Kahneman, D., & Tversky, A. (1979). *Prospect theory: An analysis of decision under risk*. Econometrica, 47(2), 263-292. — [DOI](https://doi.org/10.2307/1914185)
 - [Wikipedia: Negativity bias](https://en.wikipedia.org/wiki/Negativity_bias)
