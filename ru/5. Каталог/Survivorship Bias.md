@@ -92,7 +92,7 @@ Survivorship bias — это **застревание в тезисе «види
 
 ## Источники
 
-- Wald, A. (1943). *A Method of Estimating Plane Vulnerability Based on Damage of Survivors*. Statistical Research Group, Columbia University.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 7 (A Machine for Jumping to Conclusions).
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 1 (Survivorship Bias).
+- Wald, A. (1943). *A Method of Estimating Plane Vulnerability Based on Damage of Survivors*. Statistical Research Group, Columbia University. — [PDF](https://web.archive.org/web/20190817031040/https://people.ucsc.edu/~msmangel/Wald.pdf)
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 7 (A Machine for Jumping to Conclusions). — ISBN 9780374275631
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 1 (Survivorship Bias). — ISBN 9780062273840
 - [Wikipedia: Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias)
