@@ -6,7 +6,7 @@
 
 **Также известно как:** groupthink, Abilene paradox (related)
 **Категория:** социальное (искажение решений через давление консенсуса)
-**Связанные:** [[ru/5. Каталог/Conformity]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Authority Bias]], [[ru/5. Каталог/Bandwagon Effect]]
+**Связанные:** [[ru/5. Каталог/Conformity]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Authority Bias]], [[ru/5. Каталог/Bandwagon Effect]], [[ru/5. Каталог/Deindividuation]]
 
 ---
 
@@ -100,6 +100,7 @@ Groupthink — **застревание в тезисе** через подав�
 - [[Authority Bias]] — давление авторитета
 - [[Bandwagon Effect]] — следование за большинством
 
+- [[ru/5. Каталог/Deindividuation]] — единство решения и растворение в группе — разные вещи
 ## Источники
 
 - Janis, I. L. (1972). *Victims of groupthink*. Houghton Mifflin. — ISBN 9780395140024

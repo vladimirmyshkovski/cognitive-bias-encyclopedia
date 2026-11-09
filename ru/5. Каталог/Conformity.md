@@ -6,7 +6,7 @@
 
 **Также известно как:** Asch effect, group conformity, peer pressure
 **Категория:** социальное (согласие с группой)
-**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Bandwagon Effect]], [[ru/5. Каталог/Authority Bias]], [[ru/5. Каталог/Stereotyping]]
+**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Bandwagon Effect]], [[ru/5. Каталог/Authority Bias]], [[ru/5. Каталог/Stereotyping]], [[ru/5. Каталог/Deindividuation]]
 
 ---
 
@@ -97,6 +97,7 @@ Conformity — **застревание в тезисе** через групп�
 - [[Stereotyping]] — групповое восприятие
 - [[Groupthink]] — конформность, усиленная групповой динамикой
 
+- [[ru/5. Каталог/Deindividuation]] — подчинение группе без потери личного стандарта
 ## Источники
 
 - Asch, S. E. (1956). *Studies of independence and conformity: A minority of one against a unanimous majority*. Psychological Monographs, 70(9), 1-70. — [DOI](https://doi.org/10.1037/h0093718)
