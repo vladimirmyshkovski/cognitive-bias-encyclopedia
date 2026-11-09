@@ -97,6 +97,6 @@ Salience Bias — **застревание в тезисе** через смеш
 
 ## Источники
 
-- Bordalo, P., Gennaioli, N., & Shleifer, A. (2012). *Salience theory of choice under risk*. Quarterly Journal of Economics, 127(3), 1243-1285.
-- Taylor, S. E., & Thompson, S. C. (1982). *Stalking the elusive "vividness" effect*. Psychological Review, 89(2), 155-181.
+- Bordalo, P., Gennaioli, N., & Shleifer, A. (2012). *Salience theory of choice under risk*. Quarterly Journal of Economics, 127(3), 1243-1285. — [DOI](https://doi.org/10.1093/qje/qjs018)
+- Taylor, S. E., & Thompson, S. C. (1982). *Stalking the elusive "vividness" effect*. Psychological Review, 89(2), 155-181. — [DOI](https://doi.org/10.1037/0033-295x.89.2.155)
 - [Wikipedia: Salience (neuroscience)](https://en.wikipedia.org/wiki/Salience_(neuroscience))
