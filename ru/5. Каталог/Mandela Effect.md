@@ -91,7 +91,7 @@ Mandela Effect — **застревание в тезисе** через дов�
 
 ## Источники
 
-- Broome, F. (2009). *The Mandela Effect*. Self-published blog post.
-- French, C. C. (2019). *The Mandela Effect and the psychology of false memories*. Skeptical Inquirer.
-- Lanman, J. A. (2020). *"The Mandela Effect" and its psychology*. Skeptical Inquirer, 44(2), 26-31.
+- Broome, F. (2010). *Nelson Mandela Died in Prison?* MandelaEffect.com. [URL](https://mandelaeffectsite.wordpress.com/2010/09/09/nelson-mandela-died-in-prison/)
+- Polidoro, M. (2022). *The Mandela Effect: How False Memories Are Created*. Skeptical Inquirer, 46(4). [URL](https://skepticalinquirer.org/2022/06/the-mandela-effect-how-false-memories-are-created/)
+- West, M. (2024). *The Useful Mandela Effect*. Skeptical Inquirer. [URL](https://skepticalinquirer.org/2024/08/the-useful-mandela-effect/)
 - [Wikipedia: Mandela effect](https://en.wikipedia.org/wiki/Mandela_effect)
