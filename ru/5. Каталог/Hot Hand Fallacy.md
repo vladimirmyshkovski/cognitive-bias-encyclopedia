@@ -94,7 +94,7 @@ Hot hand fallacy — **застревание в тезисе** через ло�
 
 ## Источники
 
-- Gilovich, T., Vallone, R., & Tversky, A. (1985). *The hot hand in basketball: On the misperception of random sequences*. Cognitive Psychology, 17(3), 295-314.
-- Kahneman, D., & Tversky, A. (1972). *Subjective probability: A judgment of representativeness*. Cognitive Psychology, 3(3), 430-454.
-- Gilovich, T. (1991). *How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life*. Free Press.
+- Gilovich, T., Vallone, R., & Tversky, A. (1985). *The hot hand in basketball: On the misperception of random sequences*. Cognitive Psychology, 17(3), 295-314. — [DOI](https://doi.org/10.1016/0010-0285(85)90010-6)
+- Kahneman, D., & Tversky, A. (1972). *Subjective probability: A judgment of representativeness*. Cognitive Psychology, 3(3), 430-454. — [DOI](https://doi.org/10.1016/0010-0285(72)90016-3)
+- Gilovich, T. (1991). *How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life*. Free Press. — ISBN 9780029117057
 - [Wikipedia: Hot hand fallacy](https://en.wikipedia.org/wiki/Hot_hand_fallacy)
