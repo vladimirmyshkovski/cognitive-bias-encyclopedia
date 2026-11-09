@@ -100,7 +100,7 @@ Pluralistic Ignorance — **застревание в тезисе** через 
 
 ## Источники
 
-- Katz, E., & Lazarsfeld, P. F. (1955). *Personal Influence: The Part Played by People in the Flow of Mass Communications*. Free Press.
-- Miller, D. T., & McFarland, D. J. (1991). *Pluralistic ignorance and the persistence of stereotypes*. Personality and Social Psychology Bulletin, 17(4), 373-380.
-- Noelle-Neumann, E. (1974). *The spiral of silence: A theory of public opinion*. Journal of Communication, 24(2), 43-51.
+- Katz, E., & Lazarsfeld, P. F. (1955). *Personal Influence: The Part Played by People in the Flow of Mass Communications*. Free Press. — [скан](https://archive.org/details/personalinfluenc0000katz)
+- Miller, D. T., & McFarland, D. J. (1991). *Pluralistic ignorance and the persistence of stereotypes*. Personality and Social Psychology Bulletin, 17(4), 373-380. — [оглавление](https://archive.org/details/sim_personality-and-social-psychology-bulletin_1991_17_index)
+- Noelle-Neumann, E. (1974). *The spiral of silence: A theory of public opinion*. Journal of Communication, 24(2), 43-51. — [DOI](https://doi.org/10.1111/j.1460-2466.1974.tb00367.x)
 - [Wikipedia: Pluralistic ignorance](https://en.wikipedia.org/wiki/Pluralistic_ignorance)
