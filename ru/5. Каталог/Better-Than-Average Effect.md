@@ -99,8 +99,8 @@ Better-than-average — **застревание в тезисе «я особе
 
 ## Источники
 
-- Svenson, O. (1981). *Are we all less risky and more skillful than our fellow drivers?* Acta Psychologica, 47(2), 143-148.
-- Pronin, E., Lin, D. Y., & Ross, L. (2002). *The bias blind spot: Perceptions of bias in self versus others*. Personality and Social Psychology Bulletin, 28(3), 369-381.
-- Moore, D. A. (2007). *Not so above average after all: When people believe they are worse than average and its implications for theories of bias perception*. Journal of Personality and Social Psychology.
+- Svenson, O. (1981). *Are we all less risky and more skillful than our fellow drivers?* Acta Psychologica, 47(2), 143-148. — [DOI](https://doi.org/10.1016/0001-6918(81)90005-6)
+- Pronin, E., Lin, D. Y., & Ross, L. (2002). *The bias blind spot: Perceptions of bias in self versus others*. Personality and Social Psychology Bulletin, 28(3), 369-381. — [DOI](https://doi.org/10.1177/0146167202286008)
+- Moore, D. A. (2007). *Not so above average after all: When people believe they are worse than average and its implications for theories of bias perception*. Organizational Behavior and Human Decision Processes, 102(1), 42-58. — [DOI](https://doi.org/10.1016/j.obhdp.2006.09.005)
 - [Wikipedia: Better-than-average effect](https://en.wikipedia.org/wiki/Better-than-average_effect)
 - [Wikipedia: Illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
