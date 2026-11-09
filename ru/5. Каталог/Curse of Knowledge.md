@@ -105,7 +105,7 @@ Curse of knowledge — **застревание в тезисе** через н�
 
 ## Источники
 
-- Camerer, C., Loewenstein, G., & Weber, M. (1989). *The curse of knowledge in economic settings: An experimental analysis*. Journal of Political Economy, 97(5), 1232-1254.
-- Heath, C., & Heath, D. (2006). *Made to Stick: Why Some Ideas Survive and Others Die*. Random House. Ch. 1.
-- Pinker, S. (2014). *The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century*. Viking.
+- Camerer, C., Loewenstein, G., & Weber, M. (1989). *The curse of knowledge in economic settings: An experimental analysis*. Journal of Political Economy, 97(5), 1232-1254. — [DOI](https://doi.org/10.1086/261651)
+- Heath, C., & Heath, D. (2006). *Made to Stick: Why Some Ideas Survive and Others Die*. Random House. Ch. 1. — ISBN 9781400064281
+- Pinker, S. (2014). *The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century*. Viking. — ISBN 9780670025855
 - [Wikipedia: Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
