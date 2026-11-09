@@ -104,7 +104,7 @@ Hawthorne Effect — **застревание в тезисе** через по�
 
 ## Источники
 
-- Mayo, E. (1933). *The Human Problems of an Industrial Civilization*. Macmillan.
-- McCarney, R., Warner, J., Iliffe, S., van Haselen, R., Griffin, M., & Fisher, P. (2007). *The Hawthorne Effect: a randomised, controlled trial*. BMC Medical Research Methodology, 7(1), 30.
-- Adair, J. G. (1984). *The Hawthorne effect: A reconsideration of the methodological artifact*. Journal of Applied Psychology, 69(2), 334-345.
+- Mayo, E. (1933). *The Human Problems of an Industrial Civilization*. Macmillan. — [скан](https://archive.org/details/humanproblemsofi0000mayo)
+- McCarney, R., Warner, J., Iliffe, S., van Haselen, R., Griffin, M., & Fisher, P. (2007). *The Hawthorne Effect: a randomised, controlled trial*. BMC Medical Research Methodology, 7(1), 30. — [DOI](https://doi.org/10.1186/1471-2288-7-30)
+- Adair, J. G. (1984). *The Hawthorne effect: A reconsideration of the methodological artifact*. Journal of Applied Psychology, 69(2), 334-345. — [DOI](https://doi.org/10.1037/0021-9010.69.2.334)
 - [Wikipedia: Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
