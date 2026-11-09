@@ -93,6 +93,6 @@ Gambler's fallacy — это **застревание в ложном патте
 
 ## Источники
 
-- Tversky, A., & Kahneman, D. (1971). *Belief in the Law of Small Numbers*. Psychological Bulletin, 76(2), 105-110.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 10 (The Law of Small Numbers).
+- Tversky, A., & Kahneman, D. (1971). *Belief in the Law of Small Numbers*. Psychological Bulletin, 76(2), 105-110. — [DOI](https://doi.org/10.1037/h0031322)
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 10 (The Law of Small Numbers). — ISBN 9780374275631
 - [Wikipedia: Gambler's fallacy](https://en.wikipedia.org/wiki/Gambler's_fallacy)
