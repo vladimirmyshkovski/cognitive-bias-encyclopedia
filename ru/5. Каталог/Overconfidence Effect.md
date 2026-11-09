@@ -103,8 +103,8 @@ Overconfidence — **застревание в тезисе** через игн�
 
 ## Источники
 
-- Moore, D. A., & Healy, P. J. (2008). *The trouble with overconfidence*. Psychological Review, 115(2), 502-517.
-- Svenson, O. (1981). *Are we all less risky and more skillful than our fellow drivers?* Acta Psychologica, 47(2), 143-148.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 19 (The Illusion of Understanding), 20 (The Illusion of Validity), 21 (Intuitions vs. Formulas), 23 (The Outside View).
-- Lichtenstein, S., Fischhoff, B., & Phillips, L. D. (1982). *Calibration of probabilities: The state of the art to 1980*. Journal of Forecasting, 1(1), 55-71.
+- Moore, D. A., & Healy, P. J. (2008). *The trouble with overconfidence*. Psychological Review, 115(2), 502-517. — [DOI](https://doi.org/10.1037/0033-295x.115.2.502)
+- Svenson, O. (1981). *Are we all less risky and more skillful than our fellow drivers?* Acta Psychologica, 47(2), 143-148. — [DOI](https://doi.org/10.1016/0001-6918(81)90005-6)
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 19 (The Illusion of Understanding), 20 (The Illusion of Validity), 21 (Intuitions vs. Formulas), 23 (The Outside View). — ISBN 9780374275631
+- Lichtenstein, S., Fischhoff, B., & Phillips, L. D. (1982). *Calibration of probabilities: The state of the art to 1980*. In D. Kahneman, P. Slovic & A. Tversky (Eds.), *Judgment under uncertainty: Heuristics and biases* (pp. 306-334). Cambridge University Press. — [DOI](https://doi.org/10.1017/CBO9780511809477.023)
 - [Wikipedia: Overconfidence](https://en.wikipedia.org/wiki/Overconfidence)
