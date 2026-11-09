@@ -98,7 +98,7 @@ Hot-Cold empathy gap — **застревание в тезисе** через �
 
 ## Источники
 
-- Loewenstein, G. (1996). *Out of control: Visceral influences on behavior*. Organizational Behavior and Human Decision Processes, 65(3), 272-292.
-- Loewenstein, G., & Schkade, D. (1999). *Wouldn't it be nice? Predicting future feelings*. In *Well-being: The foundations of hedonic psychology*.
-- Van Boven, L., Loewenstein, G., & Dunning, D. (2005). *The illusion of courage in social predictions*. Journal of Personality and Social Psychology, 91(5), 783-800.
+- Loewenstein, G. (1996). *Out of control: Visceral influences on behavior*. Organizational Behavior and Human Decision Processes, 65(3), 272-292. — [DOI](https://doi.org/10.1006/obhd.1996.0028)
+- Loewenstein, G., & Schkade, D. (1999). *Wouldn't it be nice? Predicting future feelings*. In *Well-being: The foundations of hedonic psychology*. — ISBN 9780871544247
+- Van Boven, L., Loewenstein, G., & Dunning, D. (2005). *The illusion of courage in social predictions*. Organizational Behavior and Human Decision Processes, 96(2), 130-141. — [DOI](https://doi.org/10.1016/j.obhdp.2004.12.001)
 - [Wikipedia: Empathy gap](https://en.wikipedia.org/wiki/Empathy_gap)
