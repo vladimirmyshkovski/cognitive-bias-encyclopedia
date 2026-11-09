@@ -6,7 +6,7 @@
 
 **Также известно как:** IKEA effect, labor of love, sunk effort
 **Категория:** суждение (оценка объектов через вложенное усилие)
-**Связанные:** [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Endowment Effect]], [[ru/5. Каталог/Motivated Reasoning]]
+**Связанные:** [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Endowment Effect]], [[ru/5. Каталог/Motivated Reasoning]], [[ru/5. Каталог/IKEA Effect]]
 
 ---
 
@@ -93,6 +93,7 @@ Effort Justification — **застревание в тезисе** через �
 - [[Loss Aversion]] — потеря усилия = потеря
 - [[Endowment Effect]] — после усилий — чувство собственности
 - Motivated Reasoning — мы хотим верить в ценность
+- [[ru/5. Каталог/IKEA Effect]] — та же связка «усилие → ценность», только до того, как затраты сделаны
 
 ## Источники
 

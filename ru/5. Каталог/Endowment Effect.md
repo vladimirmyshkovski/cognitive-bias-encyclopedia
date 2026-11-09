@@ -6,7 +6,7 @@
 
 **Также известно как:** endowment effect, divestiture aversion
 **Категория:** суждение (оценка того, чем владеем)
-**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Status Quo Bias]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Anchoring]]
+**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Status Quo Bias]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/IKEA Effect]]
 
 ---
 
@@ -99,6 +99,7 @@ Endowment effect — **застревание в тезисе** через эм�
 - [[Anchoring]] — привязка к цене покупки
 - [[Motivated Reasoning]] — мы хотим верить, что наши вещи стоят больше
 - [[Halo Effect]] — ореол на своих активах (моё = хорошее)
+- [[ru/5. Каталог/IKEA Effect]] — владение «заслуженное» трудом, поэтому оценка выше
 
 ## Источники
 
