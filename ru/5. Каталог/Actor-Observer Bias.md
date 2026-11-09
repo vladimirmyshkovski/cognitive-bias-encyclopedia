@@ -83,7 +83,7 @@
 
 ## Источники
 
-- Jones, E. E., & Nisbett, R. E. (1971). The rocks and the hard places: A dilemma in attributing behavior to persons or to their situations. *Journal of Personality and Social Psychology*, 19(2), 151-160.
-- Malle, B. F. (2006). The actor-observer asymmetry: A (surprising) meta-analysis. *Psychological Bulletin*, 132(6), 895-923.
-- Nisbett, R. E., Wilson, T. D., & Jones, E. E. (1973). Perceiving the behavior of a person under conflicting situational demands. *Journal of Personality and Social Psychology*, 24(4), 429-433.
+- Jones, E. E., & Nisbett, R. E. (1971). The rocks and the hard places: A dilemma in attributing behavior to persons or to their situations. *Journal of Personality and Social Psychology*, 19(2), 151-160. — [оглавление](https://archive.org/details/sim_journal-of-personality-and-social-psychology_1971_17-20_contents)
+- Malle, B. F. (2006). The actor-observer asymmetry: A (surprising) meta-analysis. *Psychological Bulletin*, 132(6), 895-923. — [DOI](https://doi.org/10.1037/0033-2909.132.6.895)
+- Nisbett, R. E., Wilson, T. D., & Jones, E. E. (1973). Perceiving the behavior of a person under conflicting situational demands. *Journal of Personality and Social Psychology*, 24(4), 429-433. — [оглавление](https://archive.org/details/sim_journal-of-personality-and-social-psychology_1973_25_contents)
 - [Wikipedia: Actor-observer asymmetry](https://en.wikipedia.org/wiki/Actor%E2%80%93observer_asymmetry)
