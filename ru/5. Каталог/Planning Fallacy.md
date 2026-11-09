@@ -6,7 +6,7 @@
 
 **Также известно как:** planning fallacy bias, optimism bias of time
 **Категория:** вероятность (оценка сроков и ресурсов)
-**Связанные:** [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Base Rate Fallacy]], [[ru/5. Каталог/Dunning-Kruger]]
+**Связанные:** [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Base Rate Fallacy]], [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Outcome Bias]]
 
 ---
 
@@ -98,6 +98,7 @@ Planning fallacy — **застревание в тезисе** через иг�
 - [[ru/5. Каталог/Base Rate Fallacy]] — игнорирование статистики
 - [[ru/5. Каталог/Dunning-Kruger]] — переоценка собственной компетентности
 - [[ru/5. Каталог/Illusion of Control]] — вера в контроль над проектом
+- [[ru/5. Каталог/Outcome Bias]] — та же ошибка в прошлом: оценка решения по факту, а не по расчёту
 
 ## Источники
 
