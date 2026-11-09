@@ -96,7 +96,7 @@ Effort Justification — **застревание в тезисе** через �
 
 ## Источники
 
-- Aronson, E., & Mills, J. (1959). *Some evidence of social pressure on voluntary group enhancement*. Journal of Personality and Social Psychology, 59(8), 245-252.
-- Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
-- Norton, M. I., Mochon, D., & Ariely, D. (2012). *The IKEA effect: When labor leads to love*. Journal of Consumer Psychology, 22(3), 453-460.
+- Aronson, E., & Mills, J. (1959). *The effect of severity of initiation on liking for a group*. The Journal of Abnormal and Social Psychology, 59(2), 177-181. — [DOI](https://doi.org/10.1037/h0047195)
+- Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press. — ISBN 9780804709118
+- Norton, M. I., Mochon, D., & Ariely, D. (2012). *The IKEA effect: When labor leads to love*. Journal of Consumer Psychology, 22(3), 453-460. — [DOI](https://doi.org/10.1016/j.jcps.2011.08.002)
 - [Wikipedia: Effort justification](https://en.wikipedia.org/wiki/Effort_justification)
