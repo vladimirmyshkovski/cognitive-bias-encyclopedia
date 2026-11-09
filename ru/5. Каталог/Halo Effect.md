@@ -100,7 +100,7 @@ Halo — это **фиксация через одну черту**, невоз�
 
 ## Источники
 
-- Nisbett, R. E., & Wilson, T. D. (1977). *The halo effect: Evidence for unconscious alteration of judgments*. Journal of Personality and Social Psychology, 35(4), 250-256.
-- Thorndike, E. L. (1920). *A constant error in psychological ratings*. Journal of Applied Psychology, 4(1), 25-29.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 7 (A Machine for Jumping to Conclusions).
+- Nisbett, R. E., & Wilson, T. D. (1977). *The halo effect: Evidence for unconscious alteration of judgments*. Journal of Personality and Social Psychology, 35(4), 250-256. — [DOI](https://doi.org/10.1037/0022-3514.35.4.250)
+- Thorndike, E. L. (1920). *A constant error in psychological ratings*. Journal of Applied Psychology, 4(1), 25-29. — [DOI](https://doi.org/10.1037/h0071663)
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 7 (A Machine for Jumping to Conclusions). — ISBN 9780374275631
 - [Wikipedia: Halo effect](https://en.wikipedia.org/wiki/Halo_effect)
