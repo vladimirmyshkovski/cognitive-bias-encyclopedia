@@ -103,6 +103,6 @@ Outgroup Homogeneity — **застревание в тезисе** через �
 
 ## Источники
 
-- Quattrone, G. A., & Jones, E. E. (1980). *The perception of variability within in-groups and out-groups*. Journal of Personality and Social Psychology, 38(1), 141-152.
-- Mullen, B., & Hu, L. T. (1988). *Perceptions of ingroup and outgroup variability: A meta-analytic integration*. Basic and Applied Social Psychology, 9(1), 23-40.
+- Quattrone, G. A., & Jones, E. E. (1980). *The perception of variability within in-groups and out-groups*. Journal of Personality and Social Psychology, 38(1), 141-152. — [DOI](https://doi.org/10.1037/0022-3514.38.1.141)
+- Mullen, B., & Hu, L. T. (1988). *Perceptions of ingroup and outgroup variability: A meta-analytic integration*. Basic and Applied Social Psychology, 9(1), 23-40. — [DOI](https://doi.org/10.1207/s15324834basp1003_3)
 - [Wikipedia: Outgroup homogeneity bias](https://en.wikipedia.org/wiki/Outgroup_homogeneity_bias)
