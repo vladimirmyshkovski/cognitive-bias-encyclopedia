@@ -6,7 +6,7 @@
 
 **Также известно как:** optimism bias, unrealistic optimism
 **Категория:** само (оценка будущего)
-**Связанные:** [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Planning Fallacy]]
+**Связанные:** [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Planning Fallacy]], [[ru/5. Каталог/Focusing Effect]]
 
 ---
 
@@ -103,6 +103,7 @@ Optimism bias — это **фиксация через мотивацию**, н�
 - [[ru/5. Каталог/Hindsight Bias]] — после успеха: «я знал, что всё будет хорошо»
 - [[ru/5. Каталог/Planning Fallacy]] — оптимизм по срокам: систематическая недооценка времени на проекты
 - [[Overconfidence Effect]] — мы переоцениваем точность своих прогнозов
+- [[ru/5. Каталог/Focusing Effect]] — оптимизм держится на фокусе: один хороший фактор объясняет всё
 
 ## Источники
 

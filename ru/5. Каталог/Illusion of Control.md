@@ -6,7 +6,7 @@
 
 **Также известно как:** control bias, perceived control bias
 **Категория:** само (оценка собственной агентности)
-**Связанные:** [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Gambler's Fallacy]]
+**Связанные:** [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Gambler's Fallacy]], [[ru/5. Каталог/Focusing Effect]]
 
 ---
 
@@ -94,6 +94,7 @@ Illusion of control — **застревание в тезисе**, невозм
 - [[ru/5. Каталог/Sunk Cost Fallacy]] — продолжение инвестирования ради иллюзии контроля
 - [[ru/5. Каталог/Gambler's Fallacy]] — ошибочные паттерны в случайных процессах
 - [[ru/5. Каталог/Halo Effect]] — уверенность в компетентности во всём
+- [[ru/5. Каталог/Focusing Effect]] — «именно этот фактор всё решил» и есть фокус на одном аспекте
 
 ## Источники
 
