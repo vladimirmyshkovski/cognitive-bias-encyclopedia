@@ -117,7 +117,7 @@ Authority bias — **застревание в тезисе**, невозмож�
 
 ## Источники
 
-- Milgram, S. (1963). *Obedience to authority: An experimental view*. Harper & Row.
-- Tversky, A., & Kahneman, D. (1974). *Judgment under uncertainty: Heuristics and biases*. Science, 185(4157), 1124-1131.
-- Haslam, S. A., Reicher, S. D., & Platow, M. J. (2011). *The new psychology of leadership: Identity, influence and power*. Psychology Press.
+- Milgram, S. (1963). *Obedience to authority: An experimental view*. Harper & Row. — ISBN 9780061319839
+- Tversky, A., & Kahneman, D. (1974). *Judgment under uncertainty: Heuristics and biases*. Science, 185(4157), 1124-1131. — [DOI](https://doi.org/10.1126/science.185.4157.1124)
+- Haslam, S. A., Reicher, S. D., & Platow, M. J. (2011). *The new psychology of leadership: Identity, influence and power*. Psychology Press. — ISBN 9781841696096
 - [Wikipedia: Authority bias](https://en.wikipedia.org/wiki/Authority_bias)
