@@ -100,6 +100,6 @@ Naive Cynicism — **застревание в тезисе** через сис�
 
 ## Источники
 
-- Kruger, J., & Gilovich, T. (1999). *"Naive cynicism" in everyday theories of responsibility*. Organizational Behavior and Human Decision Processes, 77(3), 157-173.
-- Mealy, M., & Tenove, C. (2020). *Disinformation and the naïve cynic: Why citizens are vulnerable to fake news*. Canadian Journal of Political Science, 53(4), 821-839.
+- Kruger, J., & Gilovich, T. (1999). *"Naive cynicism" in everyday theories of responsibility*. Journal of Personality and Social Psychology, 76(5), 743-753. — [DOI](https://doi.org/10.1037/0022-3514.76.5.743)
+- Mealy, M., & Tenove, C. (2020). *Disinformation and the naïve cynic: Why citizens are vulnerable to fake news*. Canadian Journal of Political Science, 53(4), 821-839. — [выпуск](https://www.cambridge.org/core/journals/canadian-journal-of-political-science/issue/DCFBF9462E069EF8D8B430C8694714B9)
 - [Wikipedia: Cynicism (disambiguation) → Naïve cynicism](https://en.wikipedia.org/wiki/Cynicism_(disambiguation))
