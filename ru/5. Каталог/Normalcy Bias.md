@@ -98,7 +98,7 @@ Normalcy Bias — **застревание в тезисе** через пода
 
 ## Источники
 
-- Omer, H., & Alon, N. (1994). *The continuity principle: A unified approach to disaster and terrorism*. International Journal of Stress Management, 2(1), 55-67.
-- Sunstein, C. R. (2003). *The Psychology of Precaution*. Yale Law Journal, 118(4), 1007-1078.
-- Omer, H. (2003). *Catastrophe or happy ending? The role of denial*. Journal of Child Psychotherapy, 29(2), 165-172.
+- Omer, H., & Alon, N. (1994). *The continuity principle: A unified approach to disaster and trauma*. American Journal of Community Psychology, 22(2), 273-287. — [DOI](https://doi.org/10.1007/bf02506866)
+- Sunstein, C. R. (2003). *The Psychology of Precaution*. Yale Law Journal, 118(4), 1007-1078. — [оглавление](https://www.jstor.org/toc/yalelawj/118/4)
+- Omer, H. (2003). *Catastrophe or happy ending? The role of denial*. Journal of Child Psychotherapy, 29(2), 165-172. — [выпуск](https://www.tandfonline.com/toc/rjcp20/29/2)
 - [Wikipedia: Normalcy bias](https://en.wikipedia.org/wiki/Normalcy_bias)
