@@ -6,7 +6,7 @@
 
 **Также известно как:** correspondence bias, attribution effect
 **Категория:** социальное (атрибуция)
-**Связанные:** [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Confirmation Bias]]
+**Связанные:** [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Bias Blind Spot]]
 
 ---
 
@@ -90,6 +90,7 @@ FAE — это **фиксация через игнорирование конт
 - [[ru/5. Каталог/Confirmation Bias]] — мы ищем информацию, подтверждающую диспозиционную оценку
 - [[ru/5. Каталог/Actor-Observer Bias]] — та же диспозиционная оценка, но с оговоркой: для себя мы выбираем ситуацию
 
+- [[ru/5. Каталог/Bias Blind Spot]] — та же асимметрия объяснений, только направленная на себя и других одновременно
 ## Источники
 
 - Ross, L. (1977). *The intuitive psychologist and his shortcomings: Distortions in the attribution process*. Advances in Experimental Social Psychology, 10, 173-220. — [DOI](https://doi.org/10.1016/s0065-2601(08)60357-3)

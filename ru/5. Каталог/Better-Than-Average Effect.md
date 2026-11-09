@@ -6,7 +6,7 @@
 
 **Также известно как:** above-average effect, Lake Wobegon effect, illusory superiority
 **Категория:** само (самооценка)
-**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Halo Effect]]
+**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Bias Blind Spot]]
 
 ---
 
@@ -97,6 +97,7 @@ Better-than-average — **застревание в тезисе «я особе
 - [[ru/5. Каталог/Halo Effect]] — одна черта = все черты (включая компетентность)
 - [[ru/5. Каталог/Illusion of Control]] — переоценка собственного влияния
 
+- [[ru/5. Каталог/Bias Blind Spot]] — «средний» оказывается ниже нас и по искажённости, хотя измеряется по-разному
 ## Источники
 
 - Svenson, O. (1981). *Are we all less risky and more skillful than our fellow drivers?* Acta Psychologica, 47(2), 143-148. — [DOI](https://doi.org/10.1016/0001-6918(81)90005-6)
