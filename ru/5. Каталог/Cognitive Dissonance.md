@@ -90,7 +90,7 @@ Dissonance — это **фиксация тезиса через искажен�
 
 ## Источники
 
-- Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
-- Aronson, E. (1969). *The Theory of Cognitive Dissonance: A Current Perspective*. Cognitive Dissonance: Progress.
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 50 (Cognitive Dissonance).
+- Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press. — ISBN 9780804709118
+- Aronson, E. (1969). *The Theory of Cognitive Dissonance: A Current Perspective*. In E. Aronson (Ed.), *Cognitive dissonance: Progress on a pivotal theory* (Advances in Experimental Social Psychology, Vol. 2, pp. 1-34). Academic Press. — [DOI](https://doi.org/10.1016/s0065-2601(08)60075-1)
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 50 (Cognitive Dissonance). — ISBN 9780062273840
 - [Wikipedia: Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance)
