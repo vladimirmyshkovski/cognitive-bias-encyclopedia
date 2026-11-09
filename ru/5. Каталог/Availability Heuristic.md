@@ -86,7 +86,7 @@ Availability heuristic — **застревание в тезисе «я пом�
 
 ## Источники
 
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 12 (The Science of Availability), 13 (Availability, Emotion, and Risk).
-- Tversky, A., & Kahneman, D. (1973). *Availability: A heuristic for judging frequency and probability*. Cognitive Psychology, 5(2), 207-232.
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 11 (Availability Bias).
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 12 (The Science of Availability), 13 (Availability, Emotion, and Risk). — ISBN 9780374275631
+- Tversky, A., & Kahneman, D. (1973). *Availability: A heuristic for judging frequency and probability*. Cognitive Psychology, 5(2), 207-232. — [DOI](https://doi.org/10.1016/0010-0285(73)90033-9)
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 11 (Availability Bias). — ISBN 9780062273840
 - [Wikipedia: Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
