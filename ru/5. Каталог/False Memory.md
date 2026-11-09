@@ -95,8 +95,8 @@ False Memory — **застревание в тезисе** через дове�
 
 ## Источники
 
-- Loftus, E. F., & Palmer, J. C. (1974). *Reconstruction of automobile destruction: An example of the interaction between language and memory*. Journal of Verbal Learning and Verbal Behavior, 13(5), 585-589.
-- Loftus, E. F., Miller, D. G., & Burns, H. J. (1978). *Semantic integration of verbal information into a visual memory*. Journal of Experimental Psychology: Human Learning and Memory, 4(1), 19-31.
-- Loftus, E. F., & Ketchum, K. (1994). *The myth of repressed memory*. St. Martin's Press.
-- Bernstein, D. M., & Loftus, E. F. (2009). *How to tell if a particular memory is true or false*. Perspectives on Psychological Science, 4(5), 473-478.
+- Loftus, E. F., & Palmer, J. C. (1974). *Reconstruction of automobile destruction: An example of the interaction between language and memory*. Journal of Verbal Learning and Verbal Behavior, 13(5), 585-589. — [DOI](https://doi.org/10.1016/s0022-5371(74)80011-3)
+- Loftus, E. F., Miller, D. G., & Burns, H. J. (1978). *Semantic integration of verbal information into a visual memory*. Journal of Experimental Psychology: Human Learning and Memory, 4(1), 19-31. — [DOI](https://doi.org/10.1037/0278-7393.4.1.19)
+- Loftus, E. F., & Ketchum, K. (1994). *The myth of repressed memory*. St. Martin's Press. — ISBN 9780312114541
+- Bernstein, D. M., & Loftus, E. F. (2009). *How to tell if a particular memory is true or false*. Perspectives on Psychological Science, 4(5), 473-478. — [DOI](https://doi.org/10.1111/j.1745-6924.2009.01140.x)
 - [Wikipedia: False memory](https://en.wikipedia.org/wiki/False_memory)
