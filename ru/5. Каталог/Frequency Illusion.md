@@ -89,6 +89,6 @@ Frequency Illusion — **застревание в тезисе** через с�
 
 ## Источники
 
-- Mowatt, T. (2006). *The Baader-Meinhof Phenomenon*. Self-published blog post.
-- Zwicker, M. V. (2006). *The Baader-Meinhof phenomenon? Rrrreally?* Language Log (linguistics blog).
+- Bellows, A. (2006). *The Baader-Meinhof Phenomenon*. Damn Interesting. [URL](https://www.damninteresting.com/the-baader-meinhof-phenomenon/)
+- Zwicky, A. (2005). *Just between Dr. Language and I*. Language Log. [URL](https://web.archive.org/web/20201213025829/http://itre.cis.upenn.edu/~myl/languagelog/archives/002386.html)
 - [Wikipedia: Frequency illusion](https://en.wikipedia.org/wiki/Frequency_illusion)
