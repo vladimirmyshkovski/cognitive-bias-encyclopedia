@@ -6,7 +6,7 @@
 
 **Также известно как:** salience effect, perceptual salience, vividness bias
 **Категория:** внимание (фокус на ярких стимулах)
-**Связанные:** [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Negativity Bias]], [[ru/5. Каталог/Availability Heuristic]]
+**Связанные:** [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Negativity Bias]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Change Blindness]]
 
 ---
 
@@ -95,6 +95,7 @@ Salience Bias — **застревание в тезисе** через смеш
 - [[Spotlight Effect]] — мы переоцениваем, как другие оценивают нас
 - [[Negativity Bias]] — негативное ярче позитивного
 
+- [[ru/5. Каталог/Change Blindness]] — яркое привлекает внимание и замечается первым; незамеченное остаётся без следа
 ## Источники
 
 - Bordalo, P., Gennaioli, N., & Shleifer, A. (2012). *Salience theory of choice under risk*. Quarterly Journal of Economics, 127(3), 1243-1285. — [DOI](https://doi.org/10.1093/qje/qjs018)

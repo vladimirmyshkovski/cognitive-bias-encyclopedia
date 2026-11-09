@@ -6,7 +6,7 @@
 
 **Также известно как:** perceptual blindness, attention blindness
 **Категория:** внимание (пропуск незамеченных стимулов)
-**Связанные:** [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Availability Heuristic]]
+**Связанные:** [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Change Blindness]]
 
 ---
 
@@ -97,6 +97,7 @@ Inattentional Blindness — **застревание в тезисе** чере�
 - [[ru/5. Каталог/Availability Heuristic]] — то, что замечаем, легче вспомнить
 - [[ru/5. Каталог/Salience Bias]] — яркие стимулы привлекают внимание; скучные — нет
 
+- [[ru/5. Каталог/Change Blindness]] — родственная слепота: незамеченный объект целиком, а не незамеченное изменение
 ## Источники
 
 - Simons, D. J., & Chabris, C. F. (1999). *Gorillas in our midst: Sustained inattentional blindness for dynamic events*. Perception, 28(9), 1059-1074. — [DOI](https://doi.org/10.1068/p281059)
