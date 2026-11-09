@@ -105,8 +105,8 @@ Choice Overload — **застревание в тезисе** через вер
 
 ## Источники
 
-- Iyengar, S. S., & Lepper, M. R. (2000). *When choice is demotivating: Can one desire too much of a good thing?* Journal of Personality and Social Psychology, 79(6), 995-1006.
-- Schwartz, B. (2004). *The Paradox of Choice: Why More Is Less*. Ecco.
-- Iyengar, S. S., & Jiang, W. (2007). *The psychology of choice*. In *The Oxford Handbook of Behavioral Economics*.
+- Iyengar, S. S., & Lepper, M. R. (2000). *When choice is demotivating: Can one desire too much of a good thing?* Journal of Personality and Social Psychology, 79(6), 995-1006. — [DOI](https://doi.org/10.1037/0022-3514.79.6.995)
+- Schwartz, B. (2004). *The Paradox of Choice: Why More Is Less*. Ecco. — ISBN 9780060005689
+- Iyengar, S. S., & Jiang, W. (2007). *The psychology of choice*. In *The Oxford Handbook of Behavioral Economics*. — ISBN 9780199945474
 - [Wikipedia: Choice overload](https://en.wikipedia.org/wiki/Choice_overload)
 - [Wikipedia: Paradox of choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
