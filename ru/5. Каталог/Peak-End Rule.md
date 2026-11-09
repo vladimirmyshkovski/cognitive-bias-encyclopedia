@@ -81,8 +81,8 @@
 
 ## Источники
 
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 35 (Two Selves), 37 (Experienced Well-Being).
-- Kahneman, D., Fredrickson, B. L., Schreiber, C., & Redelmeier, D. A. (1993). When more pain is preferred to less: Adding a better end. *Psychological Science*, 4(6), 401-405.
-- Redelmeier, D. A., & Kahneman, D. (1996). On the pleasure of the cold pressor. *Journal of Experimental Psychology: General*, 125(3), 389-394.
-- Fredrickson, B. L., & Kahneman, D. (1993). Duration neglect: A flaw in human judgment? *Journal of Experimental Psychology: General*, 122(3), 362-367.
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 35 (Two Selves), 37 (Experienced Well-Being). — ISBN 9780374275631
+- Kahneman, D., Fredrickson, B. L., Schreiber, C., & Redelmeier, D. A. (1993). When more pain is preferred to less: Adding a better end. *Psychological Science*, 4(6), 401-405. — [DOI](https://doi.org/10.1111/j.1467-9280.1993.tb00589.x)
+- Redelmeier, D. A., & Kahneman, D. (1996). On the pleasure of the cold pressor. *Journal of Experimental Psychology: General*, 125(3), 389-394. — [оглавление](https://archive.org/details/sim_journal-of-experimental-psychology-general_1996_125_index)
+- Fredrickson, B. L., & Kahneman, D. (1993). Duration neglect: A flaw in human judgment? *Journal of Experimental Psychology: General*, 122(3), 362-367. — [оглавление](https://archive.org/details/sim_journal-of-experimental-psychology-general_1993_122_index)
 - [Wikipedia: Peak–end rule](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule)
