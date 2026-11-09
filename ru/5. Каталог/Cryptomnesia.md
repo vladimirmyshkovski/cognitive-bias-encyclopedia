@@ -97,7 +97,7 @@ Cryptomnesia — **застревание в тезисе** через забы�
 
 ## Источники
 
-- Brown, A. S., & Murphy, D. R. (1989). *Cryptomnesia: Delineating inadvertent plagiarism*. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15(3), 432-442.
-- Marsh, R. L., & Bower, G. H. (1993). *Eliciting cryptomnesia: Unconscious plagiarism in a puzzle task*. Journal of Experimental Psychology: Learning, Memory, and Cognition, 19(3), 673-688.
-- Taylor, F. K. (1965). *Cryptomnesia and the assessment of self-references in personality description*. Journal of Abnormal Psychology, 70(5), 319-322.
+- Brown, A. S., & Murphy, D. R. (1989). *Cryptomnesia: Delineating inadvertent plagiarism*. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15(3), 432-442. — [DOI](https://doi.org/10.1037/0278-7393.15.3.432)
+- Marsh, R. L., & Bower, G. H. (1993). *Eliciting cryptomnesia: Unconscious plagiarism in a puzzle task*. Journal of Experimental Psychology: Learning, Memory, and Cognition, 19(3), 673-688. — [DOI](https://doi.org/10.1037/0278-7393.19.3.673)
+- Taylor, F. K. (1965). *Cryptomnesia and the assessment of self-references in personality description*. Journal of Abnormal Psychology, 70(5), 319-322. — [оглавление](https://archive.org/details/sim_journal-of-abnormal-psychology_1965_70_contents)
 - [Wikipedia: Cryptomnesia](https://en.wikipedia.org/wiki/Cryptomnesia)
