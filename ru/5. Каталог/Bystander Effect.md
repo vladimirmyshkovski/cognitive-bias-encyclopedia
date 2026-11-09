@@ -108,7 +108,7 @@ Bystander Effect — **застревание в тезисе** через ди�
 
 ## Источники
 
-- Darley, J. M., & Latané, B. (1968). *Bystander intervention in emergencies: Diffusion of responsibility*. Journal of Personality and Social Psychology, 8(4p1), 377.
-- Latané, B., & Darley, J. M. (1970). *The unresponsive bystander: Why doesn't he help?* Appleton-Century-Crofts.
-- Fischer, P., Greitemeyer, T., Frei, D., Lo, S., & Frey, D. (2011). *The bystander-effect: A meta-analytic review on bystander intervention in dangerous and non-dangerous emergencies*. Psychological Bulletin, 137(4), 517-537.
+- Darley, J. M., & Latané, B. (1968). *Bystander intervention in emergencies: Diffusion of responsibility*. Journal of Personality and Social Psychology, 8(4p1), 377. — [DOI](https://doi.org/10.1037/h0025589)
+- Latané, B., & Darley, J. M. (1970). *The unresponsive bystander: Why doesn't he help?* Appleton-Century-Crofts. — ISBN 9780390540935
+- Fischer, P., Greitemeyer, T., Frei, D., Lo, S., & Frey, D. (2011). *The bystander-effect: A meta-analytic review on bystander intervention in dangerous and non-dangerous emergencies*. Psychological Bulletin, 137(4), 517-537. — [DOI](https://doi.org/10.1037/a0023304)
 - [Wikipedia: Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
