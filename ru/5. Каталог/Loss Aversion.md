@@ -99,7 +99,7 @@ Loss aversion — это **застревание в тезисе «беречь
 
 ## Источники
 
-- Kahneman, D., & Tversky, A. (1979). *Prospect Theory: An Analysis of Decision under Risk*. Econometrica, 47(2), 263-292.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 26 (Prospect Theory), 28 (Bad Events), 29 (The Fourfold Pattern).
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 32 (Loss Aversion).
+- Kahneman, D., & Tversky, A. (1979). *Prospect Theory: An Analysis of Decision under Risk*. Econometrica, 47(2), 263-292. — [DOI](https://doi.org/10.2307/1914185)
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 26 (Prospect Theory), 28 (Bad Events), 29 (The Fourfold Pattern). — ISBN 9780374275631
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 32 (Loss Aversion). — ISBN 9780062273840
 - [Wikipedia: Loss aversion](https://en.wikipedia.org/wiki/Loss_aversion)
