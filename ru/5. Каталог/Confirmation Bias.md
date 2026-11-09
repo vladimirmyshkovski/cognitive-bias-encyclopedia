@@ -93,8 +93,8 @@ Confirmation bias — это **застревание в тезисе**, нев�
 
 ## Источники
 
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 7 (A Machine for Jumping to Conclusions), 23 (The Outside View).
-- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 7-8 (Confirmation Bias, части 1-2).
-- Nickerson, R. S. (1998). *Confirmation bias: A ubiquitous phenomenon in many guises*. Review of General Psychology, 2(2), 175-220.
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Ch. 7 (A Machine for Jumping to Conclusions), 23 (The Outside View). — ISBN 9780374275631
+- Dobelli, R. (2013). *The Art of Thinking Clearly*. Ch. 7-8 (Confirmation Bias, части 1-2). — ISBN 9780062273840
+- Nickerson, R. S. (1998). *Confirmation bias: A ubiquitous phenomenon in many guises*. Review of General Psychology, 2(2), 175-220. — [DOI](https://doi.org/10.1037/1089-2680.2.2.175)
 - [Wikipedia: Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias)
 - [Your Bias Is: Confirmation Bias](https://yourbias.is/confirmation-bias)
