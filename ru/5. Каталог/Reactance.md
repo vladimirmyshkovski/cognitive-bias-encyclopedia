@@ -101,7 +101,7 @@ Reactance — **застревание в тезисе** через автома
 
 ## Источники
 
-- Brehm, J. W. (1966). *A Theory of Psychological Reactance*. Academic Press.
-- Rains, S. A. (2013). *The nature of psychological reactance revisited: A meta-analytic review*. Human Communication Research, 39(1), 47-73.
-- Miller, C. H., Lane, L. T., Deatrick, L. M., Young, A. M., & Potts, K. A. (2007). *Psychological reactance and promotional health messages*. Communication Monographs, 74(1), 73-95.
+- Brehm, J. W. (1966). *A Theory of Psychological Reactance*. Academic Press. — ISBN 9780121298500
+- Rains, S. A. (2013). *The nature of psychological reactance revisited: A meta-analytic review*. Human Communication Research, 39(1), 47-73. — [DOI](https://doi.org/10.1111/j.1468-2958.2012.01443.x)
+- Miller, C. H., Lane, L. T., Deatrick, L. M., Young, A. M., & Potts, K. A. (2007). *Psychological reactance and promotional health messages*. Human Communication Research, 33(2), 219-240. — [DOI](https://doi.org/10.1111/j.1468-2958.2007.00297.x)
 - [Wikipedia: Psychological reactance](https://en.wikipedia.org/wiki/Psychological_reactance)
