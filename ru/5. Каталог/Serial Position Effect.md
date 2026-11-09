@@ -6,7 +6,7 @@
 
 **Также известно как:** serial position effect, primacy and recency effects
 **Категория:** память (запоминание последовательностей)
-**Связанные:** [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Mandela Effect]], [[ru/5. Каталог/False Memory]]
+**Связанные:** [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Mandela Effect]], [[ru/5. Каталог/False Memory]], [[ru/5. Каталог/Spacing Effect]]
 
 ---
 
@@ -79,6 +79,7 @@
 - [[ru/5. Каталог/Mandela Effect]] — коллективное воспоминание о деталях устойчиво к пересчёту, потому что «краевые» версии запоминаются прочнее
 - [[ru/5. Каталог/False Memory]] — восстановленное воспоминание занимает позицию настоящего события и получает соответствующий вес
 
+- [[ru/5. Каталог/Spacing Effect]] — интервал между повторениями меняет, что именно останется в памяти
 ## Источники
 
 - Ebbinghaus, H. (1885). *Über das Gedächtnis: Untersuchungen zur expementellen Psychologie* (Memory: A Contribution to Experimental Psychology). Duncker & Humblot. — [скан](https://archive.org/details/memorycontributi00ebbiuoft)

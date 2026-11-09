@@ -6,7 +6,7 @@
 
 **Также известно как:** false memory syndrome, false recall, pseudomemory
 **Категория:** память (создание воспоминаний о событиях, которых не было)
-**Связанные:** [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Source Confusion]], [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Confirmation Bias]]
+**Связанные:** [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Source Confusion]], [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Spacing Effect]]
 
 ---
 
@@ -93,6 +93,7 @@ False Memory — **застревание в тезисе** через дове�
 - [[Confirmation Bias]] — мы ищем подтверждения нашим воспоминаниям
 - [[Mandela Effect]] — коллективная версия False Memory: «все помнят то, чего не было»
 
+- [[ru/5. Каталог/Spacing Effect]] — разнесённое изучение меняет и вероятность ложных воспоминаний
 ## Источники
 
 - Loftus, E. F., & Palmer, J. C. (1974). *Reconstruction of automobile destruction: An example of the interaction between language and memory*. Journal of Verbal Learning and Verbal Behavior, 13(5), 585-589. — [DOI](https://doi.org/10.1016/s0022-5371(74)80011-3)
