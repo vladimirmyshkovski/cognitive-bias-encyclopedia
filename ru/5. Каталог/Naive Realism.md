@@ -98,7 +98,7 @@ Naive realism — **застревание в тезисе** через отка
 
 ## Источники
 
-- Ross, L., & Ward, A. (1996). *Naive realism in everyday life: Implications for social conflict and misunderstanding*. In *Values and Knowledge* (pp. 103-135). Lawrence Erlbaum.
-- Pronin, E., Lin, D. Y., & Ross, L. (2002). *The bias blind spot: Perceptions of bias in self versus others*. Personality and Social Psychology Bulletin, 28(3), 369-381.
-- Kennedy, K. A., & Pronin, E. (2008). *When disagreement gets ugly: Perceptions of bias and the escalation of conflict*. Personality and Social Psychology Bulletin, 34(6), 833-848.
+- Ross, L., & Ward, A. (1996). *Naive realism in everyday life: Implications for social conflict and misunderstanding*. In *Values and Knowledge* (pp. 103-135). Lawrence Erlbaum. — ISBN 9780805815214
+- Pronin, E., Lin, D. Y., & Ross, L. (2002). *The bias blind spot: Perceptions of bias in self versus others*. Personality and Social Psychology Bulletin, 28(3), 369-381. — [DOI](https://doi.org/10.1177/0146167202286008)
+- Kennedy, K. A., & Pronin, E. (2008). *When disagreement gets ugly: Perceptions of bias and the escalation of conflict*. Personality and Social Psychology Bulletin, 34(6), 833-848. — [DOI](https://doi.org/10.1177/0146167208315158)
 - [Wikipedia: Naive realism](https://en.wikipedia.org/wiki/Naive_realism_(psychology))
