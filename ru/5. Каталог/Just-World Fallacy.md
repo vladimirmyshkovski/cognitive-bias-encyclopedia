@@ -103,7 +103,7 @@ Just-world fallacy — **застревание в тезисе**, невозм�
 
 ## Источники
 
-- Lerner, M. J. (1965). *Evaluation of performance as a function of performer's reward and attractiveness*. Journal of Personality and Social Psychology, 1(4), 355-360.
-- Lerner, M. J., & Miller, D. T. (1978). *Just world research and the attribution process: Looking back and ahead*. Psychological Bulletin, 85(5), 1030-1051.
-- Hafer, C. L., & Bègue, L. (2005). *Experimental research on just-world theory*. Psychological Bulletin, 131(1), 128-167.
+- Lerner, M. J. (1965). *Evaluation of performance as a function of performer's reward and attractiveness*. Journal of Personality and Social Psychology, 1(4), 355-360. — [DOI](https://doi.org/10.1037/h0021806)
+- Lerner, M. J., & Miller, D. T. (1978). *Just world research and the attribution process: Looking back and ahead*. Psychological Bulletin, 85(5), 1030-1051. — [DOI](https://doi.org/10.1037/0033-2909.85.5.1030)
+- Hafer, C. L., & Bègue, L. (2005). *Experimental research on just-world theory*. Psychological Bulletin, 131(1), 128-167. — [DOI](https://doi.org/10.1037/0033-2909.131.1.128)
 - [Wikipedia: Just-world hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
