@@ -6,7 +6,7 @@
 
 **Также известно как:** overconfidence bias, overprecision, overestimation
 **Категория:** само (оценка собственных знаний и способностей)
-**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Better-Than-Average Effect]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Placebo Effect]], [[ru/5. Каталог/Insensitivity to Sample Size]], [[ru/5. Каталог/Probability Matching]], [[ru/5. Каталог/Functional Fixedness]]
+**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Better-Than-Average Effect]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Placebo Effect]], [[ru/5. Каталог/Insensitivity to Sample Size]], [[ru/5. Каталог/Probability Matching]], [[ru/5. Каталог/Functional Fixedness]], [[ru/5. Каталог/Hard-Easy Effect]]
 
 ---
 
@@ -105,6 +105,8 @@ Overconfidence — **застревание в тезисе** через игн�
 - [[ru/5. Каталог/Insensitivity to Sample Size]] — малая выборка порождает уверенность, которой не соответствует
 - [[ru/5. Каталог/Probability Matching]] — обратная сторона той же шкалы: не «70 %», а «почти наверняка»
 - [[ru/5. Каталог/Functional Fixedness]] — уверенность в очевидном ответе гасит поиск альтернатив
+
+- [[ru/5. Каталог/Hard-Easy Effect]] — здесь смещена не столько величина переуверенности, сколько её знак: на трудном уверенность завышена, на лёгком занижена
 
 ## Источники
 
