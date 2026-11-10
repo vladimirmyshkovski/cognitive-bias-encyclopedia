@@ -6,7 +6,7 @@
 
 **Также известно как:** self-consistency bias, consistency effect, эффект согласованности, moral consistency, behavioral consistency, «я так поступал — значит, так и поступлю», past-behavior consistency
 **Категория:** само (согласованность с прошлым поведением)
-**Связанные:** [[ru/5. Каталог/Moral Credentialism]], [[ru/5. Каталог/Cognitive Dissonance]], [[ru/5. Каталог/Self-serving Bias]]
+**Связанные:** [[ru/5. Каталог/Moral Credentialism]], [[ru/5. Каталог/Cognitive Dissonance]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/False Memory]]
 
 ---
 
@@ -15,6 +15,8 @@
 Тенденция **продолжать вести себя так, как человек поступал раньше**, когда моральное решение касается той же области. Wikipedia описывает это как противоположность эффекта морального лицензирования: там прошлое хорошее дело освобождает от плохого, здесь — прошлое поведение побуждает продолжать то же самое, чтобы сохранить согласованность.
 
 Смещение названо так, чтобы отличать его от двух других употреблений слова «согласованность». Речь не о логической непротиворечивости и не о согласии группы; речь о **согласованности собственного поведения во времени**: человек, совершивший поступок, склонен совершать такой же, даже когда обстоятельства изменились или когда прежний поступок был сделан по глупости.
+
+**Второе употребление термина — искажение памяти.** Wikipedia перечисляет его в списке когнитивных искажений как «consistency bias» и определяет так: «неверно вспоминать свои прошлые установки и поведение как похожие на нынешние» (Cacioppo, 2002). В статье «Cognitive bias» тот же термин отнесён к искажениям, затрагивающим **память**, со ссылкой на Шактера (1999): вспоминание прошлых установок как более близких к нынешним — одно из семи «грехов памяти». Это родственное, но **другое** явление: здесь искажено воспоминание о поведении, а не сама склонность продолжать его; запись описывает второе, а первое отмечено как смежное.
 
 ## Пример
 
@@ -90,6 +92,7 @@
 - [[ru/5. Каталог/Moral Credentialism]] — прямой антипод: там прошлый поступок разрешает противоположное поведение, здесь — требует такого же
 - [[ru/5. Каталог/Cognitive Dissonance]] — родственный механизм: рассогласование между поведением и убеждением и есть то, что согласованность стремится снять
 - [[ru/5. Каталог/Self-serving Bias]] — похожая подмена: объяснение поступка качествами вместо обстоятельств, только в форме «я такой» вместо «я хороший»
+- [[ru/5. Каталог/False Memory]] — смежный случай второго употребления термина: искажено воспоминание о прошлом поведении, а не сама склонность его продолжать
 
 ## Источники
 
@@ -100,4 +103,8 @@
 - Merritt, A. C., Effron, D. A., & Monin, B. (2010). Moral self-licensing: When being good frees us to be bad. *Social and Personality Psychology Compass*, 4(5), 344-357. — [DOI](https://doi.org/10.1111/j.1751-9004.2010.00263.x)
 - Blanken, I., van de Ven, N., & Zeelenberg, M. (2015). A meta-analytic review of moral licensing. *Personality and Social Psychology Bulletin*, 41(4), 540-558. — [DOI](https://doi.org/10.1177/0146167215572134)
 - van de Ven, N., Blanken, I., & Zeelenberg, M. (2018). Temptation-based reasoning: When tempted, everything becomes a (better) reason to indulge. *Journal of Marketing Behavior*, 3(3), 185-209. — [DOI](https://doi.org/10.1561/107.00000047)
+- Cacioppo, J. (2002). *Foundations in social neuroscience*. MIT Press. — ISBN 978-0-262-53195-5
+- Schacter, D. L. (1999). The seven sins of memory: Insights from psychology and cognitive neuroscience. *American Psychologist*, 54(3), 182-203. — [DOI](https://doi.org/10.1037/0003-066X.54.3.182)
 - [Wikipedia: Self-licensing](https://en.wikipedia.org/wiki/Self-licensing)
+- [Wikipedia: List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) — запись «Consistency bias» о неверном воспоминании прошлых установок
+- [Wikipedia: Cognitive bias](https://en.wikipedia.org/wiki/Cognitive_bias) — consistency bias отнесён к искажениям, затрагивающим память
