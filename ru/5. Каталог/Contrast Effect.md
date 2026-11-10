@@ -6,7 +6,7 @@
 
 **Также известно как:** contrast effect, эффект контраста, контекстная сдвижка оценки
 **Категория:** суждение (оценка через сравнение)
-**Связанные:** [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Framing Effect]], [[ru/5. Каталог/Decoy Effect]], [[ru/5. Каталог/Belief Bias]], [[ru/5. Каталог/Cheerleader Effect]]
+**Связанные:** [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Framing Effect]], [[ru/5. Каталог/Decoy Effect]], [[ru/5. Каталог/Belief Bias]], [[ru/5. Каталог/Cheerleader Effect]], [[ru/5. Каталог/Distinction Bias]]
 
 ---
 
@@ -82,6 +82,8 @@
 - [[ru/5. Каталог/Belief Bias]] — вместо проверки формы вывода мы проверяем, нравится ли нам вывод
 
 - [[ru/5. Каталог/Cheerleader Effect]] — оценка лица определяется окружающими лицами, у непривлекательного окружения эффект обратный
+- [[ru/5. Каталог/Distinction Bias]] — различие при совместной оценке выглядит больше, чем окажется в опыте
+
 ## Источники
 
 - Mussweiler, T. (2003). Comparison processes in social judgment: Mechanisms and implications. *Psychological Review*, 110(3), 472-489. — [DOI](https://doi.org/10.1037/0033-295x.110.3.472)

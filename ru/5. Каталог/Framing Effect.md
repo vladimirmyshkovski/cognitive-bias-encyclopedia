@@ -6,7 +6,7 @@
 
 **Также известно как:** framing bias, framing
 **Категория:** суждение (принятие решений)
-**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Confirmation Bias]]
+**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Distinction Bias]]
 
 ---
 
@@ -94,6 +94,8 @@ Framing effect — это **застревание в одном фрейме**,
 - [[ru/5. Каталог/Loss Aversion]] — framing effect использует loss aversion
 - [[ru/5. Каталог/Anchoring]] — фрейм может содержать якорь
 - [[ru/5. Каталог/Confirmation Bias]] — фрейм, совпадающий с нашими убеждениями, кажется «нейтральным»
+
+- [[ru/5. Каталог/Distinction Bias]] — режим предъявления (рядом или по отдельности) есть рамка, меняющая оценку
 
 ## Источники
 

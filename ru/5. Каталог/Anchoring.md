@@ -6,7 +6,7 @@
 
 **Также известно как:** focalism, anchoring bias
 **Категория:** суждение (принятие решений)
-**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Framing Effect]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Contrast Effect]]
+**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Framing Effect]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Contrast Effect]], [[ru/5. Каталог/Distinction Bias]]
 
 ---
 
@@ -82,6 +82,8 @@ Anchoring — это тень **первого впечатления**. В [[Д
 - [[Anchoring (Wikipedia)](https://en.wikipedia.org/wiki/Anchoring)
 - [[ru/5. Каталог/Choice Overload]] — слишком много якорей парализуют выбор
 - [[ru/5. Каталог/Contrast Effect]] — якорь работает через сравнение: «comparing is believing»
+
+- [[ru/5. Каталог/Distinction Bias]] — первая из двух величин при совместной оценке работает как точка отсчёта для второй
 
 ## Источники
 
