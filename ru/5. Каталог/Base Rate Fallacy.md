@@ -6,7 +6,7 @@
 
 **Также известно как:** base rate neglect, base rate fallacy
 **Категория:** вероятность (оценка вероятности)
-**Связанные:** [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Gambler's Fallacy]], [[ru/5. Каталог/Insensitivity to Sample Size]]
+**Связанные:** [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Gambler's Fallacy]], [[ru/5. Каталог/Insensitivity to Sample Size]], [[ru/5. Каталог/Probability Matching]]
 
 ---
 
@@ -91,6 +91,7 @@ Base rate fallacy — это **замещение общего частным**,
 - [[ru/5. Каталог/Conjunction Fallacy]] — родственная ошибка: подробное описание вытесняет базовую ставку
 
 - [[ru/5. Каталог/Insensitivity to Sample Size]] — та же подмена: «похожий случай» вместо частоты, только без оглядки на объём данных
+- [[ru/5. Каталог/Probability Matching]] — базовая ставка, которую сопоставление, наоборот, берёт буквально, а не игнорирует
 ## Источники
 
 - Tversky, A., & Kahneman, D. (1973). *Availability: A heuristic for judging frequency and probability*. Cognitive Psychology, 5(2), 207-232. — [DOI](https://doi.org/10.1016/0010-0285(73)90033-9)
