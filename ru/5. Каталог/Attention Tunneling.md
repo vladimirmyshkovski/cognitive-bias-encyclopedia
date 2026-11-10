@@ -6,7 +6,7 @@
 
 **Также известно как:** attentional tunneling, cognitive tunneling, cognitive capture, сужение внимания, attentional narrowing
 **Категория:** внимание (сужение поля внимания)
-**Связанные:** [[ru/5. Каталог/Inattentional Blindness]], [[ru/5. Каталог/Change Blindness]], [[ru/5. Каталог/Salience Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Illusion of Control]]
+**Связанные:** [[ru/5. Каталог/Inattentional Blindness]], [[ru/5. Каталог/Change Blindness]], [[ru/5. Каталог/Salience Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Illusion of Control]], [[ru/5. Каталог/Capture Effect]]
 
 ---
 
@@ -86,6 +86,8 @@
 - [[ru/5. Каталог/Salience Bias]] — яркое вытесняет остальное; туннель — предельный случай сужения до одного
 - [[ru/5. Каталог/Anchoring]] — первое увиденное становится точкой отсчёта, и от неё не отпускают
 - [[ru/5. Каталог/Illusion of Control]] — сужение поля даёт ощущение полной картины, а значит, и ощущение управления ею
+
+- [[ru/5. Каталог/Capture Effect]] — сужение поля до одного канала; здесь, наоборот, канал вынужденно меняется по внешнему сигналу
 
 ## Источники
 

@@ -6,7 +6,7 @@
 
 **Также известно как:** perceptual blindness, attention blindness
 **Категория:** внимание (пропуск незамеченных стимулов)
-**Связанные:** [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Change Blindness]], [[ru/5. Каталог/Attention Tunneling]]
+**Связанные:** [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Change Blindness]], [[ru/5. Каталог/Attention Tunneling]], [[ru/5. Каталог/Capture Effect]]
 
 ---
 
@@ -99,6 +99,8 @@ Inattentional Blindness — **застревание в тезисе** чере�
 
 - [[ru/5. Каталог/Change Blindness]] — родственная слепота: незамеченный объект целиком, а не незамеченное изменение
 - [[ru/5. Каталог/Attention Tunneling]] — сужается само поле внимания: незаметным оказывается всё, что вне выбранного канала
+
+- [[ru/5. Каталог/Capture Effect]] — обратное направление расхождения: там стимул не замечают вовсе, здесь внимание насильно переводится на стимул, который не выбирали
 
 ## Источники
 

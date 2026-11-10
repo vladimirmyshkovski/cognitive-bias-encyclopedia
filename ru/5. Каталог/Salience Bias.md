@@ -6,7 +6,7 @@
 
 **Также известно как:** salience effect, perceptual salience, vividness bias
 **Категория:** внимание (фокус на ярких стимулах)
-**Связанные:** [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Negativity Bias]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Change Blindness]], [[ru/5. Каталог/Attention Tunneling]]
+**Связанные:** [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Negativity Bias]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Change Blindness]], [[ru/5. Каталог/Attention Tunneling]], [[ru/5. Каталог/Capture Effect]]
 
 ---
 
@@ -97,6 +97,8 @@ Salience Bias — **застревание в тезисе** через смеш
 
 - [[ru/5. Каталог/Change Blindness]] — яркое привлекает внимание и замечается первым; незамеченное остаётся без следа
 - [[ru/5. Каталог/Attention Tunneling]] — яркое вытесняет остальное; туннель — предельный случай сужения до одного канала
+
+- [[ru/5. Каталог/Capture Effect]] — момент, когда яркое заставляет нас посмотреть, до того как мы оценим его важность
 
 ## Источники
 

@@ -9,7 +9,7 @@
 
 ## Languages / Языки
 
-- 🇷🇺 **[Русский / Russian](ru/)** — 109 записей, полная версия
+- 🇷🇺 **[Русский / Russian](ru/)** — 110 записей, полная версия
 - 🇬🇧 **[English](en/)** — coming soon / в разработке (skeleton only, see `en/CONTRIBUTING.md`)
 
 > **Note**: All entries follow a strict 10-section template for consistent rendering (see [CONTRIBUTING.md](CONTRIBUTING.md)). The rendered website is built automatically from the Russian entries on every push to `main` (see [cognitive-bias-site](https://github.com/vladimirmyshkovski/cognitive-bias-site)).
@@ -80,7 +80,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 - Quality checklist
 
 **Ways to contribute:**
-1. Add a missing bias (currently ~109 of ~180 known biases are documented)
+1. Add a missing bias (currently ~110 of ~180 known biases are documented)
 2. Improve an existing entry (add sources, examples, philosophical parallels)
 3. Translate to a new language (English is the next priority)
 4. Fix typos, broken links, formatting
@@ -94,9 +94,9 @@ Open an **Issue** or submit a **Pull Request**.
 | Metric | Value |
 |--------|-------|
 | Languages available | 1 (Russian) |
-| Total biases documented | 109 |
+| Total biases documented | 110 |
 | Coverage of known biases | ~61% (of ~180) |
-| Open priority items | 5 (низкий приоритет) |
+| Open priority items | 4 (низкий приоритет) |
 
 See the [Taxonomy](https://github.com/vladimirmyshkovski/cognitive-bias-encyclopedia/blob/main/ru/4.%20%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F.md) for the full master catalog.
 
