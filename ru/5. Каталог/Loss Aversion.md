@@ -6,7 +6,7 @@
 
 **Также известно как:** loss aversion, endowment effect (частично)
 **Категория:** суждение (принятие решений)
-**Связанные:** [[ru/5. Каталог/Framing Effect]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Status Quo Bias]], [[Endowment Effect]]
+**Связанные:** [[ru/5. Каталог/Framing Effect]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Status Quo Bias]], [[Endowment Effect]], [[ru/5. Каталог/Zero-Risk Bias]]
 
 ---
 
@@ -96,6 +96,8 @@ Loss aversion — это **застревание в тезисе «беречь
 - [[Endowment Effect]] — мы переоцениваем то, что имеем
 - [[Reactance]] — мы сопротивляемся любой потере свободы выбора
 - [[ru/5. Каталог/Peak-End Rule]] — конец опыта перевешивает его суммарную длительность
+
+- [[ru/5. Каталог/Zero-Risk Bias]] — та же структура предпочтения: предпочесть полное снятие потери меньшему уменьшению
 
 ## Источники
 
