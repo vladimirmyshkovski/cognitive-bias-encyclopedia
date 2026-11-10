@@ -6,7 +6,7 @@
 
 **Также известно как:** cultural bias, культурный эгоцентризм, judging other cultures by one's own standards
 **Категория:** социальное (оценка чужой культуры по своей)
-**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Outgroup Homogeneity Bias]], [[ru/5. Каталог/Stereotyping]], [[ru/5. Каталог/Naive Realism]], [[ru/5. Каталог/Fundamental Attribution Error]]
+**Связанные:** [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Outgroup Homogeneity Bias]], [[ru/5. Каталог/Stereotyping]], [[ru/5. Каталог/Naive Realism]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Ethnocentrism]]
 
 ---
 
@@ -84,6 +84,8 @@
 - [[ru/5. Каталог/Stereotyping]] — когнитивный шаблон, предшествующий оценке и задающий её содержание
 - [[ru/5. Каталог/Naive Realism]] — «мир такой, какой я его вижу», доведённое до утверждения о единственно возможном мире
 - [[ru/5. Каталог/Fundamental Attribution Error]] — оценка чужого поведения без учёта чужой ситуации, только по своей
+
+- [[ru/5. Каталог/Ethnocentrism]] — узкая проекция того же: судить чужой опыт и чужие практики по нормам своей культуры (в частности, в исследованиях)
 
 ## Источники
 
