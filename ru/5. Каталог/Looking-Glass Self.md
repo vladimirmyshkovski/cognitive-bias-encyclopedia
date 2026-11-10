@@ -6,7 +6,7 @@
 
 **Также известно как:** looking-glass self, mirror self, Cooley's looking-glass self
 **Категория:** само (образ себя)
-**Связанные:** [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Outgroup Homogeneity Bias]], [[ru/5. Каталог/Self-Fulfilling Prophecy]]
+**Связанные:** [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Outgroup Homogeneity Bias]], [[ru/5. Каталог/Self-Fulfilling Prophecy]], [[ru/5. Каталог/Self-Reference Effect]]
 
 ---
 
@@ -80,6 +80,8 @@
 - [[ru/5. Каталог/Fundamental Attribution Error]] — чужие оценки нас самих чаще сводятся к «характеру», а не к ситуации
 - [[ru/5. Каталог/Outgroup Homogeneity Bias]] — чужие группы кажутся одинаковыми, и потому «их мнение» легко становится «мной»
 - [[ru/5. Каталог/Self-Fulfilling Prophecy]] — оценка окружающих, принятая за истину, меняет поведение и делает себя правдивой
+
+- [[ru/5. Каталог/Self-Reference Effect]] — самореферентность опирается на образ «я», который и собирает взгляд назад
 
 ## Источники
 

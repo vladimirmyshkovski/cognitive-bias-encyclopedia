@@ -6,7 +6,7 @@
 
 **Также известно как:** mere exposure effect, familiarity principle, effect of mere exposure
 **Категория:** суждение (предпочтение и симпатия)
-**Связанные:** [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Bandwagon Effect]], [[ru/5. Каталог/Optimism Bias]]
+**Связанные:** [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Bandwagon Effect]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Self-Reference Effect]]
 
 ---
 
@@ -81,6 +81,8 @@
 - [[ru/5. Каталог/Confirmation Bias]] — мы склонны замечать подтверждения своей симпатии и не замечать противоречащие
 - [[ru/5. Каталог/Bandwagon Effect]] — «все это любят» вторично усиливает знакомство: толпа работает как дополнительный показ
 - [[ru/5. Каталог/Optimism Bias]] — знакомство с успешным человеком переносится на оценку его действий
+
+- [[ru/5. Каталог/Self-Reference Effect]] — знакомость тоже улучшает запоминание, но самореферентность не сводится к ней
 
 ## Источники
 
