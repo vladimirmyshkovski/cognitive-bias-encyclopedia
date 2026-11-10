@@ -6,7 +6,7 @@
 
 **Также известно как:** control bias, perceived control bias
 **Категория:** само (оценка собственной агентности)
-**Связанные:** [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Gambler's Fallacy]], [[ru/5. Каталог/Focusing Effect]], [[ru/5. Каталог/Attention Tunneling]]
+**Связанные:** [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Gambler's Fallacy]], [[ru/5. Каталог/Focusing Effect]], [[ru/5. Каталог/Attention Tunneling]], [[ru/5. Каталог/Regression Fallacy]]
 
 ---
 
@@ -97,6 +97,8 @@ Illusion of control — **застревание в тезисе**, невозм
 - [[ru/5. Каталог/Focusing Effect]] — «именно этот фактор всё решил» и есть фокус на одном аспекте
 
 - [[ru/5. Каталог/Attention Tunneling]] — сужение поля даёт ощущение полной картины, а значит, и ощущение управления ею
+
+- [[ru/5. Каталог/Regression Fallacy]] — ближайший родственник: приписывание результата собственному действию вместо совпадения
 
 ## Источники
 

@@ -6,7 +6,7 @@
 
 **Также известно как:** base rate neglect, base rate fallacy
 **Категория:** вероятность (оценка вероятности)
-**Связанные:** [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Gambler's Fallacy]], [[ru/5. Каталог/Insensitivity to Sample Size]], [[ru/5. Каталог/Probability Matching]], [[ru/5. Каталог/Subadditivity]]
+**Связанные:** [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Gambler's Fallacy]], [[ru/5. Каталог/Insensitivity to Sample Size]], [[ru/5. Каталог/Probability Matching]], [[ru/5. Каталог/Subadditivity]], [[ru/5. Каталог/Regression Fallacy]]
 
 ---
 
@@ -93,6 +93,8 @@ Base rate fallacy — это **замещение общего частным**,
 - [[ru/5. Каталог/Insensitivity to Sample Size]] — та же подмена: «похожий случай» вместо частоты, только без оглядки на объём данных
 - [[ru/5. Каталог/Probability Matching]] — базовая ставка, которую сопоставление, наоборот, берёт буквально, а не игнорирует
 - [[ru/5. Каталог/Subadditivity]] — подробный частный случай вместо частоты: та же подмена, но через нарушение сложения
+
+- [[ru/5. Каталог/Regression Fallacy]] — та же невнимательность к статистике: здесь игнорируется базовая частота колебаний показателя
 
 ## Источники
 

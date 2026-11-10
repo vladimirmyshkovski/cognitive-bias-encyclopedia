@@ -6,7 +6,7 @@
 
 **Также известно как:** self-serving bias, egocentric bias
 **Категория:** само (атрибуция)
-**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Bias Blind Spot]], [[ru/5. Каталог/Moral Credentialism]], [[ru/5. Каталог/Self-Consistency Bias]]
+**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Bias Blind Spot]], [[ru/5. Каталог/Moral Credentialism]], [[ru/5. Каталог/Self-Consistency Bias]], [[ru/5. Каталог/Regression Fallacy]]
 
 ---
 
@@ -103,6 +103,8 @@ Self-serving bias — это **застревание в тезисе «я мо�
 - [[ru/5. Каталог/Moral Credentialism]] — та же подмена: объяснение своего поступка через качества, а не через обстоятельства, только в форме «я хороший»
 
 - [[ru/5. Каталог/Self-Consistency Bias]] — похожая подмена: объяснение поступка качествами вместо обстоятельств, только в форме «я такой» вместо «я хороший»
+
+- [[ru/5. Каталог/Regression Fallacy]] — та же подмена причин, только в форме «свой успех — от меня, чужая неудача — от обстоятельств»
 
 ## Источники
 
