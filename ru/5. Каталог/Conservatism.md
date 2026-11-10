@@ -6,7 +6,7 @@
 
 **Также известно как:** conservatism bias, Bayesian conservatism, belief conservatism
 **Категория:** вероятность (обновление убеждений)
-**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Overconfidence Effect]], [[ru/5. Каталог/Base Rate Fallacy]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Probability Matching]], [[ru/5. Каталог/Appeal to Novelty]]
+**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Overconfidence Effect]], [[ru/5. Каталог/Base Rate Fallacy]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Probability Matching]], [[ru/5. Каталог/Appeal to Novelty]], [[ru/5. Каталог/Appeal to Tradition]]
 
 ---
 
@@ -81,6 +81,8 @@
 
 - [[ru/5. Каталог/Probability Matching]] — стратегия, обретённая в обучении, меняется после обратной связи медленно
 - [[ru/5. Каталог/Appeal to Novelty]] — новизна сюда не доходит, потому что пересматривать не хочется вовсе
+
+- [[ru/5. Каталог/Appeal to Tradition]] — традиция даёт готовый ответ, и пересчитывать его не нужно
 
 ## Источники
 

@@ -6,7 +6,7 @@
 
 **Также известно как:** Concorde fallacy, escalation of commitment
 **Категория:** суждение (принятие решений)
-**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Framing Effect]], [[ru/5. Каталог/Status Quo Bias]]
+**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Framing Effect]], [[ru/5. Каталог/Status Quo Bias]], [[ru/5. Каталог/Appeal to Tradition]]
 
 ---
 
@@ -87,6 +87,8 @@ Sunk cost — это **застревание в тезисе «я вложил�
 - [[ru/5. Каталог/Confirmation Bias]] — мы ищем информацию, что «всё не зря»
 - [[ru/5. Каталог/Status Quo Bias]] — мы предпочитаем «ничего не менять»
 - [[Endowment Effect]] — мы переоцениваем то, что имеем (включая «имеющиеся» вложения)
+
+- [[ru/5. Каталог/Appeal to Tradition]] — удерживает прошлое не привычка, а уже вложенное; отличие принципиальное
 
 ## Источники
 
