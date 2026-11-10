@@ -6,7 +6,7 @@
 
 **Также известно как:** rosy retrospection, rosy past, positive illusion
 **Категория:** память (воспоминание прошлого)
-**Связанные:** [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Peak-End Rule]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/False Memory]], [[ru/5. Каталог/Reminiscence Bump]]
+**Связанные:** [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Peak-End Rule]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/False Memory]], [[ru/5. Каталог/Reminiscence Bump]], [[ru/5. Каталог/Telescoping Effect]]
 
 ---
 
@@ -84,6 +84,8 @@
 - [[ru/5. Каталог/False Memory]] — оба искажения меняют содержание воспоминания, но розовая ретроспектива меняет его оценку
 
 - [[ru/5. Каталог/Reminiscence Bump]] — бугор снабжает ретроспективу готовым материалом
+- [[ru/5. Каталог/Telescoping Effect]] — прошлое переоценивается; там же сдвигается и «когда это было»
+
 ## Источники
 
 - Ross, M. (1989). Toward a theory of remembered and foregone selves. *Journal of Personality and Social Psychology*, 56(6), 967-975. — [оглавление](https://archive.org/details/sim_journal-of-personality-and-social-psychology_1989_56_index)
