@@ -6,7 +6,7 @@
 
 **Также известно как:** mere exposure effect, familiarity principle, effect of mere exposure
 **Категория:** суждение (предпочтение и симпатия)
-**Связанные:** [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Bandwagon Effect]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Self-Reference Effect]]
+**Связанные:** [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Bandwagon Effect]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Self-Reference Effect]], [[ru/5. Каталог/Level-of-Processing Effect]]
 
 ---
 
@@ -83,6 +83,8 @@
 - [[ru/5. Каталог/Optimism Bias]] — знакомство с успешным человеком переносится на оценку его действий
 
 - [[ru/5. Каталог/Self-Reference Effect]] — знакомость тоже улучшает запоминание, но самореферентность не сводится к ней
+
+- [[ru/5. Каталог/Level-of-Processing Effect]] — знакомость усиливает и привязанность, и отзывную ценность материала; это один и тот же мультипликатор
 
 ## Источники
 
