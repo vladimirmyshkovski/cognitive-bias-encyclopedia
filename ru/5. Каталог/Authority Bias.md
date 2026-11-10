@@ -6,7 +6,7 @@
 
 **Также известно как:** authority heuristic, authority effect, Milgram effect
 **Категория:** социальное (влияние на суждения и поведение)
-**Связанные:** [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Fundamental Attribution Error]]
+**Связанные:** [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Appeal to Novelty]]
 
 ---
 
@@ -114,6 +114,8 @@ Authority bias — **застревание в тезисе**, невозмож�
 - [[ru/5. Каталог/Fundamental Attribution Error]] — мы приписываем авторитету его «авторитетность» как черту, не обстоятельство
 - [[ru/5. Каталог/Better-Than-Average Effect]] — мы верим, что **мы сами** достаточно компетентны, чтобы судить об авторитетах
 - [[ru/5. Каталог/Illusion of Control]] — мы верим, что можем оценить компетентность авторитета
+
+- [[ru/5. Каталог/Appeal to Novelty]] — подмена доказательства ссылкой на дату вместо ссылки на чьё-то мнение
 
 ## Источники
 
