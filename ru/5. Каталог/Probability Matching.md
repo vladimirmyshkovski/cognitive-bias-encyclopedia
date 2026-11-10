@@ -6,7 +6,7 @@
 
 **Также известно как:** probability matching, matching strategy, frequency matching, стратегия «под частоту», калибровка предсказаний
 **Категория:** вероятность (стратегия принятия решений)
-**Связанные:** [[ru/5. Каталог/Overconfidence Effect]], [[ru/5. Каталог/Base Rate Fallacy]], [[ru/5. Каталог/Conservatism]], [[ru/5. Каталог/Conjunction Fallacy]]
+**Связанные:** [[ru/5. Каталог/Overconfidence Effect]], [[ru/5. Каталог/Base Rate Fallacy]], [[ru/5. Каталог/Conservatism]], [[ru/5. Каталог/Conjunction Fallacy]], [[ru/5. Каталог/Subadditivity]]
 
 ---
 
@@ -85,6 +85,7 @@
 - [[ru/5. Каталог/Conjunction Fallacy]] — та же область вероятностных аксиом, только нарушается другое правило
 - [[ru/5. Каталог/Conservatism]] — обновление убеждений после обратной связи: стратегия, обретённая в обучении, меняется медленно
 
+- [[ru/5. Каталог/Subadditivity]] — нарушение правил сложения — самая частая причина того, что прогноз «70 %» не калибруется
 ## Источники
 
 - Shanks, D. R., Tunney, R. J., & McCarthy, J. D. (2002). A re-examination of probability matching and rational choice. *Journal of Behavioral Decision Making*, 15(3), 233-250. — [DOI](https://doi.org/10.1002/bdm.413)
