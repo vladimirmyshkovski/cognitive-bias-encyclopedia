@@ -6,7 +6,7 @@
 
 **Также известно как:** correspondence bias, attribution effect
 **Категория:** социальное (атрибуция)
-**Связанные:** [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Bias Blind Spot]], [[ru/5. Каталог/Egocentric Bias]], [[ru/5. Каталог/Trait Ascription Bias]]
+**Связанные:** [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/In-group Bias]], [[ru/5. Каталог/Halo Effect]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Bias Blind Spot]], [[ru/5. Каталог/Egocentric Bias]], [[ru/5. Каталог/Trait Ascription Bias]], [[ru/5. Каталог/Ultimate Attribution Error]]
 
 ---
 
@@ -94,6 +94,8 @@ FAE — это **фиксация через игнорирование конт
 - [[ru/5. Каталог/Egocentric Bias]] — то же смещение, но в объяснении причин поведения
 
 - [[ru/5. Каталог/Trait Ascription Bias]] — та же подмена вины: диспозиция вместо обстоятельств, только в форме «какой он»
+
+- [[ru/5. Каталог/Ultimate Attribution Error]] — исходная схема, к которой предельная ошибка добавляет измерение «свой — чужой»
 
 ## Источники
 

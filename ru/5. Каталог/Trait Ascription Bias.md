@@ -6,7 +6,7 @@
 
 **Также известно как:** trait ascription bias, actor–observer asymmetry, иллюзия асимметричной проницательности, illusion of asymmetric insight, «себя — переменных, других — постоянных», dispositional ascription
 **Категория:** социальное (приписывание черт)
-**Связанные:** [[ru/5. Каталог/Actor-Observer Bias]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Stereotyping]]
+**Связанные:** [[ru/5. Каталог/Actor-Observer Bias]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Stereotyping]], [[ru/5. Каталог/Ultimate Attribution Error]]
 
 ---
 
@@ -96,6 +96,8 @@
 - [[ru/5. Каталог/Actor-Observer Bias]] — ближайший родственник: свои действия мы объясняем ситуацией, чужие — чертами; здесь асимметрия доведена до устойчивости личности
 - [[ru/5. Каталог/Fundamental Attribution Error]] — та же подмена вины: диспозиция вместо обстоятельств, только в форме «какой он»
 - [[ru/5. Каталог/Stereotyping]] — приписывание черт по малому числу данных есть прямое условие образования стереотипа
+
+- [[ru/5. Каталог/Ultimate Attribution Error]] — предельная ошибка доводит приписывание черт до межгруппового масштаба: чужим достаётся устойчивый негативный набор черт
 
 ## Источники
 
