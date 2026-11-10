@@ -96,6 +96,7 @@ Stereotyping — **застревание в тезисе** через игно�
 - [[ru/5. Каталог/Self-Fulfilling Prophecy|Self-Fulfilling Prophecy]] — стереотипы могут создавать реальность
 
 - [[ru/5. Каталог/Cross-Race Effect]] — категориальная замена лица начинается с того, что лицо не различить
+
 ## Источники
 
 - Lippmann, W. (1922). *Public Opinion*. Harcourt, Brace and Company. — [скан](https://archive.org/details/publicopinion0000walt_t4w8)

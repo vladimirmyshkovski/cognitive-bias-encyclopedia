@@ -97,6 +97,7 @@ Bandwagon — это **фиксация через социальное давл
 - [[ru/5. Каталог/Survivorship Bias]] — мы видим успешных, последовавших за трендом; не видим провалившихся
 
 - [[ru/5. Каталог/Mob Mentality]] — толпа добавляет к следованию за большинством синхронность и эмоциональную заразу
+
 ## Источники
 
 - Asch, S. E. (1956). *Studies of independence and conformity: A minority of one against a unanimous majority*. Psychological Monographs, 70(9), 1-70. — [DOI](https://doi.org/10.1037/h0093718)

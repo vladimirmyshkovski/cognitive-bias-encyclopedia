@@ -97,6 +97,7 @@ Illusion of control — **застревание в тезисе**, невозм
 - [[ru/5. Каталог/Focusing Effect]] — «именно этот фактор всё решил» и есть фокус на одном аспекте
 
 - [[ru/5. Каталог/Attention Tunneling]] — сужение поля даёт ощущение полной картины, а значит, и ощущение управления ею
+
 ## Источники
 
 - Langer, E. J. (1975). *The illusion of control*. Journal of Personality and Social Psychology, 32(2), 311-328. — [DOI](https://doi.org/10.1037/0022-3514.32.2.311)

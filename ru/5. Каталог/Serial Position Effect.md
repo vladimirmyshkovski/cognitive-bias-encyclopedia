@@ -80,6 +80,7 @@
 - [[ru/5. Каталог/False Memory]] — восстановленное воспоминание занимает позицию настоящего события и получает соответствующий вес
 
 - [[ru/5. Каталог/Spacing Effect]] — интервал между повторениями меняет, что именно останется в памяти
+
 ## Источники
 
 - Ebbinghaus, H. (1885). *Über das Gedächtnis: Untersuchungen zur expementellen Psychologie* (Memory: A Contribution to Experimental Psychology). Duncker & Humblot. — [скан](https://archive.org/details/memorycontributi00ebbiuoft)

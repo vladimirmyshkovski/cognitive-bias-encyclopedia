@@ -93,6 +93,7 @@ Base rate fallacy — это **замещение общего частным**,
 - [[ru/5. Каталог/Insensitivity to Sample Size]] — та же подмена: «похожий случай» вместо частоты, только без оглядки на объём данных
 - [[ru/5. Каталог/Probability Matching]] — базовая ставка, которую сопоставление, наоборот, берёт буквально, а не игнорирует
 - [[ru/5. Каталог/Subadditivity]] — подробный частный случай вместо частоты: та же подмена, но через нарушение сложения
+
 ## Источники
 
 - Tversky, A., & Kahneman, D. (1973). *Availability: A heuristic for judging frequency and probability*. Cognitive Psychology, 5(2), 207-232. — [DOI](https://doi.org/10.1016/0010-0285(73)90033-9)

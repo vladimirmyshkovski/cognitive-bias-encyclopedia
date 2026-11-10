@@ -106,6 +106,7 @@ Optimism bias — это **фиксация через мотивацию**, н�
 - [[ru/5. Каталог/Focusing Effect]] — оптимизм держится на фокусе: один хороший фактор объясняет всё
 
 - [[ru/5. Каталог/Impact Bias]] — прогноз завышает и вероятность хорошего исхода, и величину его воздействия
+
 ## Источники
 
 - Weinstein, N. D. (1980). *Unrealistic optimism about future life events*. Journal of Personality and Social Psychology, 39(5), 806-820. — [DOI](https://doi.org/10.1037/0022-3514.39.5.806)

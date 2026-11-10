@@ -99,6 +99,7 @@ Inattentional Blindness — **застревание в тезисе** чере�
 
 - [[ru/5. Каталог/Change Blindness]] — родственная слепота: незамеченный объект целиком, а не незамеченное изменение
 - [[ru/5. Каталог/Attention Tunneling]] — сужается само поле внимания: незаметным оказывается всё, что вне выбранного канала
+
 ## Источники
 
 - Simons, D. J., & Chabris, C. F. (1999). *Gorillas in our midst: Sustained inattentional blindness for dynamic events*. Perception, 28(9), 1059-1074. — [DOI](https://doi.org/10.1068/p281059)

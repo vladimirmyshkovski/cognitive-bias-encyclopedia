@@ -85,6 +85,7 @@
 
 - [[ru/5. Каталог/Insensitivity to Sample Size]] — та же работа Тверски и Канемана, но про объём данных: малая выборка не представляет популяцию
 - [[ru/5. Каталог/Subadditivity]] — то же семейство нарушений аксиом: запись собирает оба направления, включая «сумма частей вероятнее целого»
+
 ## Источники
 
 - Tversky, A., & Kahneman, D. (1983). *Extensional versus intuitive reasoning: The conjunction fallacy*. Psychological Review, 90(4), 293-315. — [DOI](https://doi.org/10.1037/0033-295x.90.4.293)

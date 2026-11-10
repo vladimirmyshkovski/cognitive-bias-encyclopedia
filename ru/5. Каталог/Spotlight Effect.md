@@ -103,6 +103,7 @@ Spotlight effect — **застревание в тезисе**, невозмо�
 - [[ru/5. Каталог/Projection Bias]] — та же проекция в другую сторону: мы приписываем другим собственную заметность
 - [[ru/5. Каталог/Egocentric Bias]] — более общая основа: всё оценивается от собственной точки зрения
 - [[ru/5. Каталог/Egocentric Empathy Gap]] — зеркальная половина: чужую эмпатию мы недооцениваем, а строгость переоцениваем
+
 ## Источники
 
 - Gilovich, T., Medvec, V. H., & Savitsky, K. (2000). *The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance*. Journal of Personality and Social Psychology, 78(2), 211-222. — [DOI](https://doi.org/10.1037/0022-3514.78.2.211)

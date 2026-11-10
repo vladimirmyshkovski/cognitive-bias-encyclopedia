@@ -94,6 +94,7 @@ Source Confusion — **застревание на тезисе** через п�
 - [[Cryptomnesia]] — мы принимаем чужие идеи за свои
 
 - [[ru/5. Каталог/Mood-Congruent Memory]] — сходство с состоянием принимается за знакомство с самим событием
+
 ## Источники
 
 - Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). *Source monitoring*. Psychological Bulletin, 114(1), 3-28. — [DOI](https://doi.org/10.1037/0033-2909.114.1.3)

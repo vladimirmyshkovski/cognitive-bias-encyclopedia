@@ -97,6 +97,7 @@ Salience Bias — **застревание в тезисе** через смеш
 
 - [[ru/5. Каталог/Change Blindness]] — яркое привлекает внимание и замечается первым; незамеченное остаётся без следа
 - [[ru/5. Каталог/Attention Tunneling]] — яркое вытесняет остальное; туннель — предельный случай сужения до одного канала
+
 ## Источники
 
 - Bordalo, P., Gennaioli, N., & Shleifer, A. (2012). *Salience theory of choice under risk*. Quarterly Journal of Economics, 127(3), 1243-1285. — [DOI](https://doi.org/10.1093/qje/qjs018)

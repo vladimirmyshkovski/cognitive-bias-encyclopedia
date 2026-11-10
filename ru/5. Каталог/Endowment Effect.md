@@ -102,6 +102,7 @@ Endowment effect — **застревание в тезисе** через эм�
 - [[ru/5. Каталог/IKEA Effect]] — владение «заслуженное» трудом, поэтому оценка выше
 
 - [[ru/5. Каталог/Egocentric Empathy Gap]] — добавка от владения невидима покупателю, и потому кажется ему нажимом
+
 ## Источники
 
 - Thaler, R. (1980). *Toward a positive theory of consumer choice*. Journal of Economic Behavior & Organization, 1(1), 39-60. — [DOI](https://doi.org/10.1016/0167-2681(80)90051-7)

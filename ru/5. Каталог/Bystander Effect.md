@@ -108,6 +108,7 @@ Bystander Effect — **застревание в тезисе** через ди�
 
 - [[ru/5. Каталог/Deindividuation]] — распределение ответственности как механизм неоказания помощи
 - [[ru/5. Каталог/Mob Mentality]] — в толпе распределение ответственности доводится до конца: отвечает «никто»
+
 ## Источники
 
 - Darley, J. M., & Latané, B. (1968). *Bystander intervention in emergencies: Diffusion of responsibility*. Journal of Personality and Social Psychology, 8(4p1), 377. — [DOI](https://doi.org/10.1037/h0025589)

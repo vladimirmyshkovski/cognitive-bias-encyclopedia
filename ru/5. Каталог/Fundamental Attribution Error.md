@@ -92,6 +92,7 @@ FAE — это **фиксация через игнорирование конт
 
 - [[ru/5. Каталог/Bias Blind Spot]] — та же асимметрия объяснений, только направленная на себя и других одновременно
 - [[ru/5. Каталог/Egocentric Bias]] — то же смещение, но в объяснении причин поведения
+
 ## Источники
 
 - Ross, L. (1977). *The intuitive psychologist and his shortcomings: Distortions in the attribution process*. Advances in Experimental Social Psychology, 10, 173-220. — [DOI](https://doi.org/10.1016/s0065-2601(08)60357-3)

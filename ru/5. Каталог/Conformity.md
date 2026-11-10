@@ -99,6 +99,7 @@ Conformity — **застревание в тезисе** через групп�
 
 - [[ru/5. Каталог/Deindividuation]] — подчинение группе без потери личного стандарта
 - [[ru/5. Каталог/Mob Mentality]] — конформность на уровне отдельного человека; толпа — на уровне коллектива, с собственной логикой
+
 ## Источники
 
 - Asch, S. E. (1956). *Studies of independence and conformity: A minority of one against a unanimous majority*. Psychological Monographs, 70(9), 1-70. — [DOI](https://doi.org/10.1037/h0093718)

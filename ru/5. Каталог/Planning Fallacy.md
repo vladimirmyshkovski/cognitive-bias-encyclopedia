@@ -101,6 +101,7 @@ Planning fallacy — **застревание в тезисе** через иг�
 - [[ru/5. Каталог/Outcome Bias]] — та же ошибка в прошлом: оценка решения по факту, а не по расчёту
 
 - [[ru/5. Каталог/Impact Bias]] — та же завышенная оценка, перенесённая на сроки и ресурсы проекта
+
 ## Источники
 
 - Kahneman, D., & Tversky, A. (1979). *Intuitive prediction: Biases and corrective procedures*. In D. Kahneman, P. Slovic & A. Tversky (Eds.), *Judgment under uncertainty: Heuristics and biases* (pp. 414-421). Cambridge University Press. — [DOI](https://doi.org/10.1017/CBO9780511809477.031)

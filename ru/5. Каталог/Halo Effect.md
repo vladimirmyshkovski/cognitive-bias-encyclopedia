@@ -99,6 +99,7 @@ Halo — это **фиксация через одну черту**, невоз�
 - [[ru/5. Каталог/Mere Exposure Effect]] — частота контакта повышает привлекательность, а привлекательность работает как halo
 
 - [[ru/5. Каталог/Cheerleader Effect]] — halo перекрашивает оценку, статистика группы делает то же со свойствами лица
+
 ## Источники
 
 - Nisbett, R. E., & Wilson, T. D. (1977). *The halo effect: Evidence for unconscious alteration of judgments*. Journal of Personality and Social Psychology, 35(4), 250-256. — [DOI](https://doi.org/10.1037/0022-3514.35.4.250)

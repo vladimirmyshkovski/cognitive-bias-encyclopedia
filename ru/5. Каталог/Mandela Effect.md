@@ -90,6 +90,7 @@ Mandela Effect — **застревание в тезисе** через дов�
 - [[Source Confusion]] — мы путаем источник
 
 - [[ru/5. Каталог/Change Blindness]] — там искажена память, здесь — восприятие: механизмы разные
+
 ## Источники
 
 - Broome, F. (2010). *Nelson Mandela Died in Prison?* MandelaEffect.com. [URL](https://mandelaeffectsite.wordpress.com/2010/09/09/nelson-mandela-died-in-prison/)
