@@ -6,7 +6,7 @@
 
 **Также известно как:** actor-observer bias, actor-observer asymmetry
 **Категория:** само (объяснение собственных и чужих действий)
-**Связанные:** [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Naive Realism]], [[ru/5. Каталог/Stereotyping]], [[ru/5. Каталог/Egocentric Bias]]
+**Связанные:** [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Naive Realism]], [[ru/5. Каталог/Stereotyping]], [[ru/5. Каталог/Egocentric Bias]], [[ru/5. Каталог/Trait Ascription Bias]]
 
 ---
 
@@ -82,6 +82,8 @@
 - [[ru/5. Каталог/Stereotyping]] — оценочный ярлык, доставшийся «всем понятно», приписывает черту человеку, а не ситуации
 
 - [[ru/5. Каталог/Egocentric Bias]] — сквозная настройка, из которой асимметрия объяснений и вырастает
+
+- [[ru/5. Каталог/Trait Ascription Bias]] — ближайший родственник: свои действия мы объясняем ситуацией, чужие — чертами; здесь асимметрия доведена до устойчивости личности
 
 ## Источники
 
