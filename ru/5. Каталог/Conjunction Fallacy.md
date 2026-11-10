@@ -6,7 +6,7 @@
 
 **Также известно как:** conjunction fallacy, Linda problem, conjunction rule violation
 **Категория:** суждение (оценка вероятности)
-**Связанные:** [[ru/5. Каталог/Base Rate Fallacy]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Gambler's Fallacy]]
+**Связанные:** [[ru/5. Каталог/Base Rate Fallacy]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Gambler's Fallacy]], [[ru/5. Каталог/Insensitivity to Sample Size]]
 
 ---
 
@@ -83,6 +83,7 @@
 - [[ru/5. Каталог/Confirmation Bias]] — подробность описания подбирается под уже принятый вывод
 - [[ru/5. Каталог/Gambler's Fallacy]] — та же неверная интуиция: прошлое не влияет на независимое будущее
 
+- [[ru/5. Каталог/Insensitivity to Sample Size]] — та же работа Тверски и Канемана, но про объём данных: малая выборка не представляет популяцию
 ## Источники
 
 - Tversky, A., & Kahneman, D. (1983). *Extensional versus intuitive reasoning: The conjunction fallacy*. Psychological Review, 90(4), 293-315. — [DOI](https://doi.org/10.1037/0033-295x.90.4.293)

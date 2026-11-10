@@ -6,7 +6,7 @@
 
 **Также известно как:** overconfidence bias, overprecision, overestimation
 **Категория:** само (оценка собственных знаний и способностей)
-**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Better-Than-Average Effect]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Placebo Effect]]
+**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Better-Than-Average Effect]], [[ru/5. Каталог/Optimism Bias]], [[ru/5. Каталог/Anchoring]], [[ru/5. Каталог/Placebo Effect]], [[ru/5. Каталог/Insensitivity to Sample Size]]
 
 ---
 
@@ -102,6 +102,7 @@ Overconfidence — **застревание в тезисе** через игн�
 - [[ru/5. Каталог/Curse of Knowledge]] — иллюзия полноты знания
 - [[ru/5. Каталог/Placebo Effect]] — уверенность в благополучном исходе сама работает на исход
 
+- [[ru/5. Каталог/Insensitivity to Sample Size]] — малая выборка порождает уверенность, которой не соответствует
 ## Источники
 
 - Moore, D. A., & Healy, P. J. (2008). *The trouble with overconfidence*. Psychological Review, 115(2), 502-517. — [DOI](https://doi.org/10.1037/0033-295x.115.2.502)
