@@ -6,7 +6,7 @@
 
 **Также известно как:** in-group favoritism, tribalism
 **Категория:** социальное
-**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Bandwagon Effect]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Cultural Bias]], [[ru/5. Каталог/Cross-Race Effect]], [[ru/5. Каталог/Cheerleader Effect]], [[ru/5. Каталог/Ethnocentrism]]
+**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Bandwagon Effect]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Cultural Bias]], [[ru/5. Каталог/Cross-Race Effect]], [[ru/5. Каталог/Cheerleader Effect]], [[ru/5. Каталог/Ethnocentrism]], [[ru/5. Каталог/Moral Credentialism]]
 
 ---
 
@@ -95,6 +95,8 @@ In-group bias — это **фиксация коллективной метаф�
 - [[ru/5. Каталог/Cross-Race Effect]] — преимущество своей группы действует и на уровне восприятия лиц
 - [[ru/5. Каталог/Cheerleader Effect]] — у человека «своих» привлекательность в контексте растёт сильнее
 - [[ru/5. Каталог/Ethnocentrism]] — позитивная сторона этноцентризма: предпочтение своей группы в распределении благ и оценок
+
+- [[ru/5. Каталог/Moral Credentialism]] — групповая идентичность — условие, при котором чужой поступок превращается в ваш credential
 
 ## Источники
 

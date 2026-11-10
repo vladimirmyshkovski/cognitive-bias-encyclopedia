@@ -6,7 +6,7 @@
 
 **Также известно как:** self-serving bias, egocentric bias
 **Категория:** само (атрибуция)
-**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Bias Blind Spot]]
+**Связанные:** [[ru/5. Каталог/Dunning-Kruger]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Fundamental Attribution Error]], [[ru/5. Каталог/Bias Blind Spot]], [[ru/5. Каталог/Moral Credentialism]]
 
 ---
 
@@ -100,6 +100,8 @@ Self-serving bias — это **застревание в тезисе «я мо�
 - [[ru/5. Каталог/Optimism Bias]] — мы переоцениваем свои шансы на успех
 
 - [[ru/5. Каталог/Bias Blind Spot]] — более общая форма: мы не замечаем искажений у себя вовсе
+- [[ru/5. Каталог/Moral Credentialism]] — та же подмена: объяснение своего поступка через качества, а не через обстоятельства, только в форме «я хороший»
+
 ## Источники
 
 - Miller, D. T., & Ross, M. (1975). *Self-serving biases in the attribution of causality: Fact or fiction?*. Psychological Bulletin, 82(2), 213-225. — [DOI](https://doi.org/10.1037/h0076486)

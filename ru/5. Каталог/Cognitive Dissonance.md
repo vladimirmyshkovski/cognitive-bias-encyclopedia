@@ -6,7 +6,7 @@
 
 **Также известно как:** теория когнитивного диссонанса, cognitive dissonance
 **Категория:** само (согласованность убеждений)
-**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Backfire Effect]]
+**Связанные:** [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Self-serving Bias]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[ru/5. Каталог/Backfire Effect]], [[ru/5. Каталог/Moral Credentialism]]
 
 ---
 
@@ -87,6 +87,8 @@ Dissonance — это **фиксация тезиса через искажен�
 - [[ru/5. Каталог/Sunk Cost Fallacy]] — мы продолжаем, чтобы оправдать прошлые вложения
 - [[ru/5. Каталог/Backfire Effect]] — опровержение может **усилить** dissonance, что ведёт к рационализации
 - [[ru/5. Каталог/Effort Justification]] — мы оправдываем вложенное усилие, чтобы избежать dissonance
+
+- [[ru/5. Каталог/Moral Credentialism]] — рационализация: credential снимает противоречие между «я хороший» и «я поступил плохо»
 
 ## Источники
 
