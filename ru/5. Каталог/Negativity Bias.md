@@ -6,7 +6,7 @@
 
 **Также известно как:** negativity effect, negativity dominance, negativity principle
 **Категория:** внимание (приоритет негативной информации)
-**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Survivorship Bias]]
+**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Availability Heuristic]], [[ru/5. Каталог/Spotlight Effect]], [[ru/5. Каталог/Survivorship Bias]], [[ru/5. Каталог/Hedonic Adaptation]]
 
 ---
 
@@ -105,6 +105,8 @@ Negativity bias — **застревание в тезисе угрозы**, н�
 - [[ru/5. Каталог/Spotlight Effect]] — мы переоцениваем, как другие оценивают наши провалы
 - [[ru/5. Каталог/Survivorship Bias]] — фокус на провалах (а не успехах) может быть обратной стороной
 - [[ru/5. Каталог/Better-Than-Average Effect]] — мы верим, что мы хуже, чем другие (в случае плохих новостей)
+
+- [[ru/5. Каталог/Hedonic Adaptation]] — негативные события адаптируются хуже и заслоняют позитивный опыт
 
 ## Источники
 
