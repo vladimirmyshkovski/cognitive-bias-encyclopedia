@@ -6,7 +6,7 @@
 
 **Также известно как:** false memory syndrome, false recall, pseudomemory
 **Категория:** память (создание воспоминаний о событиях, которых не было)
-**Связанные:** [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Source Confusion]], [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Spacing Effect]], [[ru/5. Каталог/Reminiscence Bump]], [[ru/5. Каталог/Zeigarnik Effect]], [[ru/5. Каталог/Telescoping Effect]]
+**Связанные:** [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Source Confusion]], [[ru/5. Каталог/Hindsight Bias]], [[ru/5. Каталог/Confirmation Bias]], [[ru/5. Каталог/Spacing Effect]], [[ru/5. Каталог/Reminiscence Bump]], [[ru/5. Каталог/Zeigarnik Effect]], [[ru/5. Каталог/Telescoping Effect]], [[ru/5. Каталог/State-Dependent Memory]]
 
 ---
 
@@ -97,6 +97,8 @@ False Memory — **застревание в тезисе** через дове�
 - [[ru/5. Каталог/Reminiscence Bump]] — плотная сеть ассоциаций юности делает ложные детали правдоподобными
 - [[ru/5. Каталог/Zeigarnik Effect]] — руминация по незакрытому делу укрепляет и искажённые версии
 - [[ru/5. Каталог/Telescoping Effect]] — событие «помнится», а значит, «случилось»
+
+- [[ru/5. Каталог/State-Dependent Memory]] — состояние-зависимость объясняет провалы в памяти, но не подмену события: воспроизведённое и вытесненное — разные механизмы
 
 ## Источники
 

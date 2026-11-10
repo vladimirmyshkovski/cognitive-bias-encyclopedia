@@ -6,7 +6,7 @@
 
 **Также известно как:** mood-congruent memory, mood-dependent memory, настроенчески-согласованная память
 **Категория:** память (зависимость запоминания от состояния)
-**Связанные:** [[ru/5. Каталог/False Memory]], [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Source Confusion]], [[ru/5. Каталог/Serial Position Effect]], [[ru/5. Каталог/Self-Reference Effect]]
+**Связанные:** [[ru/5. Каталог/False Memory]], [[ru/5. Каталог/Misinformation Effect]], [[ru/5. Каталог/Source Confusion]], [[ru/5. Каталог/Serial Position Effect]], [[ru/5. Каталог/Self-Reference Effect]], [[ru/5. Каталог/State-Dependent Memory]]
 
 ---
 
@@ -82,6 +82,8 @@
 - [[ru/5. Каталог/Serial Position Effect]] — крайние позиции запоминаются лучше, и настроение при этом — фон, а не содержание
 
 - [[ru/5. Каталог/Self-Reference Effect]] — та же логика совпадения, только по настроению: материал, совпадающий с состоянием, запоминается лучше
+
+- [[ru/5. Каталог/State-Dependent Memory]] — ближайший родственник и главный конкурент за объяснение: вспоминаем ли мы по совпадению состояний или по совпадению содержания
 
 ## Источники
 
