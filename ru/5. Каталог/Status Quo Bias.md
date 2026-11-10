@@ -6,7 +6,7 @@
 
 **Также известно как:** status quo bias, default effect, inertia
 **Категория:** суждение (принятие решений)
-**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[Endowment Effect]], [[ru/5. Каталог/Appeal to Novelty]], [[ru/5. Каталог/Appeal to Tradition]]
+**Связанные:** [[ru/5. Каталог/Loss Aversion]], [[ru/5. Каталог/Sunk Cost Fallacy]], [[Endowment Effect]], [[ru/5. Каталог/Appeal to Novelty]], [[ru/5. Каталог/Appeal to Tradition]], [[ru/5. Каталог/Functional Fixedness]]
 
 ---
 
@@ -89,6 +89,8 @@ Status quo bias — это **сопротивление диалектическ
 - [[ru/5. Каталог/Appeal to Novelty]] — второй полюс той же пары: «старое лучше» ошибается зеркально
 
 - [[ru/5. Каталог/Appeal to Tradition]] — статус-кво держится привычкой: «так принято» работает как обоснование
+
+- [[ru/5. Каталог/Functional Fixedness]] — привычный способ есть статус-кво способа
 
 ## Источники
 
